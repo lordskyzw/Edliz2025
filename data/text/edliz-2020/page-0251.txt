@@ -1,0 +1,66 @@
+EDLIZ 2020
+Medicine Codes Adultdose Frequency Duration
+salbutamol Inhaler C V 200mcg’ PRN
+
+. If no improvement add:
+
+Medicine Codes Adultdose Frequency Duration
+ipratropium inhaler A V 400mcg’ PRN
+
+. If the patient has frequent to persistent symptoms of
+
+breathlessness and frequent exacerbations (more than 1 per year)
+refer to a specialist whilst trying the following:
+Medicine Codes Adultdose Frequency Duration
+beclomethasone B V 200mcg twiceaday PRN
+plus inhaler
+salbutamol Inhaler C V_ 200mcg PRN
+
+. Alternatively adding Theophylline SR 250-500mg PO once daily
+
+may be helpful if patients remain symptomatic.
+
+. Provide pulmonary rehabilitation
+
+. Provide nutritional support
+
+. Vaccinations: Influenza and pneumococcal vaccines
+
+. Enquire about symptoms of gastroeosophageal reflux disease
+
+(GERD) and treat.
+
+Bronchiectasis (Non cystic fibrosis)
+
+The hallmark of treatment are:
+
+» Prompt treatment of infective exacerbations with broad spectrum
+antibiotics. Exacerbations are characterized by an increase in volume
+of sputum, change in sputum colour from white to yellowish or green
+plus a fever.
+
+» Referral to physiotherapist for postural drainage and physiotherapy.
+
+» Always send sputum to the laboratory for microscopy, culture and
+sensitivity together with ZN stain.
+
+» To prevent exacerbations, patients should get an annual flu vaccine
+and a five yearly pneumococcal vaccine.
+
+» Frank haemoptysis warrants referral to a Specialist.
+
+Acute Exacerbations of Bronchiectasis
+
+e Infectious aetiology includes S. pneumonia, H. influenza, P.
+aeruginosa, Moraxella, Mycobacteria and sometimes fungi.
+
+e Antibiotics should be chosen to empirically cover pathogens.
+Adjust treatment when microbiology results are available.
+
+e Inhaled bronchodilators
+
+e Good hydration
+
+e Chest physiotherapy and postural drainage
+
+233

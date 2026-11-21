@@ -1,0 +1,64 @@
+EDLIZ 2020
+
+should be provided with the commencement of the TB therapy if the patient
+
+is not on it already.
+
+Patients who develop TB when already on ART
+
+Treat TB as per national TB guidelines.
+
+USE OF ARVS IN PATIENTS WITH CRYPTOCOCCAL
+
+MENINGITIS
+
+Prevention of Cryptococcal Disease
+
+Patients initiating ART with undiagnosed cryptococcal disease are at higher
+
+risk of early mortality than patients who are pre-emptively diagnosed and
+
+treated for cryptococcal disease. All patients initiating ART should be clinically
+screened for evidence of symptomatic cryptococcal disease — headache,
+neck stiffness, fever, focal neurologic signs, confusion, and altered mental
+status. All those who screen positive should be referred for further diagnostic
+work up for meningitis. Screening of asymptomatic ART naive individuals with
+
+CD4 count <100cells/mm3 is recommended and should be done with a
+
+Cryptococcal neoformans antigen test (CrAg) using latex agglutination tests
+
+(LA) or lateral flow assays (LFA) on serum, plasma or CSF. A lumbar
+
+puncture should be offered to individuals who screen positive for cryptococcal
+
+antigen, as a positive cryptococcal antigen may precede the onset of clinical
+cryptococcal meningitis by many weeks.
+
+Individuals who are screened for cryptococcal disease should be managed
+
+as indicated in Table 9.2.
+
+Table 9.2: Treatment decisions for asymptomatic cryptococcal disease
+Serum No LP necessary. No fluconazole required. Initiate ART.
+CrAg
+negative
+Serum If available recommend LP:
+
+CrAg
+
+positive
+
+|__| _If CSF CrAg positive, manage for cryptococcal meningitis
+
+If CSF CrAg negative treat with Fluconazole 800mg orally
+once daily for 2 weeks, then Fluconazole 400mg orally
+daily for 8 weeks, followed by maintenance therapy with
+Fluconazole 200mg orally daily until CD4>200 cells/mm
+for 6 months
+
+Timing of ART for individuals with asymptomatic cryptococcal antigenemia is
+
+unknown. We recommend initiation of ART 2-4 weeks after initiation of
+
+162

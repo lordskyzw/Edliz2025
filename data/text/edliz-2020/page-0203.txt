@@ -1,0 +1,52 @@
+EDLIZ 2020
+
+e Children under the age of 5 years.
+
+e People living with HIV.
+
+e Those who are malnourished.
+
+e People above 60 years of age.
+
+e People with diabetes mellitus.
+
+e People who drink alcohol excessively.
+
+e Miners and ex-miners.
+
+e People in congregate settings.
+
+e Inmates and correctional facility communities.
+
+e Health care workers.
+
+Note: In the presence of clinical improvement, it is not necessary to
+
+monitor the response of pulmonary TB to treatment by chest x-rays.
+
+Tuberculin Testing
+
+Table 10.3: Tuberculin Skin Testing
+
+Medicine Codes Dose Frequency Duration
+tuberculin, purified B E 0.1ml - -
+
+(PPD) 1:1000 (=5TU)
+
+intradermal
+
+Examine induration at 48-72 hours.
+
+e A positive tuberculin skin test (person with normal immunity:
+induration > 10 mm, person with defective immunity: induration
+> 5 mm) may indicate active infection (especially if strongly
+positive), previous infection or previous BCG.
+
+e Absence of a response does not exclude TB because individuals
+with HIV may not have sufficient immunity for a positive skin test
+despite active TB.
+
+e If achild under 3 years of age has not had BCG, the Mantoux test
+may be useful.
+
+185

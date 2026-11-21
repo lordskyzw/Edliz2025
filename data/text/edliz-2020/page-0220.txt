@@ -1,0 +1,64 @@
+EDLIZ 2020
+
+based on clinical manifestations and/ or skin smear results. In the
+
+classification based on skin smear results, patients showing negative
+
+smears at all sites are grouped as paucibacillary leprosy (PB), while those
+showing positive smears at any site are grouped as having multibacillary
+leprosy (MB).
+
+The clinical system of classification for the purpose of treatment includes
+
+the use of the number of lesions and nerves involved as the basis for
+
+grouping leprosy patients into MB and PB. The clinical classification is
+shown below:
+
+Classification of leprosy
+
+| Sie__—_—|__Paucipacitary Leprosy | MULTIBACILLARY LEPROSY _|
+Skin Lesions 1-5 lesions asymmetrically More than 5 lesions.
+
+distributed with definite loss | Distributed more
+of sensation symmetrically. With or
+without loss of sensation
+Nerve Only one nerve trunk Many nerve trunks involved
+enlargement involved
+
+Any patient showing a positive skin smear should be treated with the MDT
+
+regimen for multibacillary (MB) leprosy, irrespective of the clinical
+
+classification. When classification is in doubt, the patient should be treated
+as MB leprosy.
+
+Primary Prevention
+
+Screening of family contacts should be performed.
+
+Medicine Codes Adultdose Frequency Duration
+BCG vaccine C V_ see section on Immunisation
+Treatment of Paucibacillary Patients
+Medicine Codes Adultdose Frequency Duration
+dapsone po B V_ 100mg once aday 6 months
+Paed = 1-2mg/kg
+
+and rifampicin po B V_ 600mg once a 6 months
+supervised dose Paed =10-15mg/ month
+
+KG
+
+* but not less than 150 mg of rifampicin
+
+Treatment of Multibacillary Patients
+
+Duration of therapy is now reduced to 12 months, with adequate education
+
+and follow up.
+
+« At the time of stopping treatment, it is important to educate the patients
+about the signs and symptoms or relapse and reaction and request them
+to come back immediately.
+
+202

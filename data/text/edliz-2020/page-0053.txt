@@ -1,0 +1,35 @@
+EDLIZ 2020
+Neonatal Infections
+Table 4.3: Gentamicin dosages:
+Premature or full-term neonates
+Weight [Age (| Dose | Frequency ————SSS—=SY
+less than1000gm 28 weeks 5mg/kg Once every 48 hours for first
+two weeks, then once every 36
+hours.
+1000g to 2000g 5mg/kg Less than 1 week old once
+every 48hours
+more than >1-week-old
+once every 36hours
+More than 2000g Less 1 week old | 4mg/kg Once every
+1 week and 24hours Once
+above every 24-48hrs
+There are usually few localising signs in infants, and accurate diagnosis may
+not be possible. The following regimens are recommended for suspected
+sepsis.
+Suspected sepsis in first 48hrs:
+Medicine Codes Paeddose_ Freq. Duration
+benzylpenicillinim/iv C  V_ 0.1MU/kg Table 4.1. 10 days
+and gentamicin im/liv C V_— 2.5mg/kg Table 4.3 10 days
+Suspected sepsis after 48hrs:
+Medicine Codes Paed dose Freq. Duration
+gentamicinimliv C Vs 2.5mg/kg Table 4.3 10 days
+and cloxacillin im/iv B Vs. 330mg/kg Table 4.1 10 days
+Kanamycin 7.5mg/kg/dose BD can be used if gentamicin unavailable
+Meningitis:
+Medicine Codes Paeddose _ Freq. Duration
+benzylpenicillin c V0.AMU/kg Table 4.1 14-21 days
+imliv
+and — gentamicin imliv c VV 2.5mg/kg Table 4.3
+and chloramphenicoliv B Vs 12.5mg/kg Table 4.1
+Ampicillin can be used if benzyl penicillin is not available: dose= 50mg/kg
+35

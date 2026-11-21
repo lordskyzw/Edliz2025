@@ -1,0 +1,48 @@
+EDLIZ 2020
+
+. Prednisolone dose in wheezing:
+
+Medicine Codes  Paed dose Frequency Duration
+prednisolone BV <lyr =10mg Once repeat in 6hrs
+po if reqd.
+
+>lyr =20mg
+
+. If a rapid acting bronchodilator is required:
+
+Medicine Codes Paed dose Frequency Duration
+salbutamol BV <1yr = as
+nebulised 5mg/ml 2.5m ‘required
+in 2ml sterile water >tyr g
+5mg
+or salbutamol syrup BV 2-12mnths = 3 times -
+po img aday
+1-5yrs
+2mg
+or adrenaline c Vv 0.0imi/kg up to a repeat after
+subcutaneously max of 0.25ml 20mins if
+1:1000 required
+
+If asthma is suspected refer to Asthma section for detailed
+
+management
+
+Stridor
+
+Definition: Harsh noise made when a child breathes in
+
+Management of croup at the primary level
+
+. If no stridor at rest, do not give antibiotics.
+
+. If there is stridor at rest or chest indrawing or fast breathing refer
+urgently to hospital for possible intubation or tracheostomy and a
+course of cloxacillin and chloramphenicol.
+
+Mild croup
+
+. Stridor present only when upset.
+
+. Likely to be of viral origin. An antibiotic is not required. Home care.
+
+53

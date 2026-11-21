@@ -1,0 +1,53 @@
+EDLIZ 2020
+TREATMENT OF CRYPTOCOCCAL MENINGITIS
+Cryptococcal meningitis is caused by Cryptococcus neoformans. It is less
+acute in onset than bacterial meningitis and may occur as part of the Immune
+Reconstitution Syndrome (IRIS). Diagnosis is confirmed by India Ink Stain
+and cryptococcal antigen tests (CrAg) in the cerebrospinal fluid after LP.
+Treatment of cryptococcal disease must be with amphotericin B based
+regimens. Ideally amphotericin B must be combined with flucytosine.
+However, combination therapy with amphotericin B and fluconazole is
+recommended as flucytosine is not available. In the absence of
+amphotericin B, high dose fluconazole can be used as an alternative
+therapy. Amphotericin B and fluconazole therapy is characterised by a 2-
+week induction phase, followed by 8 weeks consolidation phase and a
+maintenance therapy which is continued until adequate immune
+reconstitution is achieved.
+Diagnosis of cryptococcal meningitis is based on either LP positive CSF
+CrAg /India Ink stain or positive serum CrAg plus headache or relevant
+symptoms
+Pay attention to raised CSF pressure management and monitoring of
+renal function as per the Consolidated ART Guidelines.
+
+Medicine Codes Adult Frequency Duration
+dose
+amphotericin B iv B V_ 0.7mg/kg onceaday 2weeks
+
+(infusion)
+Give KCI 1.2g PO BD,
+and MMT 500mg PO
+BD to prevent
+hypokalaemia and
+__fypomagnaesemia
+plus fluconazole po B V_ 1200mg  onceaday 2weeks
+then fluconazole po B V_ 800mg onceaday 8 weeks
+then fluconazole po B V 200mg once a day until CD4 count
+for at least >200 cells/mm3
+one year. for 6
+months
+and VL
+less than
+1000copi
+es per ml
+for
+6months
+If flucytosine is available:
+Medicine Codes Adult dose Frequency Duration
+amphotericin B iv B V_ 1mg/kg onceaday 1 weeks
+(infusion)
+Give KCI 1.2g PO BD,
+and MMT 500mg PO
+BD to prevent
+hypokalaemia and
+____fypomagnaesemig,
+142

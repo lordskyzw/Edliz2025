@@ -1,0 +1,34 @@
+EDLIZ 2020
+Multidrug resistance | Resistance to at least both H and R
+(MDR-TB)
+Fluoroquinolone Resistance to fluoroquinolones with or
+resistant tuberculosis without resistance to other anti-TB
+drugs.
+Rifampicin Resistance Resistance to rifampicin with or without
+(RR) resistance to other anti-TB drugs,
+including any resistance to Rifampicin
+(i.e. including mono- and _ poly-
+resistance.)
+In Zimbabwe, most of patients are enrolled into the DR-TB treatment
+programme following an Xpert MTB/Rif test confirming resistance to
+rifampicin (MTB Detected/ Rif Resistance Detected.) Such patients
+receive the MDR-TB treatment regimen recommended (refer to
+Clinical Management of Drug Resistant Tuberculosis Guidelines).
+While patients may have documented risk factors that predispose
+them to DR-TB, patients may also present with a primary episode of
+DR-TB with no apparent risk factors. Risk factors for developing DR-
+TB (or worsening the pattern or resistance) include the following:
+e Patients who remain (or again become smear positive) during or
+after completing a TB treatment regimen.
+e Improper treatment of TB/DR-TB which includes treatment
+interruptions, incorrect doses for the patient's weight
+e Contact with a DRTB patient
+e ~=HIV infection
+e Residence in high burden DRTB regions
+The management of MDR-TB or XDR-TB cases is rapidly changing
+with emerging evidence on more patient friendly and effective
+regimens. The drugs and drug grouping used in the treatment of DR-
+TB is shown in table 10.12. For the latest guidance and practice
+recommendations on the management of DR-TB, please refer to the
+Clinical Management of Drug Resistant Tuberculosis Guidelines.
+191

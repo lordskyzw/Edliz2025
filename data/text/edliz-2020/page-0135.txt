@@ -1,0 +1,29 @@
+EDLIZ 2020
+Medicine Codes Adult dose Frequency Duration
+ceftriaxone im C V_ 250mg one dose only
+or kanamycin im C V_= 2g(igineach one dose only
+buttock)
+and doxycyclinepo C V_ 100mg twice a day 7 days
+or azithromycinpo C V_ 1g one dose only
+. If the patient still has a urethral discharge, or evidence of urethritis 7 days
+after start of treatment, suspect re-infection, poor treatment compliance or
+antimicrobial resistance in Neisseria gonorrhoeae. If re-infection is
+suspected re-start first line treatment.
+Otherwise treat the patient with second line therapy or refer for investigations
+and laboratory guided treatment.
+Second Line:
+Medicine Codes Adultdose Frequency Duration
+ceftriaxone im Cc V_ 500mg one dose only
+or cefixime po B V_ 400mg one dose only
+and metronidazole po Cc V 2g one dose only
+and doxycycline po C V_ 100mg twiceaday 7 days
+(Dependent on 1“ line
+Rx* if 1st line
+Azithromycin)
+or azithromycin po Cc V_ 1g stat then 3 days
+(if 15 line doxycycline) 500mg od
+for 2 days
+* New evidence suggests this approach which is updated from Zimbabwe
+STI guidelines
+If these medicines are not available locally, refer to the next level.
+117

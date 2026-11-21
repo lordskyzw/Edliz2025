@@ -1,0 +1,69 @@
+EDLIZ 2020
+
+haematuria or positive urine strip test for blood and or protein. Refer all
+
+suspected cases of Schistosoma mansoni for further investigations,
+
+particularly in the older patient.
+
+NB. In female patients exclude haematuria caused by menstruation
+
+S. Mansoni
+
+Most patients with S. Mansoni infection have minimal or no symptoms
+
+unless there is heavy infestation. Infection should be suspected in young
+
+patients with unexplained iron deficiency anaemia, hepatosplenomegaly or
+non-resolving chronic salmonella infections.
+
+Occasionally patients may present with dysentery like symptoms when
+
+colonic polyps due to S. Mansoni ulcerate and bleed.
+
+Treatment:
+
+S. Haematobium
+
+Medicine Codes Children Frequency Duration
+and Adult
+dose
+
+praziquantelpo C E 40mg/kg one dose only
+
+S. Mansoni:
+
+Medicine Codes Adult dose Frequency Duration
+praziquantelpo C E 40 mg/kg onceaday repeat at4
+weeks
+
+General notes:
+
+« Do not give praziquantel in pregnancy. Treat after delivery.
+
+«  Praziquantel is generally available as a double-scored 600mg tablets.
+Using a 40mg/kg body weight dose, the patient should be given a dose
+to the nearest quarter tablet (150mg).
+
+Example: The dose for a 70 kg person is 2800 mg (70kg x
+40mg). The patient should be given four- and three-quarter
+tablets (2850 mg, the closest convenient dose).
+
+Treatment with praziquantel will also eliminate any roundworm infestation.
+
+In Mass Drug Administration (MDA campaign) a dose pole is used for
+
+administration of praziquantel.
+
+KATAYAMA SYNDROME
+
+This is a severe immunological reaction to recent heavy infection with
+
+Schistosoma mansoni or haematobium causing fever and acute serum
+
+sickness. Treat with:
+
+Medicine Codes Adultand Frequency Duration
+children
+dose
+198

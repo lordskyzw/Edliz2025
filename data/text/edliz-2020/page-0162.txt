@@ -1,0 +1,46 @@
+EDLIZ 2020
+Management of Raised Intracranial Pressure (ICP)
+Mortality and morbidity from cryptococcal meningitis are high with a
+significant proportion attributable to raised intracranial pressure (ICP).
+Clinical features of raised intracranial pressure include headache, nausea &
+vomiting, reduced vision or hearing, change in mental status or reduced level
+of consciousness, seizures, 6th cranial nerve palsy or other focal neurology.
+Management of raised ICP is critical to ensure good clinical outcomes. CSF
+pressure can be measured using a CSF manometer or improvisation using
+an IV fluid tubing and a ruler or tap measure. If the ICP is > 20cm of water,
+remove maximum 20-25ml of CSF using daily therapeutic LPs until the CSF
+pressure is less than 20cm or half the baseline pressure if this was extremely
+high. The LP might need to be repeated more than once a day if the CSF
+pressure is grossly elevated and symptoms recur quickly despite the initial
+therapeutic LP on a given day. If the CSF pressure cannot be measured then
+take off a maximum of 20mls CSF.
+Management of Amphotericin B associated toxicities
+Liposomal amphotericin B has less renal toxicities. Amphotericin B
+deoxycholate is associated with renal tubular toxicities and can lead to
+electrolyte abnormalities such as hypokalemia and hypomagnesemia. It can
+also result in anaemia and administration related febrile reactions.
+
+e Amphotericin B is often provided as a powder and should be mixed
+with 5% dextrose water. It should NEVER be mixed with normal saline
+or half normal saline as this will result in precipitation of the
+amphotericin B. To minimize renal toxicities, amphotericin B must be
+administered slowly over 4 hours. Initial therapeutic doses should be
+given as Amphotericin B 0.7-1mg/kg/day.
+
+° For adults, pre-hydration with 1000m! (1L) of normal saline with
+20mEq of potassium chloride over 2 hours is recommended based on
+the volume status of the patient. Patients must receive oral potassium
+supplementation such as 1200mg twice a day. The potassium
+supplementation minimizes the extent of hypokalemia that can
+develop. Where available supplementation with magnesium trisilicate
+500mg orally twice daily is also recommended.
+
+e — Renal function must be monitored at baseline. U&Es should be
+measured twice weekly and abnormal results repeated daily until they
+normalize. Amphotericin B should be discontinued if renal toxicity is
+noted but can be restarted at a reduced dosage if the U &Es are
+improving
+
+If potassium is less than 3.3mmol/L increase oral KCL to 600-1200mg three
+times daily and monitor U& Es daily. If potassium levels do not increase
+144

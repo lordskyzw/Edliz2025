@@ -1,0 +1,55 @@
+EDLIZ 2020
+Mild Chronic Asthma
+Medicine Codes Adultdose Frequency Duration
+“beclomethasone BV 200-400mcg twiceaday continual _
+inhaler
+100mcg/puff
+and salbutamolinhaler C V 100-200mcg as required continual
+Moderate Chronic Asthma
+Medicine Codes Adultdose Frequency Duration
+beclomethasone B V_ 200meg twiceaday -
+inhaler
+salbutamol inhaler C V_ 200meg as required -
+Severe Chronic Asthma
+If response is still not adequate and the inhaler technique is adequate:
+Medicine Codes Adultdose Frequency Duration
+beclomethasone B V_ 400mcg 2-4 times a —_ continual
+inhaler day
+and prednisolone po* B V_ 2.5-10mg" once 8 continual
+)
+(mom
+a )
+and = salbutamol inhaler CV 100-200mcg as required as
+required
+or _ salmeterol/fluticasone S$ E 50/250mg once/twice a__ continual
+inhaler day
++l- theophylline slow B E 200mg 2-3 times a __ continual
+release po day
+* using the lowest effective dose possible (prednisolone can also be
+usefully given on an alternative day regimen of 10mg)
+Acute Asthma Attacks — Adults
+Acute asthma attacks are features of uncontrolled disease and are
+associated with mortality. Careful monitoring of the patient's condition
+is essential to assess severity, and to detect improvement or
+deterioration. In the absence of blood gas facilities, this will depend on
+close assessment of physical signs such as paradoxical breathing, the
+use of accessory muscles, colour, altered mental state, etc.
+1. Assess the severity of asthma.
+Take a careful history and examine the patient.
+
+e Observe breathing, talking and alertness, use of accessory
+muscles, colour, and mental status
+
+e Measure the pulse, respiratory rate,
+
+e Auscultation of the chest (assess wheezes). Measure lung
+function by peak flow or spirometer (PEF or FEV;) and
+arterial blood gases if available).
+
+2. Grade the asthma according to severity (mild, moderate,
+severe or imminent respiratory arrest)
+
+3. Use medicines and interventions that are appropriate to
+degree of severity.
+
+236

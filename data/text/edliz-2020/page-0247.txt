@@ -1,0 +1,44 @@
+EDLIZ 2020
+» Manage with:
+Medicine Codes Adultdose Frequency Duration
+cotrimoxazole po C V_ 1920mg 3timesaday 21 days
+(4 tabs)
+* — or in sulphonamide allergy:
+Medicine Codes Adultdose Frequency Duration
+clindamycin po B V_ 600mg 3 times a day
+21 days
+and primaquine po Cc V_ 15mg once a day
+» _ If tachypnoea or cyanosis is present, add:
+Medicine Codes  Adultdose Frequency Duration
+prednisolone po B V_ 40mg twice aday 5 days
+then prednisolone po B V_ 40mg onceaday 5 days
+then prednisolone po B V_ 20mg onceaday 11 days
+» After PCP has been treated give cotrimoxazole prophylaxis and
+refer to the OIVART clinic. If there is sulphonamide allergy,
+cotrimoxazole desensitization may be considered.
+Medicine Codes Adultdose Frequency Duration
+cotrimoxazole po C V_ 960mg once a day _ indefinitely
+<6mths =120mg
+6-12mths = 240mg
+>1 year =480mg
+« If no improvement occurs, consider malignancies such as, Kaposi's
+Sarcoma and consider referral to a Specialist.
+In-patient management
+Consider admission if patient is obviously unwell, or in severe pain.
+Admission and close monitoring are mandatory if any of these signs are
+present:
+» respiratory distress
+» cyanosis
+» pulse >124/min
+» — hypotension (systolic pressure < 90mmHg)
+» temperature > 40°C or < 35°C
+» altered mental state
+. if elderly >65 years
+» if patient has chronic lung disease (e.g. chronic obstructive
+pulmonary disease), chronic renal failure, chronic cardiac
+failure, chronic liver disease
+» — Scoring for pneumonia severity (CURB-65) (the presence of any
+of the following merits admission)
+. C= confusion
+. U= urea greater than 7 mmol/L
+229

@@ -1,0 +1,38 @@
+EDLIZ 2020
+«child 1 year and over
+If chest indrawing; or Give rapid-acting bronchodilator, oral prednisolone
+any danger sign and antibiotic
+Refer urgently to hospital
+If fast breathing Nebulise with salbutamol or Give oral bronchodilator;
+Send home on treatment as “pneumonia”:
+Follow up in 2 days
+If no fast breathing Nebulise with salbutamol or Give oral bronchodilator;
+Send home on treatment as “no pneumonia, cough/
+cold”;
+Follow up in 7 days
+Children with Previous Episodes of Wheezing
+» child under 1 year
+If chest indrawing; or Nebulise with salbutamol or Give oral bronchodilator
+any danger sign Give first dose of antibiotic
+Refer urgently to hospital
+If fast breathing Nebulise with salbutamol or Give oral bronchodilator;
+Send home on treatment as “pneumonia”:
+Follow up in 2 days
+If no fast breathing Nebulise with salbutamol or Give oral bronchodilator;
+Send home on treatment as “no pneumonia, cough /
+cold”;
+Follow up in 7 days
+Children with Previous Episodes of Wheezing
+«= child 1 year and over
+> Start with Give a rapid acting bronchodilator
+Assess the child’s condition 30 minutes later and
+treat according to this assessment.
+or any danger sign Refer urgently to hospital.
+> If fast breathing Give oral bronchodilator
+Send home on treatment as “pneumonia”
+Follow up in 2 days.
+> If no fast breathing Send home on treatment as “no pneumonia, cough/
+cold”;
+Give oral __ bronchodilator
+Follow up in 7 days.
+52

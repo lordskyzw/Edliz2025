@@ -1,0 +1,40 @@
+EDLIZ 2020
+Medicine Codes Adultdose Frequency Duration
+miconazole pv C V_ 200mg every night 3 days
+or clotrimazole pv Cc V_ 100mg every night 7 days
+or nystatin pessary C V_ 200,000iu at night 7 days
+PLUS
+Therapy for cervical infection if partner has urethral discharge or
+mucopurulent cervicitis / easy bleeding.
+Medicine Codes Adultdose Frequency Duration
+ceftriaxone im C V_ 250mg one dose only
+or kanamycin im C V_ 2g[iginto one dose only
+each
+buttock]
+and doxycycline po Cc V_ 100mg twice a day 7 days
+or azithromycin po Cc Vig one dose only
+Second line treatment for vaginal discharge
+. If the patient still has a vaginal discharge, or evidence of cervicitis 7 days
+after start of treatment, suspect re-infection, poor treatment compliance or
+antimicrobial resistance in Neisseria gonorrhoeae. If reinfection is
+suspected re-start first line treatment.
+«= Otherwise treat the patient with second line therapy or refer for
+investigations and laboratory guided treatment.
+. Second Line:
+Medicine Codes Adultdose Frequency Duration
+ceftriaxone im C V_ 500mg one dose only
+Or __cefixime po B V_ 400mg one dose only
+and metronidazole po C V_ 400mg three time a day 7 days
+and doxycycline po Cc V_~ 100mg twice a day 7 days
+(Dependent on 1st line
+Rx* if 1st line
+Azithromycin)
+Or azithromycin po Cc Vig one dose only
+(if 1st line doxycycline)
+If these medicines are not available locally, refer to the next level.
+CAUTION IN PREGNANCY: See chapter Obstetric and Gynaecological
+Conditions. Doxycycline should not be used during pregnancy, or in
+lactating women. In pregnant women chlamydial infection is best treated
+with azithromycin or erythromycin (which-ever is available) while kanamycin
+or ceftriaxone should be used for gonococcal infection
+120

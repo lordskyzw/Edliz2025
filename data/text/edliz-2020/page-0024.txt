@@ -1,0 +1,35 @@
+EDLIZ 2020
+The use of antimicrobials for infection
+prophylaxis
+There are some instances where the use of prophylactic
+antibiotics is well established. However, this often consumes a
+disproportionate amount of all antibiotics used in the hospital
+setting and consideration to their appropriate use must be given.
+Prophylactic antibiotic use must be within accepted principles
+and guidelines.
+General Recommendations:
+- use the appropriate medicine (see below)
+- give as a single dose where possible
+- repeat when the procedure lasts longer than 3-4 hours
+- give intravenously 10-15 minutes before incision, or orally 1-
+2 hours before incision.
+Specific indications:
+Surgical prophylaxis
+NB: There is need for the recommendations to be guided by
+sensitivity patterns. It is important to establish a Healthcare
+Associated Infection Surveillance system for monitoring of
+sensitivity or resistance patterns.
+Vaginal operations:
+Medicine Codes Adult Frequency
+dose
+chloramphenicol iv BV 1g single dose
+Caesarean section:
+Medicine Codes Adult Frequency
+dose
+ceftriaxone iv c Vv 1g single dose
+Hysterectomy, or Colorectal surgery e.g. appendicectomy:
+Medicine Codes Adult Frequency
+dose
+ceftriaxone iv c V 1g single dose
+and gentamicin iv c UV 4-5mg/kg single dose
+6

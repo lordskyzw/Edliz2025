@@ -1,0 +1,40 @@
+EDLIZ 2020
+Issues to consider in initiating ART in children
+Psychosocial factors: |t is important to identify and counsel at least one
+dedicated caregiver who can supervise and/or give medicines. Disclosure:
+The process of disclosure to the child should be initiated as early as possible,
+usually from as early as 5 — 7 years of age. Adherence is good in children
+who know their status and are supported to adhere to medicines.
+Table 9.3: Recommended first-line treatment for children
+Oa i Fad ==
+treatment treatment circumstances
+Neonates (up Zidovudine (AZT) + AZT + 3TC + NVP AZT + 3TC +
+to 6 weeks) Lamivudine (3TC) + Lopinavir/ritonavir
+Raltegravir (Ral)* LPV/r
+Children > 6 AZT + 3TC + AZT + 3TC +NVP
+weeks Lopinavir/ritonavir ABC + 3TC + LPV/r
+LPVir ABC + 3TC +NVP
+Children and ABC + 3TC + ABC + 3TC + LPVir ABC + 3TC +
+adolescents Dolutegravir (DTG)** Efavirenz (EFV)"
+>25kg AZT +3TC +
+Lopinavir/ritonavir
+LPV/r)2
+*For the shortest time possible (ideally for 2 weeks with transition to LPV/r
+syrup or granules). To allow for convenience and to align with the EPI
+schedule, RAL in neonates can be given for the first 6 weeks of life with
+substitution to LPV/r at 6 weeks of age until dosage formulations of DTG
+become available.
+“For age and weight groups with DTG approved dosing and where LPV/r is
+not available
+“From 3 years of age
+|n cases where no other alternatives are available
+Monitoring children on ART
+e Check haemoglobin after at least 6-8 weeks if on Zidovudine
+e Use urine dipsticks to check for glycosuria and estimated
+glomerular filtration rate (eGFR) and/or serum creatinine when on
+Tenofovir
+e Check for alanine aminotransferase (ALT) when on Nevirapine
+e Check CD4 count every 6 months
+e Conduct viral load testing once every year or when clinical signs
+are suggestive of treatment failure
+166

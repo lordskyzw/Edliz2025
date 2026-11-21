@@ -1,0 +1,64 @@
+EDLIZ 2020
+
+THIRD=-LINE TREATMENT RECOMMENDATION FOR ADULTS
+
+AND ADOLESCENTS
+
+In adolescents older than 12 years and adults; the preferred 3” line ART can
+
+include Dolutegravir (50mg), Darunavir (600mg)/Ritonavir (100mg) and
+
+2NRTIs.
+
+Main Considerations:
+
+e GENOTYPING TESTING IS RECOMMENDED PRIOR TO
+SWITCHING PATIENTS FAILING SECOND LINE ART with clinicians
+required to actively rule out poor adherence before genotypic testing.
+
+e In PI experienced patients; Darunavir (600mg)/Ritonavir (100mg)
+should be given twice daily
+
+3rd line patients with a history of integrase strand transfer inhibitor (INSTI)
+
+use e.g. DTG or Raltegravir, DTG should be given twice daily.
+
+USE OF ARVS IN PATIENTS WITH TB
+
+(Refer to the latest national TB guidelines or TB/HIV guidelines)
+
+TB is the most common OI encountered among people with HIV infection in
+
+Zimbabwe. Since the advent of the pandemic of HIV infection, TB has
+
+remained a serious public-health problem. Studies have shown that up to
+
+50% of people with HIV infection develop TB and that up to 85% of patients
+
+with TB have HIV infection. In addition, TB accounts for a third of HIV-related
+
+deaths. There is a need to integrate the HIV and TB services, as TB and HIV
+coinfection is common. All patients living with HIV should be screened for
+
+TB at every visit using the standard TB screening tools. Rifampicin
+
+interacts adversely with some antiretroviral agents such as Pls therefore,
+
+¢ TB patients on Rifampicin should receive DTG 50mg twice a day
+
+e Efavirenz 400mg can be co-administered with rifampicin containing anti-
+TB treatment; is well tolerated and plasma concentrations were
+maintained above the levels considered to be effective.
+
+e For HIV/TB coinfection on rifampicin-based regimen, use LPV/R (super
+booster) instead of ATV/r
+
+PATIENTS WITH TB WHO ARE NOT YET ON ART
+
+In patients who have HIV-related TB but are not yet on ART, treatment of TB
+
+takes priority. ART should be started at least two weeks after the start of TB
+
+therapy i.e. during the intensive phase when the patient has stabilised on TB
+treatment regardless of their CD4 count status. Cotrimoxazole prophylaxis
+161

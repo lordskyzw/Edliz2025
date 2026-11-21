@@ -1,0 +1,40 @@
+EDLIZ 2020
+Side effects profile
+Side effects
+Diuretics Unwanted side effects for diuretics include raised plasma
+e.g. HCT | glucose, uric acid, cholesterol and reduced plasma
+potassium and magnesium; sinus congestion
+CCB Unwanted side effects include vasodilator effects such as
+headache and facial flushing in up to 20% of patients,
+peripheral oedema (usually due to a local action rather than
+an effect on the heart or kidney).
+ACE Unwanted side effects include cough in 10-25% of patients,
+inhibitors | angioedema, postural hypotension and occasionally syncope,
+particularly in patients with a low plasma volume due to diuretic
+treatment. All ACE inhibitors can cause excessive hypotension
+and renal failure.
+A useful alternative to ACE inhibitor when cough develops are
+Angiotensin-receptor blockers such as Losartan.
+Caution: concomitant potassium supplements or potassium
+retaining medicines should be avoided, or used only with
+careful monitoring of serum potassium.
+Resistant hypertension
+» If BP remains above goal/poorly controlled, consider poor compliance,
+inadequate medicine doses (and optimize), drug-interactions (eg with
+NSAIDs, steroids, tricyclic antidepressants) and secondary causes of
+hypertension (esp renal, endocrine)
+« Refer patients with resistant hypertension for specialist care
+= The preferred fourth medicine is spironolactone, alternatives are beta
+blockers, alpha blockers, then other vasodilators such as oral hydralazine
+= Mineralocorticoid antagonist:
+Medicine Codes Adultdose Frequency Duration
+spironolactone po B V_ 25-100mg 1-2 times a long term
+day
+Monitoring of potassium levels is recommended with spironolactone treatment
+=" Beta-blockers
+Medicine Codes Adultdose Frequency Duration
+atenolol po B V__ 50mg once a day long term
+Unwanted side effects include precipitation or exacerbation of asthma,
+heart failure, impaired glucose control, fatigue and peripheral vascular
+disease.
+244

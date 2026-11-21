@@ -1,0 +1,20 @@
+EDLIZ 2020
+Test and treat for Hookworm (see Tropical Diseases) After recovery
+from the acute state treat with ferrous sulphate.
+Medicine Codes Paed dose Frequency Duration
+albendazole Cc CE <2yrs 200mg
+po one dose only
+>2yrs 400mg
+and ferrous c CE 6-<10kg 12mg once 30 days
+sulphate po a day
+1-3yrs 18mg
+3-5yrs 24mg
+Treatment of Severe anaemia
+Children with severe anaemia should be treated with daily iron and folic
+acid supplementation. After completing 3 months of therapeutic
+supplementation, children should continue preventive supplementation
+regimen. Children with SAM (kwashiorkor or marasmus) should be
+assumed to be severely anaemic. However, oral iron supplementation
+should be delayed until the child regains appetite and starts gaining
+weight, usually after 14 days.
+75

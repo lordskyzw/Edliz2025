@@ -1,0 +1,18 @@
+[project]
+name = "edliz"
+version = "0.1.0"
+description = "EDLIZ digital assistant - a grounded question-answering application over the Zimbabwe Essential Medicines List"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.115",
+    "uvicorn[standard]>=0.30",
+    "httpx>=0.27",
+    "pypdf>=5.0",
+    "numpy>=1.26",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[tool.setuptools]
+packages = ["app"]

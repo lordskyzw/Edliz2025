@@ -1,0 +1,40 @@
+EDLIZ 2020
+Enterococcal infection (e.g. Enterococcus faecalis):
+Medicine Codes Adultdose Frequency Duration
+benzylpenicillin iv Cc VV. 5MU 6hourly 4-6 weeks
+and gentamicin iv C V_ 80-120mg 12hourly 4 weeks
+max-120mg
+Staphylococcal infection (for example, Staph. aureus & Staph.
+epidermidis):
+Medicine Codes Adultdose Frequency Duration
+cloxacillin iv BV 2g 6hourly 4-6 weeks
+and gentamicin iv C V_ 80-120mg_ 12hourly 4 weeks
+At any stage, treatment may have to be modified according to:
+. detailed antibiotic sensitivity tests
+« adverse reactions
+sallergy
+« failure of response
+Endocarditis leading to significant cardiac failure or the failure to
+respond to antibiotics may well require cardiac surgery.
+Prophylaxis against endocarditis — no special risk:
+Dental procedures, upper respiratory tract, obstetrics and gynaecological
+procedures under local or no anaesthesia (no special risk):
+Medicine Codes Adultdose Frequency Duration
+amoxicillin po Cc V 3g one dose only — one hour
+Paed = 50mg/kg before procedure
+or clindamycin po inB V_ 600mg one dose only
+pean aleray or recent <5yrs = 150mg one hour before
+penicillin administration = =
+(< one month) 5-10yrs = 300mg __ procedure
+Dental procedures, upper respiratory tract, obstetrics and gynaecological
+procedures under general anaesthesia (no special risk):
+Medicine Codes Adultdose Frequency Duration
+ampicillin iv BE 1g at induction, then 500mg after 6hrs
+or amoxicillin po c Vv 3g 4hrs before anaesthesia, then 1g 6
+hours post-op.
+If penicillin allergy or recent administration of penicillin within the
+previous month see under special risk groups below.
+Prophylaxis against endocarditis — special risk:
+Prosthetic valve in situ, or previous endocarditis or genitourinary procedures
+(special risk groups)
+253

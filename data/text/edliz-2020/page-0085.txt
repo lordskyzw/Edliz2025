@@ -1,0 +1,39 @@
+EDLIZ 2020
+
+Patients with severe or moderate acute malnutrition AND complications
+should be admitted for inpatient care. Complications should be managed
+according to national protocols for different age groups.
+Provide routine medicines in both Phases | and II per national protocol
+as appropriate for age and complications of patient.
+Hypoglycaemia and hypothermia usually occur together and are signs
+of infection. Check for hypoglycaemia whenever hypothermia
+(axillary<35.0°C; rectal<35.5°C) is found. Frequent feeding is important
+in preventing both conditions.
+If the child is conscious and has hypogylcemia give:
+
+Medicine Codes Child Dose Frequency Duration
+
+10% glucose ce 50m bolus once
+
+solution
+
+Or
+
+10% sucrose ce 3mi/kg/Feed every30 2 hours
+
+solution minutes
+
+then F-75 CE 11mi/kg/Feed  2hourly 2 days
+The glucose or sucrose solution (1 rounded teaspoon of sugar in 3.5
+tablespoons water), can be given orally or by nasogastric (NG) tube. If
+the child is unconscious, lethargic or convulsing give IV sterile 10%
+glucose (5mi/kg), followed by 50m! of 10% glucose or sucrose by Ng
+tube. Then give starter F-75.
+Treatment of Infection in Severely malnourished
+children
+The usual signs of infection, such as fever are often absent in severe
+malnutrition. Therefore, presume infection in severe malnutrition and give
+routinely broad-spectrum antibiotic(s) AND measles vaccine if child is >
+6months and not immunized (delay if the child is in shock).
+
+67

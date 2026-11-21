@@ -1,0 +1,36 @@
+EDLIZ 2020
+First trimester (up to 12 weeks)
+Cervical ripening pre instrumentation
+Medicine Codes Adultdose Frequency Duration
+misoprostol pv C V_ 400mcg 4hours before once only
+procedure
+Induced abortion (< 12 weeks)
+Medicine Codes Adultdose Frequency _ Duration
+misoprostol pv Cc V 600mcg 12hrly max 2 doses
+Or Method 2
+Medicine Codes Adult Frequency Duration
+dose
+mifepristone po B OV 200mg once
+then misoprostol c UV 800mcg once
+in 1-2 B, pv or SL
+days
+B = buccal, SL = sub-lingual
+Combination regimen (Method 2) is recommended because it is more
+effective.
+Missed abortion
+Medicine Codes Adultdose Frequency Duration
+misoprostol pv C V_ 600mcg 12hrly max 2 doses
+Incomplete abortion
+Medicine Codes Adultdose Frequency Duration
+misoprostol po Cc V_ 600mcg single dose
+SECOND TRIMESTER (14 TO 27 WEEKS)
+Induced abortion (>12 weeks)
+Medicine Codes Adultdose Frequency Duration
+misoprostol pv C V_ 200mcg 12hrly max 4 doses
+Or Method 2
+Medicine Codes Adultdose Frequency Duration
+mifepristone po B V_ 200mg once
+then misoprostol C V_ 400mcg 3 hrly
+in 1-2 B, pvor SL
+days
+109

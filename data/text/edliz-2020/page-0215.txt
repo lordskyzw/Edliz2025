@@ -1,0 +1,36 @@
+EDLIZ 2020
+Medicine Codes Adultdose Frequency Duration
+human rabies B V_ 10 IU/kg once only -
+immunoglobulin (RIG)
+(instilled and infiltrated locally around the wound)
+and human rabies B V_ 10 1U/kg once only -
+immunoglobulin im
+(gluteal)
+Notes
+= In case of bite from domestic animal WITH LAPSED immunisation
+against rabies
+> Follow the above recommended vaccination schedule, but
+without giving immunoglobulin.
+= In previously vaccinated individuals give one site intradermal (ID) or
+one-site intramuscular (IM) vaccine on day 0,3 only.
+= Rabies vaccines labelled for IM use can be used safely via the ID route,
+even if this constitutes off-label use
+= In the case of exposure to confirmed rabid animals vaccine should be
+given regardless of the time since exposure even years afterwards
+=" Achange in route of administration during PEP or PreP is acceptable if
+such a change is unavoidable.
+GENERAL GUIDELINES FOR BILHARZIA, INTESTINAL
+WORMS, LYMPHATIC FILARIASIS AND BLINDING
+TRACHOMA
+GENERAL NOTES
+Zimbabwe is annually instituting Mass Drug (Medicine) Administration
+(MDA) for bilharzia, intestinal worms, lymphatic filariasis and blinding
+trachoma to Pre and School Aged Children (Pre-SAC and SAC) as well as
+adults in endemic districts using WHO guidelines for preventive
+chemotherapy.
+BILHARZIA (SCHISTOSOMA MANSONI & HAEMATOBIUM)
+Proper diagnosis can only be made by microscopy of urine and stools.
+Antibody tests alone are insufficient basis for treatment.
+Health Facility without microscopy diagnosis can treat Schistosoma
+haematobium infection in children and adolescents on the basis of visible
+197

@@ -1,0 +1,35 @@
+EDLIZ 2020
+Acute Pelvic Inflammatory Disease (PID)
+Acute PID refers to the acute syndrome attributed to the ascent of
+microorganisms, not related to pregnancy or surgery, from the vagina and cervix
+to the endometrium, fallopian tubes and adnexal structures. Gonorrhoea,
+chlamydia, mycoplasma, anaerobic bacteria and gram-negative organisms can
+cause acute PID.
+Mild / Moderate Pelvic Inflammatory Disease
+First line:
+Medicine Codes Adultdose Frequency Duration
+ceftriaxone im c hu 250mg once only
+or kanamycin im c UV 29 once only
+and doxycycline po C V_ 100mg 2timesaday 14 days
+and metronidazole po C V_ 400mg 3 times aday 14 days
+Severe pelvic inflammatory disease
+Temperature greater than 38°C with marked abdominal tenderness. Patients
+need IV fluids and IV medicines.
+Medicine Codes Adultdose Frequency Duration
+ceftriaxone iv Cc V 2g once aday 12 hours after clinical
+improvement
+and doxycycline po Cc V_ 100mg twice aday 14 days
+and metronidazolepr B V_ 1g 12hourly 72hrs
+* Note: Duration as determined by patient’s response. Switch to oral after
+review — treatment for 14 days total.
+Alternative
+Medicine Codes Adultdose Frequency Duration
+ampicillin iv B E 500mg 6hourly 48-72hrs
+and gentamicin im C V_ 160mg 12hourly 48-72hrs
+and metronidazole pr B V 1g 12hourly 72hrs
+* Note: Duration as determined by patient's response. Switch to oral after
+review.
+If no response within 48 hours suspect pelvic abscess and patient may need
+laparotomy or referral. Change to oral administration after temperature has
+settled.
+98

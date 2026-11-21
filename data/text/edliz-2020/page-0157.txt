@@ -1,0 +1,31 @@
+EDLIZ 2020
+«If no diagnosis:
+Medicine Codes Adultdose Frequency Duration
+ciprofloxacin po B V_ 500mg twice a day 7 days
+=If no improvement OR very ill/toxic admit to hospital for iv fluids and:
+Medicine Codes Adult dose Frequency uration
+ciprofloxacin po BV 500mg twiceaday 7 days
+and ceftriaxone iv Cc Vig twice aday maximum7
+days
+If bloody diarrhoea:
+Medicine Codes Adult dose Frequency Duration
+ciprofloxacin po BV 500mg twice a day 5 days
+HIV RELATED WASTING SYNDROME (SLIM DISEASE)
+DEFINITION: Weight loss of more than 10%, plus either unexplained
+chronic diarrhea for more than one month, or unexplained prolonged
+fever for more than one month. This places the patient in WHO Clinical
+Stage 4 HIV disease and hence patient should be considered forART.
+= It is important to exclude treatable conditions, especially TB, and to treat
+them appropriately. A chest Xray is mandatory.
+= Emaciation: encourage a high calorie and protein diet. Add mineral and
+vitamin supplementation:
+Medicine Codes Adultdose Frequency Duration
+nicotinamide po B E 50mg once aday review
+and pyridoxine po B E- 25-50mg once aday review
+and thiamine po A N_ 50mg onceaday review
+Further Management
+= Treat according to results of investigations. Keep referrals to a minimum
+and refer only if alternative diagnosis is suspected e.g. malabsorption.
+= Initiate antiretroviral therapy or switch ART medication if there is
+treatment failure
+139

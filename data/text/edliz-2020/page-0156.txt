@@ -1,0 +1,38 @@
+EDLIZ 2020
+HIV RELATED DIARRHOEA = ACUTE
+DEFINITION: Three or more liquid stools daily for 2 to 14 days in patients
+with symptomatic HIV infection.
+Management of diarrhoea should be broadly along the same lines as that
+described in the chapter on Gastrointestinal Conditions.
+Note: Anti-diarrhoeals should NOT be used in the initial treatment of
+acute diarrhoea, especially in children or with bloody diarrhoea cases.
+If there is no improvement after 5 days, attempt to identify pathogen through
+stool microscopy, culture and sensitivity tests then treat according to the
+result.
+HIV Related Diarrhoea - Chronic
+DEFINITION: Three or more liquid stools daily continuously or
+episodically for more than 1 month in patients with symptomatic HIV
+infection.
+Management
+« Assess for dehydration, malnutrition, and check electrolytes for
+hypokalaemia.
+= Rehydrate as required, maintain nutrition.
+= Initially treat diarrhoea with blood in stool and/or fever as acute diarrhoea.
+= If diarrhoea (without blood/fever) continues after conservative
+management for 14 days, and exclusion of common causes of acute
+diarrhoea, symptomatic anti-diarrhoeal treatment may be appropriate:
+Medicine Codes Adult dose Frequency Duration
+loperamide po C N= 4mg stat, then as needed review
+2mg after every
+loose stool
+or codeine phosphate B V_  30-60mg <4timesaday 7 days
+PO
+CAUTION: Only use the above agents if diarrhoea is disabling. Before
+constipating agents are given, rule out helminth infestation.
+= If diarrhoea continues or recurs within 3 weeks, and no pathogen is
+identified, repeat microscopy and C/S.
+" If there is weight loss investigate for concurrent disseminated TB with CXR
+and stool for AAFBS
+In cases of diarrhoea with fever, bloody and/or mucus; ensure Culture and
+sensitivity testing is conducted.
+138

@@ -1,0 +1,30 @@
+# --- secrets ---------------------------------------------------------------
+# .env carries the CAIMEX gateway key. Never commit it. .env.example is the
+# template that ships with the repo.
+.env
+.env.*
+!.env.example
+
+# --- python ----------------------------------------------------------------
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# --- generated / large -----------------------------------------------------
+# The SQLite index is rebuilt by `python -m app.ingest` in ~15 s.
+data/*.db
+data/*.db-wal
+data/*.db-shm
+
+# The scanned 43 MB PDF is not tracked; see README for where to fetch it.
+data/*.pdf
+
+# OCR output is tracked for the editions listed in .gitignore exceptions
+# below, because it makes the project runnable without poppler/tesseract.
+data/text/**/render-*.png
+data/text/**/index.json
+
+# --- macos -----------------------------------------------------------------
+.DS_Store

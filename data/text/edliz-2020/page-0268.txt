@@ -1,0 +1,41 @@
+EDLIZ 2020
+Management of Acute Myocardial Infarction:
+Medicine Codes Adultdose Frequency Duration
+aspirin po C V_ 300mg once only as a single dose,
+then
+75-150mg once a day long term
+or clopidogrel po BE = 300mg once only
+75mg once daily
+and morphine iv BE 2-5mg every 10- as required
+15min
+and_ isosorbide dinitrate po A E 10-40mg 3timesaday as required
+and low’ molecular
+weight heparins
+and = streptokinase (orA N_ 1.5MU in 100ml sodium chloride 0.9%
+preferably urokinase) iv or dextrose 5% run over one hour,
+Useful for MI with ST once only
+segment elevation
+and atenolol po B  V_ 50-100mg once a day long term
+and enalapril po BE 5-20mg _ twice daily long term
+or lisinopril po BE 5-20mg _ twice daily long term
+and atorvastatin po B  V_ 20-80mg_ once daily long term
+or rosuvastatin po BV 10-40mg_ once daily long term
+= Thrombolytic agents should be administered early preferably in
+infarcts of less than 12 hours duration.
+= CAUTIONS: DO not give digoxin in acute infarction unless there is
+a supra-ventricular arrhythmia that requires it.
+= DO not use inotropic agents such as isoprenaline or adrenaline as
+they may be counter-productive and cause an extension of the
+infarction.
+ARRHYTHMIAS AFTER MYOCARDIAL INFARCTION:
+Ectopic beats
+Give reassurance about the condition, but if troublesome:
+Medicine Codes Adult dose Frequency Duration
+atenolol po BV 50-100mg__ once daily as required
+Atrial fibrillation and atrial flutter
+Medicine Codes Adult dose Frequency Duration
+atenolol po B OV 25-50mg once to twice review
+a day
+or *verapamil po A Vv 40-120mg 3timesaday review
+*Verapamil is contraindicated in heart failure patients.
+250

@@ -1,0 +1,37 @@
+EDLIZ 2020
+» Alpha-blockers:
+Medicine Codes Adult dose Frequency Duration
+prazosin po BV 0.5-5mg 2-3times aday long term
+or doxazocin po B Vv 4-16mg once daily long term
+Total cardiovascular risk reduction
+Those patients at high cardiovascular risk should be treated with a statin
+(for primary and secondary prevention), and anti-platelet therapy (for
+secondary prevention)
+« Statins:
+Medicine Codes Adultdose Frequency Duration
+atorvastatin po B VV 20-80mg once daily long term
+or rosuvastatin po B VV 10-40mg once daily long term
+» Anti-platelet agents:
+Medicine Codes Adultdose Frequency Duration
+aspirin po B V 75-150mg = once daily long term
+or clopidogrel po B Vi 75mg once daily long term
+MANAGEMENT OF SEVERE HYPERTENSION
+Definition: diastolic blood pressure >120mmHg
+Emergency intravenous therapy or sublingual nifedipine is rarely
+required and is potentially dangerous (may result in stroke, renal
+failure or myocardial infarction).
+Indications for emergency treatment:
+« — Left ventricular failure with pulmonary oedema (also see section on
+treatment of acute pulmonary oedema).
+= _ Hypertensive encephalopathy.
+» Acute aortic dissection.
+= Severe pre-eclampsia (see chapter on Obstetrics & Gynaecology).
+= Recent stroke requires caution as rapid lowering of blood pressure
+may worsen neurological deficit. Treat if diastolic blood pressure
+>120mmHg after 48 hours. Long term treatment indicated if diastolic
+blood pressure >100mmHg after 3 months.
+. Frequent blood pressure monitoring
+» — Sub-lingual nifedipine should be restricted in its use for hypertension.
+The only remaining major indication for it is severe hypertension with
+aortic dissection.
+245

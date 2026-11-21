@@ -1,0 +1,44 @@
+EDLIZ 2020
+If poor control of ventricular response, cautiously add:
+Medicine Codes Adult Frequency Duration
+dose
+digoxin po B V 0.25- 3timesa first 24hrs
+0.5mg day
+then 0.125-0.25mg once a long term
+day
+For chronic atrial fibrillation:
+Medicine Codes Adultdose Frequency Duration
+warfarin po BV 10mg once aday for 3 days
+then adjust according to INR
+For atrial flutter, synchronised D.C. cardioversion (50-200 joules) can be
+tried.
+Paroxysmal supraventricular tachycardia
+Carotid sinus massage/valsalva manoeuvre or prompt squatting.
+Consider synchronized D.C. cardioversion (50-200 joules) if patient distressed.
+Medicine Codes Adultdose Frequency Duration
+verapamil iv A V_ 5-10mg bolus, can be repeated
+after 10 min
+For long term therapy:
+Medicine Codes Adultdose Frequency Duration
+verapamil po A V 40-120mg 3timesaday longterm
+Caution: avoid intravenous verapamil in patients treated with beta-
+blockers.
+If poor response, refer for specialist management.
+Ventricular tachycardia
+= Consider D.C. cardioversion if patient distressed.
+Medicine Codes Adultdose Frequency Duration
+lignocaine iv B N = 75-100mg stat, then
+4mg/min for 30 mins, then
+1-2mg/min for 12-24 hours
+Medicine Codes Adultdose Frequency Duration
+amiodarone iv A E_ 150 mg over first 30 min (S5mg/min),
+followed by 360 mg over next 6 hr (1
+mg/min),
+THEN 540 mg over remaining 18 hr
+(0.5 mg/min),
+Maintenance: 0.5 mg/min for a total
+20 gl
+= In general, maintenance with amiodarone infusion should be
+limited to 24 hours or less, unless if the patient cannot tolerate
+oral medication, or the tachyarrthymia is recurrent.
+251

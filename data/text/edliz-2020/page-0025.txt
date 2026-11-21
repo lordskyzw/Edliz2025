@@ -1,0 +1,15 @@
+EDLIZ 2020
+If signs of infection after operation, give:
+Medicine Codes Adult Frequency Duration
+dose
+amoxicillin po C V 500mg 3times 7 days
+a day
+and metronidazole po C V 400mg 3timesa 7 days
+day
+Subacute bacterial endocarditis See Cardiovascular Chapter
+For meningococcal meningitis contacts. Give as soon as
+diagnosis is made in the index case:
+Medicine Codes Adult dose Frequency _ Duration
+ceftriaxone im c Vv 250mg single
+dose
+7

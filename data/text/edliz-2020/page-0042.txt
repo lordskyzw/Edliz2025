@@ -1,0 +1,56 @@
+EDLIZ 2020
+
+e — Recognize septic shock in children with any hypotension (systolic
+blood pressure [SBP] <5th centile or >2 SD below normal for age) or
+2-3 of the following: altered mental state; tachycardia or bradycardia
+(HR <90 bpm or >160 bpm in infants and HR <70 bpm or >150 bpm
+in children); prolonged capillary refill (>2 sec) or warm vasodilation
+with bounding pulses; tachypnoea; mottled skin or petechial or
+purpuric rash; increased lactate; oliguria; hyperthermia or
+hypothermia.
+
+e Adults, give at least 30 ml/kg of isotonic crystalloid in 3 hours. Give
+20 ml/kg as a rapid bolus and up to 40-60 mi/kg in the first 1 hr.
+
+¢ Do not use hypotonic crystalloids, starches, or gelatines for
+resuscitation.
+
+e Fluid resuscitation may lead to volume overload, including respiratory
+failure. If no response discontinues. This step is particularly important
+where mechanical ventilation is not available.
+
+e Administer vasopressors when shock persists during or after fluid
+resuscitation. The initial blood pressure target is MAP 265 mmHg in
+adults and age-appropriate targets in children.
+
+e  Vasopressors (VPs) can be given through a peripheral IV if a central
+line is not available but use a large vein and closely monitor for signs
+of extravasation and local tissue necrosis. If extravasation occurs,
+stop infusion. VPs can also be administered through intraosseous
+needles.
+
+e If signs of poor perfusion and cardiac dysfunction persist despite
+achieving MAP target with fluids and vasopressors, consider
+inotropes e.g. dobutamine.
+
+HOW DO WE DECIDE WHEN TO DISCHARGE A CASE?
+
+e Criteria for discharging patients from isolation (i.e., discontinuing
+transmission-based precautions) without requiring retesting:
+
+e  Forsymptomatic patients: 10 days after symptom onset, plus at least
+3 additional days without symptoms (including without fever and
+without respiratory symptoms);
+
+e For asymptomatic cases:10 days after positive test for SARS-CoV-2.
+
+e As the disease evolves, follow national guidance on discharge.
+
+POST —DISCHARGE:
+How should the patient behave or what should they do to prevent getting
+infected again?
+
+e Wehave no concrete evidence that those infected with COVID-19 will
+develop immunity and if so for how long. We will extrapolate that
+
+24

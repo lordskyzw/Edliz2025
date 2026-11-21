@@ -1,0 +1,24 @@
+EDLIZ 2020
+Mild asthma - children
+Mild or intermittent asthma mainly associated with respiratory infections:
+Medicine Codes Paeddose Frequency Duration
+salbutamol inhaler C V 100-200mcg asrequired intermittent
+or theophylline po BE 5mg/kg <4timesaday intermittent
+Moderate asthma - children
+These may be triggered by infections, allergies, exercise etc. Treatment
+is for mild asthma, but continual therapy may be required. It may also
+be used in combination with theophylline.
+Severe asthma - children
+Severe, persistent asthma, persistent wheeze, and failure to respond to
+the above: add to the above
+Medicine Codes Paeddose Frequency Duration
+add beclomethasone BV 50-100mcg 34 times a continual
+inhaler day
+or prednisolone po* BV 1-2mg/kg once in the until
+morning control,
+then
+reducing to the lowest, effective
+dose on alternate days
+*long term prednisolone should be avoided in children, unless there
+is no alternative.
+239

@@ -1,0 +1,40 @@
+EDLIZ 2020
+despite oral potassium replacement, this may be due to low magnesium
+levels therefore consider measuring magnesium levels and replenishing
+magnesium if necessary. If the creatinine increases (which is already too late
+and should be avoided), a dose of amphotericin B can be omitted, and pre-
+hydration increased to 1L of normal saline every 8 hours and creatinine
+rechecked. If creatinine normalises, pre-hydrate with 1L normal saline with
+20mEq KCI and restart at amphotericin B (0.7mg/kg/day) given over 4 hours
+and thereafter consider giving Amphotericin B on alternate days. Monitor
+renal function two to three times weekly.
+If repeat creatinine remains elevated or continues to increase, discontinue
+amphotericin B and initiate high dose fluconazole 1200mg orally once
+daily.
+ART initiation
+ART initiation or switching (in setting of treatment failure) should be done
+4 weeks after amphotericin induction or 4-6 weeks after fluconazole
+induction. This is to minimise risk of cryptococcal IRIS syndrome which is
+associated with mortality.
+Cryptococcal IRIS syndrome
+Occurs after initiation of ART or switching ART and is associated with
+raised intracranial pressure and resultant symptoms. The patients will need
+admission, therapeutic LPs as above, an assessment for cryptococcal
+relapse with CSF being sent to lab for India ink exam, CSF biochemistry,
+CrAg titres and culture for Cryptococcus (up to 14 days). Relapse would
+indicate re-induction with amphotericin B. The CSF CrAg may remain
+positive for a long time after treatment.
+Primary prevention of cryptococcal meningitis
+Patients with CD4 count 100 or less are at higher risk of cryptococcal
+meningitis. Every newly diagnosed patient with a CD4 count less than 100
+should have a serum CrAg screen done. If CrAg negative, they should be
+started on ART. If CrAg positive, they should be referred for LP to exclude
+cryptococcal meningitis. Patients with a CD4 of 101-200 also have a
+substantial incidence of cryptococcal meningitis and should receive CrAg
+screening when resources allow.
+Secondary prevention of relapse of cryptococcal meningitis in AIDS
+patients after completion of primary management
+Patients must be educated about adhering to the correct doses of
+fluconazole, not running out of treatment, completing the consolidation,
+continuation and maintenance phases at appropriate doses.
+145

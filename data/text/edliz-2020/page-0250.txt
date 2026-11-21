@@ -1,0 +1,62 @@
+EDLIZ 2020
+
+» All patients with a clinical diagnosis of COPD should have a
+spirometry lung function testing. This is done to assess for
+obstruction, assess the severity of the disease and to exclude asthma
+by demonstrating reversibility or non-reversibility of the obstruction.
+
+» Stop smoking and/or remove from hazardous (dusty) environment.
+
+» Prompt treatment of infective exacerbations (or as for pneumonia):
+
+Treatment of COPD exacerbation
+
+Give antibiotics if sputum colour has changed to purulent, fever or new
+
+chest Xray infiltrates.
+
+Medicine Codes Adultdose Frequency Duration
+amoxicillin po C V_ 500mg 3timesaday 7 days
+or doxycycline po Cc V_ 100mg onceaday /7 days
+
+» For airway obstruction and dyspnoea add:
+
+» Mild /Moderate Disease and patient able to use inhaler (check
+
+technique):
+Medicine Codes Adultdose Frequency Duration
+salbutamol inhaler C V 100-200mcg  6hourly review
+plus ipratropium inhaler A V 40mcg 6hourly review
+
+. — If dyspnoea is severe:
+
+Medicine Codes Adultdose Frequency Duration
+
+salbutamol nebulised B V_ 5mg 6hourly review
+plus ipratropium nebulised A V_  500mcg 6hourly review
+and prednisolone po B V_ 30mg once aday 7 to 14days
+
+» Preferably drive the nebuliser with air rather than oxygen.
+
+» Controlled oxygen therapy - 2 litres/minute by nasal prongs or 28%
+ventimask (Avoid higher concentrations of oxygen unless there is
+access to blood gas analyser). If it is possible to monitor oxygen
+saturation aim for SPO» 88-92%
+
+» Provide pulmonary rehabilitation to prevent respiratory muscle
+wasting and deconditioning.
+
+» Provide nutritional support.
+
+Management of stable COPD
+
+. Overall management of patients with stable COPD is
+
+individualised.
+
+. Use of bronchodilators
+
+. If the patient has mild symptoms and infrequent exacerbations (1
+
+or nil per year) use:
+232

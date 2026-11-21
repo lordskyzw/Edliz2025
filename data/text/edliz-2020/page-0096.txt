@@ -1,0 +1,41 @@
+EDLIZ 2020
+
+Management of Specific HIV related Conditions
+Bacterial infections
+In the HIV infected child infections are likely to be more frequent, of longer
+duration with a poorer response to treatment. Septicaemia, meningitis,
+pneumonia and abscesses frequently occur before any other features of
+HIV infection are evident. The causative organisms, however, are likely
+to be similar to those found in non-HIV-infected children and the standard
+guidelines on the choice of antibiotics apply. (However, in a child with
+severe pneumonia where Pneumocystis jiroveci pneumonia (PCP) is
+suspected, a course of high dose cotrimoxazole (60mg/kg every 8hrs)
+and steroids are indicated.
+Once a child is diagnosed as having HIV-related pneumonia
+cotrimoxazole prophylaxis should be commenced:
+
+Medicine Codes Paed dose Frequency Duration
+
+cotrimoxazole C V. < 6mths=120mg onceaday for
+
+po paediatric
+
+6-12mths = 240mg life
+>1year =480mg
+There is an increased risk of tuberculosis infection in the HIV infected
+child. Where TB is confirmed, or with a diagnosis of probable TB, use
+the anti-TB treatment regimens recommended in the Chapter on
+Tuberculosis.
+Recurrent/ persistent diarrhoea: current evidence suggests that no
+single pathogen is responsible for the persistence of episodes of
+diarrhoea (>14 days). Follow the diarrhoea management guidelines in
+the section on diarrhoea.
+Chronic otitis media, oral candidiasis, eczema/ papular rash, and
+anaemia, may be related to HIV infection but are managed according to
+standard guidelines.
+Lymphocytic interstitial pneumonitis (LIP) is more commonly seen,
+presenting after the first year of life. Short term steroids have been used
+with good effect in children with severe respiratory symptoms. Give first
+dose of antibiotic (see management of pneumonia) and refer for
+specialist diagnosis. Child needs to be initiated on ART.
+78

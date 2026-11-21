@@ -1,0 +1,59 @@
+EDLIZ 2020
+Medicines
+« Beta-blocker, with alpha activity:
+Medicine Codes Adultdose Frequency Duration
+labetalol iv S V_ 20mg|!VI stat over 2 mins, then 10-80
+mg IVI every ten minutes until desired
+BP level achieved
+
+labetalol continuous S§ V_  **2mgIVI per minute by continuous IV
+
+infusion infusion
+**Total dose should not exceed 300 mg
+» Calcium channel blocker:
+
+Medicine Codes Adultdose Frequency Duration
+nicardipine _ iv S V_ Initial infusion rate 3-5 mg/hour
+(nicardipine continuous Reassess every 10-30 minutes and
+
+infusion) transition to oral treatment once
+
+emergency stabilized
+The maximum infusion rate is 1.6 mcg/kg/min. The initial infusion rate of
+intravenous nicardipine is 5 mg/h. The maximum infusion rate is 30
+mg/h, it is advisable not to exceed 15 mg/h.
+« Direct acting vasodilator:
+Medicine Codes Adultdose Frequency Duration
+dihydralazine iv/im B V_ 6.25-25mg PRN until desired BP
+level achieved
+
+BP should be measured every 5-10 minutes
+Parenteral anti-hypertensives should be used under specialist supervision
+and where facilities for continuous BP monitoring are available
+CARDIAC FAILURE
+Usually presents with shortness of breath on exertion or at rest, swelling
+of ankles, ascites and easy fatiguability.
+General guidelines:
+« Precipitating factors should be sought and treated e.g.:
+
++ hypertension
+
++ infections such as sub-acute bacterial endocarditis, chest
+
+infection
+
++ arrhythmias
+
++ hypokalaemia
+
+* anaemia
+
++ medicines, e.g. digoxin overdose, NSAID's, beta-blockers
+
++ pulmonary embolism
+
++ thyrotoxicosis
+
++ myocardial infarction
+
+246

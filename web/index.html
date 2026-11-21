@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>EDLIZ Assistant</title>
+<link rel="stylesheet" href="/static/style.css" />
+</head>
+<body>
+<header class="topbar">
+  <div class="brand">
+    <div class="mark">E</div>
+    <div>
+      <h1>EDLIZ Assistant</h1>
+      <p class="sub">Essential Medicines List &amp; Standard Treatment Guidelines for Zimbabwe</p>
+    </div>
+  </div>
+  <div class="topbar-right">
+    <span id="edition-badge" class="badge" title="The edition answers are drawn from">loading…</span>
+    <span id="status-dot" class="dot" title="CAIMEX gateway"></span>
+    <span id="status-text" class="status-text">connecting</span>
+  </div>
+</header>
+
+<div id="drift" class="drift hidden"></div>
+
+<main class="layout">
+  <section class="chat">
+    <div class="viewtabs" role="tablist">
+      <button class="vtab active" data-view="ask" role="tab">Ask</button>
+      <button class="vtab" data-view="list" role="tab">
+        Medicines list <span id="list-count" class="vcount"></span>
+      </button>
+    </div>
+
+    <div id="view-ask" class="view active">
+      <div id="messages" class="messages">
+        <div class="welcome">
+          <h2>Ask the guideline</h2>
+          <p>Every answer is drawn from the page text, with the page number attached.
+            Nothing is answered from memory.</p>
+          <div class="suggestions">
+            <button class="chip-suggest">What is the first-line treatment for gonorrhoea?</button>
+            <button class="chip-suggest">Doses for infants under one month</button>
+            <button class="chip-suggest">When is a medicine restricted to specialist level?</button>
+            <button class="chip-suggest">How is severe malaria managed in adults?</button>
+            <button class="chip-suggest">What changed about asthma controllers?</button>
+          </div>
+        </div>
+      </div>
+
+      <form id="ask-form" class="askbar" autocomplete="off">
+        <textarea id="question" rows="1" placeholder="Ask about a medicine, a condition, or a dose…"></textarea>
+        <button id="send" type="submit" aria-label="Ask">Ask</button>
+      </form>
+      <p class="disclaimer">
+        Decision support for trained health workers, not a prescription. The text is machine-read
+        from the printed book — confirm anything critical on the cited page. In an emergency,
+        follow local protocol and refer.
+      </p>
+    </div>
+
+    <div id="view-list" class="view">
+      <div class="listhead">
+        <input id="list-q" type="search" placeholder="Search the digitised list — a medicine name…" />
+        <div id="list-letters" class="letters"></div>
+      </div>
+      <div class="listmeta">
+        <span id="list-meta">Loading…</span>
+        <span class="listnote">Rows are read from the scanned tables; the page is the authority.</span>
+      </div>
+      <div class="tablewrap">
+        <table class="medtable">
+          <thead>
+            <tr>
+              <th class="c-name">Medicine</th>
+              <th class="c-form">Form / strength</th>
+              <th class="c-section">Section</th>
+              <th class="c-page">Page</th>
+            </tr>
+          </thead>
+          <tbody id="list-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <aside class="panel">
+    <div class="tabs" role="tablist">
+      <button class="tab active" data-tab="sources">Sources</button>
+    </div>
+
+    <div id="tab-sources" class="tabpane active">
+      <p class="hint" id="sources-hint">Pages used by the current answer appear here.</p>
+      <div id="sources-list" class="sources"></div>
+      <div id="web-block" class="web hidden">
+        <h3>Web results</h3>
+        <div id="web-list"></div>
+      </div>
+    </div>
+  </aside>
+</main>
+
+<div id="drawer" class="drawer hidden" aria-hidden="true">
+  <div class="drawer-head">
+    <strong id="drawer-title">Page</strong>
+    <button id="drawer-close" aria-label="Close">×</button>
+  </div>
+  <div id="drawer-body" class="drawer-body"></div>
+</div>
+
+<script src="/static/app.js"></script>
+</body>
+</html>

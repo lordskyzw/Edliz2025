@@ -1,0 +1,38 @@
+EDLIZ 2020
+B = buccal, SL = sub-lingual
+NB: Combination regimen (Method 2) is recommended because it is more
+effective.
+Repeat doses of misoprostol can be considered when needed to achieve
+success of the abortion process. Health-care providers should use caution and
+clinical judgement to decide the maximum number of doses of misoprostol
+when managing pregnant individuals with prior uterine incision. Uterine rupture
+though a rare complication, must be considered with advanced gestational age
+and therefore clinical judgement and health system preparedness for
+emergency management should be made available.
+Intra uterine foetal death (13-17 weeks)
+Medicine Codes Adultdose Frequency Duration
+misoprostol pv C V_ 200mcg 12hrly max 4 doses
+Intra uterine foetal death (18-27weeks)
+Medicine Codes Adultdose Frequency Duration
+misoprostol pv C V_ 100mcg 12hrly max 3 doses
+Third trimester (28-40weeks)
+Intra uterine foetal death (27-43weeks)
+Medicine Codes Adultdose Frequency Duration
+misoprostol po C V_ 25mcg 2hrly max 8 doses
+or misoprostol pv C V_ 50mcg 24hrly max 2 doses
+Induction of labour
+Medicine Codes Adultdose Frequency Duration
+misoprostol pv C V_ 50mceg 24hrly max 2 doses
+or misoprostol po C V_ 25mcg 2hrly max 8 doses
+Rape and Sexual Assault: Prophylaxis against infections and pregnancy
+STI prophylaxis for sexual assault survivors (see STI/ART guidelines):
+Survivors should be given STI prophylaxis/post exposure prophylaxis:
+Medicine Codes Adultdose Frequency Duration
+ceftriaxone im C V_ 250mg once only
+and azithromycin po Cc Vig once only
+or doxycycline po C v_ 100mg twice aday 7 days
+and metronidazole po Cc V 2g once only
+or tinidazole po B V 2g once only
+and _ benzathine penicillin B V_ 2.4MU once only
+im
+110

@@ -1,0 +1,56 @@
+EDLIZ 2020
+elderly patients above 50 years, patients with Creatinine Clearance of 30
+— 60(ml/min and HBV co-infected. However, TAF should NOT be used in:
+HIV/TB co-treatment or HIV infected pregnant women and patients with
+renal impairment with CrCl below 30.
+
+e In order to facilitate effective management of patients on ART; it is critical
+to make the distinction between patients on first line versus those taking
+second line ART. The program will use TLD1 to refer to patients taking first
+line DTG-based regimens while TLD2 will refer to those on second line
+DTG-based regimens.
+
+e Use of Nevirapine (NVP) and Efavirenz (EFV) 600mg (NNRTI) in adults
+and adolescents is being phased out and health providers are advised to
+limit its use. Due to high levels of pretreatment HIV drug resistance in
+Zimbabwe (>10%), NNRTIs are less preferred.
+
+e  Efavirenz 400mg is safe for use among pregnant women.
+Pharmacokinetic and pharmacodynamics studies suggest that the drug
+concentrations decline slightly during pregnancy; however, remain
+within therapeutic range and unlikely to reduce the drug efficacy.
+
+e  Efavirenz 400 mg can be co-administered with rifampicin containing
+anti-TB treatment; is well tolerated and plasma concentrations were
+maintained above the levels considered to be effective.
+
+e When available, tenofovir alafenamide (TAF) may be considered for
+elderly patients above 50 years; patients with impaired kidney function,
+established osteoporosis and among HBV co-infected patients.
+
+Caution: Tenofovir (TDF)
+
+TDF may be associated with acute kidney injury or chronic kidney disease as
+
+well as reduced bone mineral density in pregnant women.
+
+Clinical considerations when using TDF
+
+e Patients should be initiated on TDF even in the absence of laboratory
+monitoring capacity for U &Es. However, efforts should be made to
+strengthen laboratory monitoring of patients,
+
+e Routine blood pressure monitoring,
+
+e Urine dipsticks may be used to detect glycosuria or severe TDF
+nephrotoxicity in individuals without diabetes using TDF-containing
+regimens.
+
+e If the creatinine test is routinely available, use the estimated
+glomerular filtration rate at baseline before initiating TDF regimens.
+
+Do not initiate TDF when the estimated glomerular filtration rate is <50 ml/min,
+
+or in long term diabetes, uncontrolled hypertension and renal failure.
+
+157

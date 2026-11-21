@@ -1,0 +1,35 @@
+EDLIZ 2020
+» Give first dose of antibiotics, paracetamol for pain and refer to
+hospital.
+Medicine Codes Paed dose Frequency Duration
+benzylpenicillin Cc V~sO0.05- 6hrly 10days
+im 0.1MU/kg
+and gentamicin im C V_ 5-7 mg/kg 24hrly
+and paracetamol po C N= 10mg/kg 6hrly as
+required.
+Acute ear infection
+Pus is seen draining from the ear and discharge is reported for less than
+14 days; or ear pain.
+* Give antibiotics and analgesia:
+Medicine Codes Paed dose Frequenc Duration
+eS
+amoxicillin c V4-<6kg =62.5mg = 12hrly 5 days
+po 6-<14kg  =125mg
+14-19kg  =250mg
+and paracetamol c N  10mg/kg 6hrly as
+po required
+«= Use amoxicillin as first line in children on cotrimoxazole prophylaxis
+= Dry the ear by wicking
+« Follow-up for 5 days
+Chronic ear infection
+Pus is seen draining from the ear and discharge is reported for 14 days
+or more.
+«= Dry the ear by wicking
+« _ Instil quinolone drops (such as ciprofloxacin, norfloxacin, or
+ofloxacin)
+« Follow-up after 5 days then reassess.
+* If not improving, refer to ENT specialist.
+Managing a Child with a Sore Throat
+Antibiotics are only needed for streptococcal sore throats to prevent
+complications such as rheumatic fever. A streptococcal sore throat
+56

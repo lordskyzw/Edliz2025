@@ -1,0 +1,40 @@
+EDLIZ 2020
+HIV RELATED RESPIRATORY CONDITIONS
+A multitude of different manifestations of respiratory complications may occur
+in patients with HIV infection. These include bacterial pneumonias,
+pulmonary tuberculosis, Pneumocystis jiroveci pneumonia (PCP) and
+pulmonary Kaposi’s sarcoma. All HIV infected patients should be screened
+for TB at every visit using the standard TB screening tools.
+Management depends on the severity of the condition, location and mobility
+of the patient. Outpatient management in adults is preferred wherever
+possible. Only severe cases requiring investigations and inpatient admission
+should be referred for admission.
+Treat initially as for other respiratory conditions. For acute infection (less than
+2 weeks) that does not warrant admission:
+Medicine Codes Adult dose Frequency Duration
+amoxicillin po c V 500mg 3timesaday 7 days
+or erythromycin po (in C V 500mg 4 times a 7 days
+penicillin allergy) day
+or doxycycline po (in C V 100mg twiceaday 7 days
+penicillin allergy)
+If severe symptoms i.e. respiratory distress, cyanosis, tachycardia,
+hypotension or altered mental state, consider admission:
+Medicine Codes Adultdose Frequency Duration
+ceftriaxone iv c Vo ‘4g bd 7 days
+“Use 2gm BD iv if there are features of septicaemia-low BP tachycardia
+or meningitis
+A stat dose may be given at primary care level prior to transfer.
+Note: Switch to oral amoxicillin to complete the course
+If there is no response, get a chest x-ray and follow management guidelines
+in the chapter on respiratory conditions.
+Then start on prophylactic cotrimoxazole:
+Medicine Codes Adultdose Frequency Duration
+cotrimoxazole po C V_ 960mg once aday until CD4 >350
+or viral load <
+1000
+PNEUMOCYSTIS JIROVECI PNEUMONIA (PCP)
+An opportunistic infection caused by Pneumocystis jiroveci. Patients present
+with progressive shortness of breath and possibly cyanosis with few or no
+chest signs.
+= Manage with:
+140

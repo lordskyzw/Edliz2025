@@ -1,0 +1,36 @@
+EDLIZ 2020
+Medicine Codes Adultdose Frequency Duration
+cotrimoxazole po C V 1920mg 3timesaday 21 days
+(4 tabs)
+For infant or child over 1 month: 10 mg/kg every 12 hours for 21 days.
+Total daily dose may alternatively be given in 3-4 divided doses orally.
+If they are allergic, try cotrimoxazole desensitisation
+= or in sulphonamide allergy:
+Medicine Codes  Adultdose Frequency Duration
+clindamycin po B V =  450-600mg_6hourly
+8 cays
+and __ primaquine po c Vv 30mg once a day
+« If any tachypnoea or cyanosis is present, add:
+Medicine Codes Adultdose Frequency Duration
+prednisolone po 8B Vv 40mg twiceaday 5 days
+then prednisolone po B Vv 40mg onceaday 5days
+then prednisolone po B Vv 20mg onceaday 11 days
+High flow oxygen and nursed propped up are key in treatment of severe
+PCP
+» After PCP has been treated give cotrimoxazole prophylaxis until
+immunity is restored. (Follow current ART Guidelines). This also
+applies to any other patients with AIDS defining disease.
+= — If still no response, consider malignancy, for example, Kaposi's sarcoma.
+HIV RELATED HEADACHE AND PROBLEMS OF THE
+NERVOUS SYSTEM
+The symptom of headache is commonly encountered in patients with HIV
+infection. Careful evaluation and follow up is required to exclude meningitis
+and other CNS infections. Rule out a serum cryptococcal antigenaemia
+(CrAg) especially is CD4 count is less than 100. If CrAg positive refer for
+lumbar puncture (LP). Also refer for LP if the headache is associated with
+fever, vomiting, neck stiffness, seizures, confusion as all these are “danger”
+symptoms and signs. Also refer to Section on Neurological Conditions
+Other commonly encountered neurological conditions in HIV infection include
+AIDS dementia complex, peripheral neuropathy, Guillan-Barré syndrome,
+facial nerve palsy and stroke.
+141

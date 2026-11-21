@@ -1,0 +1,42 @@
+EDLIZ 2020
+- Viral infections (frequently resolve after 4-5 days, or
+may be the prodromal phase, for example, hepatitis)
+- Malaria
+- Typhoid
+- Urinary tract infection
+- Bacteraemia
+- HIV related causes of fever
+If HIV infection is suspected see guidelines in the chapter on
+HIV Related Diseases.
+If the patient's general condition is satisfactory, it is reasonable
+to withhold antibiotics while carrying out a few basic
+investigations: that is urinalysis (dip-stick), urine microscopy,
+haemoglobin, white cell count and differential and malarial
+parasites which are all within the capabilities of e.g. a district
+hospital laboratory. If possible, send a blood culture to the
+nearest microbiology diagnostic laboratory (NMRL and the TB
+laboratories). Liver function tests and urine testing for bile
+products are appropriate if hepatitis is suspected. If no
+improvement occurs after 3-4 days, and there is still no
+identifiable focus of infection, and there is no evidence of
+malaria (at least two negative blood films), the subsequent
+management of the patient should be guided by further results
+of the investigations.
+In those patients who present very ill or toxic, or whose
+condition deteriorates, antibiotic therapy should be initiated on
+the basis of clinical suspicion (typhoid — ciprofloxacin ,
+staphylococcal septicaemia - cloxacillin, etc, anaerobes -
+metronidazole).
+Recommended ‘blind’ therapy for septicaemia with no
+identifiable source is as follows:
+Medicine Codes Adultdose Frequency Duration
+“ceftriaxoneiv. CV 2g twiceaday 7-14 |
+days
+and gentamiciniv CV  4-5mg/kg onceaday max 2 weeks
+Alternative:
+Medicine Codes Adult Frequency Duration
+dose
+chloramphenicoliv B V 1g 4 days a review
+and gentamicin iv cv 4-5mg once a day max
+Ikg 2weeks
+5

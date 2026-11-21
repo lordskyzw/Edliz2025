@@ -1,0 +1,55 @@
+EDLIZ 2020
+
+e¢ Conduct a portable Chest X-ray which may show ground glass
+
+appearance, especially in the peripheral areas.
+LABORATORY TESTING OF PATIENT:
+
+e Conduct usual basic blood tests e.g. FBC, U&E, glucose, LFT
+
+¢ Collect blood cultures for bacteria that cause pneumonia and sepsis,
+ideally before antimicrobial therapy.
+
+e DO NOT delay antimicrobial therapy just to collect blood
+cultures.
+
+MANAGEMENT OF HYPOXEMIC RESPIRATORY FAILURE AND
+ARDS
+
+e Recognize severe hypoxemic respiratory failure when a patient with
+respiratory distress is failing standard oxygen therapy.
+
+e — High-flow nasal oxygen (HFNO) or non-invasive ventilation (NIV)
+should only be used in selected patients with hypoxemic respiratory
+failure. These modes of ventilation require negative ventilation in the
+ICU because they increase aerosolization and risk to HCW. We
+recommend CPAP is delivered in negative pressure room with air
+exchanges greater than regulatory thresholds (10cycles per hour) if
+negative pressure room is not available, a neutral pressure room with
+air cycling is preferable.
+
+e  Endotracheal intubation should be performed by a trained and
+experienced provider using airborne precautions.
+
+e Implement mechanical ventilation using lung protective approach
+lower tidal volumes (4-8 ml/kg predicted body weight, PBW) and
+lower inspiratory pressures (plateau pressure <30 cmH20). Target
+SPO, 88-95%, pH >7.25 and permissive hypercapnia PaCQ>.
+
+e Inpatients with severe ARDS, prone ventilation for >12 hours per day
+is recommended.
+
+e Use a conservative fluid management strategy for ARDS patients
+without tissue hypoperfusion.
+
+e Be extra careful when providing rehabilitation (e.g. chest
+physiotherapy etc) care to these patients
+
+Management of septic shock
+
+e Recognize septic shock in adults when infection is suspected or
+confirmed AND vasopressors are needed to maintain mean arterial
+pressure (MAP) 265 mmHg AND lactate is 22 mmol/L, in absence of
+hypovolemia.
+
+23

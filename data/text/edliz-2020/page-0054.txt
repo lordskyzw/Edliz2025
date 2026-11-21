@@ -1,0 +1,30 @@
+EDLIZ 2020
+For meningitis ceftriaxone can be used as an alternative: dose =
+50mg/kg/dose
+Necrotising enterocolitis
+Give nothing by mouth. Supportive care is vital: oxygen, intravenous fluids,
+warmth, and nasogastric continuous drainage. Anticipate complications such
+as bleeding, vomiting, perforation, seizures. Refer for specialist diagnosis and
+care.
+Medicine Codes Paed dose Freq. Duration
+benzylpenicillin c Vo O0.AMU/kg Table 4.1 10 days
+imliv
+and = gentamicinimliv C Vs 2.5mg/kg Table 4.3 10 days
+and metronidazoleiv A N  7.5mg/kg Table 4.1 10 days
+Neonatal tetanus
+« The important principle in treating these babies is minimal handling.
+Give:
+Medicine Codes Paed dose Freq. Duration
+benzylpenicillin im/iv C V0.O05MU per = 12hrly 5-7days
+kg
+or procaine penicillinim C Vv -50mg/kg once 5-7 days
+a day
+and _anti-tetanus B E  §00-1000 once single
+immunoglobulin im units only dose
+« Control of muscle spasms:
+Medicine Codes  Paed dose Freq. Duration
+diazepam iv c Vv 0.25-1mg/kg 4-8hrly, titrated
+according to response
+[to a max total
+dose of 10mg}
+36

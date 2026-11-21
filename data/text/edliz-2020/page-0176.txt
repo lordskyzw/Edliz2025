@@ -1,0 +1,48 @@
+EDLIZ 2020
+Calculation of GFR or Creatinine clearance in ml/min using Cockcroft Gault
+Equation
+
+Male: 1.23 X (140-age)x wt in Ka/ Creatinine (in micromols/L)
+
+Female: 1.04 X _(140-age) x wt in kq/ Creatinine (in micromols/L
+Substitution in the event of medicine toxicity / adverse
+events and unavailability
+If the patient has suspected adverse medicine events, therapy should be
+altered as follows (change of a single medicine in a multi-medicine regimen
+is permitted—that is, the offending medicine may be replaced, preferably with
+an alternative medicine of the same class):
+
+e — Given Zidovudine toxicity such as anaemia or neutropenia, Zidovudine
+will be replaced by Tenofovir.
+
+e — Inthe event of lactic acidosis, the current ARVs should be discontinued
+and ART restarted after checking for normalization of the lactate levels.
+
+e — Incase of severe psychiatric reaction on EFV give NVP
+
+e Incase creatinine clearance is known and < 50mi/min give AZT.
+
+An alternative to lamivudine (3TC) is emtricitabine (FTC); these medicines
+
+are considered pharmacologically equivalent. In the event that you come
+
+across a patient on Tenofovir/Emtricitabine /Efavirenz, you may substitute
+
+Emtricitabine with Lamivudine.
+
+For patients presenting with renal impairment, consult/ refer for specialist
+
+opinion.
+
+SECOND-LINE TREATMENT RECOMMENDATION FOR
+
+ADULTS AND ADOLESCENTS
+Ideally, patients who fail to respond to first-ine treatment should be treated
+with a different regimen containing medicines that were not included in the
+first regimen. The second-line regimen will consist of two NRTIs but with a PI
+if the initial regimen contained DTG. The second-line regimen should be
+initiated only after assessing treatment adherence and failure and in
+consultation with a specialist in HIV and AIDS treatment or the clinical
+mentorship team at the OI/ART clinic, as the recommendation will be based
+
+158

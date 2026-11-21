@@ -1,0 +1,43 @@
+EDLIZ 2020
+
+RECOMMENDED SECONDs=LINE TREATMENT FOR CHILDREN
+Definition of treatment failure in children
+Clinical Failure:
+New or recurrent clinical event indicating advanced or severe
+immunodeficiency (WHO clinical stage 3 and 4, clinical condition with
+exception of TB) after 6 months of effective treatment
+Immunological failure:
+In children younger than 5years: - CD4 levels persistently below 200
+cells/mm? or CD4 percentage <10%
+Children older than 5 years - CD4 levels persistently below 100cells/mm*
+Virological failure:
+Plasma viral load above 1000 copies/ ml based on two consecutive viral
+load measurements after 3-months, with adherence support.
+OR If using dry blood spot technology, a viral load above 3000 copies/ml
+based on two consecutive viral load measurements after 3 months, with
+adherence support.
+Table 9.4: Recommended 2™ and 3" Line ART r regimens
+
+Failing first line Third line
+DTG+DR
+
+2NRTIs
+LPVIr
+
+Where dosage guidelines and appropriate formulations are
+
+available, DTG is preferred as first line in children
+
+DTG can also be used in 1st, 2nd and 3rd line
+
+EFV should not be used in children less than 3 years of age
+
+DRV should not be used for children younger than 3 years of
+
+age. DRV should be used with ritonavir boosting in those above
+
+3 years of age
+Discuss the child with your mentor IF NOT SURE OF SECOND LINE
+TREATMENT
+
+167

@@ -1,0 +1,41 @@
+EDLIZ 2020
+Humidified oxygen by mask at high concentration (6 litres/min) is
+important.
+Give:
+Medicine Codes Adultdose Frequency Duration
+salbutamol nebulised B V_  5mg repeat at % - 1 hr
+(in saline or sterile water) intervals, then every
+24 hours _— until
+recovered
++/- ipratropium inhaler A V_ 500mcg
+and Oxygen BV 6litres/min
+or adrenaline 1:1000 sc Cc V~ 0.5m! 1-2 hourly as required
+useful when no nebuliser available
+and prednisolone po B V_ 40mg once aday 10-14
+(mornings) days
+in all but the mildest cases
+1. Note: There is no need totaper the dose of prednisolone if the
+duration is not more than 14 days
+2. If poor response to initial nebuliser therapy, SpO.2 not
+improving, risk of near fatal asthma or attack severe admit to
+HDU/ICU and add:
+Medicine Codes Adultdose Frequency Duration
+hydrocortisone iv Cc Vv 200mg once only
+magnesium sulphate C Vs 1.2-2g slow iv over 20-
+iv 30mins once
+Consider ventilation in severe cases.
+Criteria for |CU admission:
+e Patient getting tired
+e Confusion, drowsiness
+e Rising pCO.>45mmHg
+e Persistent hypoxia < 60mmHg
+e Inability to complete short sentences
+e = Acidosis
+Consider the following management for very severe cases requiring ICU
+care:
+e Continuous high flow oxygen.
+e Nebulised salbutamol and ipratropium bromide.
+e Intravenous Beta 2 agonist.
+e Intravenous hydrocortisone or methylprednisolone.
+e Possible intubation and mechanical ventilation.
+237

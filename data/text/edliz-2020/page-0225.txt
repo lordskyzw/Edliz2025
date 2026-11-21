@@ -1,0 +1,39 @@
+EDLIZ 2020
+Clinical features
+The clinical presentation of typhoid fever varies from a mild illness with low
+grade fever, malaise and dry cough to a severe clinical picture with
+abdominal discomfort, altered mental status and multiple complications.
+Clinical diagnosis is difficult to make as it is confused with many similar
+conditions. In the absence of laboratory confirmation, any case of fever of
+at least 38 °C for 3 or more days is considered suspect if the epidemiological
+context is suggestive.
+Depending on the clinical setting and quality of available medical care, some
+5-10% of typhoid patients may develop serious complications, the most
+frequent being intestinal haemorrhage or peritonitis due to intestinal
+perforation.
+Laboratory Testing
+In Zimbabwe, blood culture samples, stool/rectal swab and bone marrow
+aspirate have been used to culture for isolation of S typhi.
+Blood culture is the usual diagnostic test with a sensitivity of 90% (60% to
+80%) in the first week of onset of fever. Stool and rectal swabs yield positive
+results in up to 40% of the cases.
+Case Management
+More than 90% of patients can be managed at home with oral antimicrobials,
+minimal nursing care, and close medical follow-up for complications or
+failure to respond to therapy.
+ANTIMICROBIAL THERAPY FOR TREATMENT OF TYPHOID FEVER
+UNCOMPLICATED TYPHOID DISEASE
+i) Susceptibility: Fully Sensitive
+Medicine Codes Adultdose Frequency Duration
+ciprofloxacinpo B V 500mg twiceaday 5-7days
+or ofloxacin po S E 400mg once a day 5-7days
+ii)Susceptibility: Multidrug Resistant TB
+Medicine Codes Adult dose Frequency Duration
+azithromycin po C V_ 250-500mg once a day /7 days
+or cefixime po B V_ 500-750mg oncedaily 7-14days
+COMPLICATED TYPHOID DISEASE
+i) Susceptibility: Fully Sensitive
+Medicine Codes Adultdose Frequency Duration
+ciprofloxacinpo BV 500mg twice daily 10-14days
+or ofloxacin po BN 400mg once daily 10-14days
+207

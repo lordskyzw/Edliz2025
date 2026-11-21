@@ -1,0 +1,33 @@
+EUS 2020
+on what the patient is already taking or has taken in the past. Clinical mentors
+should be consulted where there is doubt about what to do. More adherence
+counselling will be required in preparation for the planned new therapy.
+Table 9.1: Preferred second line regimens for adults and adolescents
+including pregnant and breastfeeding women
+
+Tenofovir 300mg Zidovudine 300mg Zidovudine 300mg
+{TDF (or TAF)} + (AZT) + Lamivudine | (AZT) + Lamivudine
+Lamivudine 300mg | 300mg (3TC) + 300mg (3TC)
+(3TC) + Atazanavir/Ritonavir | +Lopinavir/ritonavir
+Dolutegravir 50mg | 300/100mg(ATV/r) | LPV/r
+(DTG)
+or
+ABC + 3TC + DTG
+TDF (or TAF) +3TC | AZT +3TC+DTG AZT +3TC +
+(or FTC) + ATV/r LPV/r
+TDF (or TAF) + 3TC
++EFV
+AZT + 3TC + EFV TDF (or TAF) + 3TC
++DTG
+Eailing first line Regimens
+A. Tenofovir 300mg {TDF (or TAF)} + Lamivudine 300mg (3TC) +
+Dolutegravir 50mg (DTG) or ABC + 3TC + DTG
+Preferred second line Regimen
+Medicine Codes Adult dose Frequency Duration
+zidovudine 300mg c Vv 1 tablet of AZT/3TC in the life
+(AZT) + lamivudine morning and 1 tablet each of
+300mg (3TC) + AZT/3TC and ATV/r in the
+atazanavir/ritonavir evening
+300/100mg (ATV/r)
+(PO)
+159

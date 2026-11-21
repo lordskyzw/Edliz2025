@@ -1,0 +1,31 @@
+EDLIZ 2020
+Treatment of severe/complicated malaria must be parenteral, and the
+medicine of choice is artesunate while quinine will remain a usable option.
+Treatment at Health Centre
+At primary level, parenteral therapy with artesunate injection must be
+commenced by IM administration or, if it is practical, by IV infusion before the
+patient is referred. Treatment is initiated by a loading dose of artesunate or
+quinine.
+Medicine Codes Dose Frequency Duration
+artesunate c UV 2.4mg/kg Dose 1: stat minimum 3 doses
+imliv Dose 2: after 12hrs before switch to
+Dose 3: after 24hrs_ Oral upon
+Dose 4 onwards: daily provement
+Dosage at 2.4 mg/kg (comprehensive dosage schedule).
+| Weight] 5kg-25kg_ | 26kg-50kg | 51kg-75kg | 76kg-100kg
+Instructions for reconstitution and dilution of parenteral Artesunate for
+intravenous (IV) use.
+Reconstitute the artesunate powder with the 1ml of sodium bicarbonate
+ampoule provided. The solution will initially look cloudy. Wait for 1 minute for
+it to clear. Discard the solution if it does not clear. Add 5 mls of 5% dextrose
+in water or normal saline to the reconstituted solution. The resultant 6ml
+solution will contain 10mg per ml Artesunate. Check the dose from table
+below to administer.
+Dosing Schedule
+¢ Give a minimum of 3 parenteral doses of Artesunate before changing
+to oral treatment, even if the patient is able to take oral medication
+early
+e Prepare a fresh solution for each injection
+e Intravenous injection is given as slow bolus, about 4 mls per minute.
+e Discard any unused solution.
+218

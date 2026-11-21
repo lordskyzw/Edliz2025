@@ -1,0 +1,62 @@
+EDLIZ 2020
+Treatment schedule for second line therapy: Adults
+Medicine Codes Dose Frequency Duration
+quininepo C V 600mg every 8hours 7 days
+doxycycline C V 100mg once daily 7days
+po
+or clindamycin BV 300mg every 8hrs 7 days
+PO
+N.B:-
+
+1. “Doxycycline is contraindicated in children below 8 years and in
+pregnancy and these patients should complete the 7 day quinine
+course.
+
+2. Clindamycin is used in place of Doxycycline in pregnancy during the
+first trimester and children under the age of eight years. (see Treatment
+in Special Groups: Uncomplicated Malaria in Pregnancy)
+
+3. If for any reason Quinine is given as monotherapy (without Doxycycline
+or Clindamycin), it should be given for a total of seven days.
+
+SEVERE MALARIA
+
+This is a life-threatening condition, and the goal of management is to prevent
+
+death. Therapy should be initiated without delay.
+
+Check for signs of:
+
+= prostration, i.e. if the patient is unable to stand or sit or feed independently,
+(children will be unable to breastfeed)
+
+"persistent vomiting
+
+=the slightest sign of alteration in consciousness which may indicate cerebral
+malaria (refer to the Coma Scale).
+
+Complications include any of the following:
+
+= Cerebral malaria
+
+« Bleeding tendencies
+
+= Severe anaemia (Hb< or=6g/dl); (Hb < 7.5g/dl for non-immune patients)
+
+= Hyperpyrexia
+
+» Jaundice
+
+= Shock
+
+= Severe haemoglobinuria
+
+= Hyperparasitaemia (>5% in non-immune patients)
+
+= Acute renal failure
+
+= Respiratory distress
+
+= Hypoglycaemia
+
+217

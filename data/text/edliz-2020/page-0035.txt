@@ -1,0 +1,37 @@
+EDLIZ 2020
+assumed to be a potential COVD-19 case until proved otherwise. Children may
+also have poor feeding, nausea and vomiting.
+TESTING FOR COVID-19
+The testing is still limited. But the definitive test is a RT-PCR testing of
+nasopharyngeal swabs for most patients. The results have a turnaround time of
+about 6 hours. Point of care tests are likely to be available soon.
+Definitions of COVID-19 cases and contacts are as per the World Health
+Organisation guidelines which are updated periodically. They are depicted
+in the table below:
+Suspect cases A. A patient with acute respiratory illness (fever and
+meet one of the at least one sign/symptom of respiratory
+following disease, e.g., cough, shortness of breath),
+criteria AND a history of travel to or residence in a
+location reporting community transmission of
+COVID-19 disease during the 14 days prior to
+symptom onset
+B. A patient with any acute respiratory illness AND
+having been in contact with a confirmed or
+probable COVID-19 case (see definition of
+contact) in the last 14 days prior to symptom
+onset
+C. A patient with severe acute respiratory illness
+(fever and at least one sign/symptom of
+respiratory disease, e.g., cough, shortness of
+breath; AND requiring hospitalization) AND in
+the absence of an alternative diagnosis that
+fully explains the clinical presentation.
+A probable A. A suspect case for whom testing for the
+case has COVID-19 virus is inconclusive
+either one of
+the following B. A suspect case for whom testing could not be
+performed for any reason
+Confirmed A person with laboratory confirmation of COVID-19
+case infection, irrespective of clinical signs and symptoms.
+The following patients should be considered at high risk of dying if they
+17

@@ -1,0 +1,36 @@
+EDLIZ 2020
+Medicine Codes Adultdose Frequency Duration
+methyldopa po C V_ 250-500mg 3-4timesaday review
+If not responding refer to district level, where a combination of methyldopa and
+nifedipine can be used:
+Medicine Codes Adultdose Frequency Duration
+methyldopa po C V_ 250-500mg 3-4 timesaday review
+and nifedipine po B V_ 20mg 2timesaday review
+Pregnancy Induced Hypertension
+* Monitor closely and check urine for protein (exclude urinary tract infection).
+Manage as high-risk antenatal patient.
+= Any pregnant woman (especially primigravida) with a rise of diastolic
+pressure > 15 mm may have severe pregnancy induced hypertension,
+even with a BP < 140/90.
+Mild Pregnancy Induced Hypertension
+Diastolic 90-100 mm Hg; no proteinuria.
+» Bed rest at home.
+» Weekly antenatal visits.
+» Admit if there is a history of foetal loss or eclampsia
+Moderate Pregnancy Induced Hypertension
+Diastolic 100-110 mm Hg; no proteinuria.
+* Admit, monitor blood pressure 4 hourly, and give:
+Medicine Codes Adultdose Frequency Duration
+methyldopa po C V_ 250-500mg 3-4 times aday review
+and nifedipine po B V_ 20mg 2timesaday review
+» _Atgestation > 37 weeks, plan delivery.
+Severe Pregnancy induced hypertension
+» Diastolic > 110mm Hg; in first 20 weeks of pregnancy -this is likely to be
+essential hypertension. Severe PIH in the second half of pregnancy needs
+careful monitoring for organ damage. Manage as for moderate pregnancy
+induced hypertension. If not controlled add hydralazine as follows:
+Medicine Codes Adultdose Frequency Duration
+methyldopa po c V 250-500mg 3-4timesaday review
+nifedipine po B V_— 20mg twice a day review
+plus hydralazine im BV 10mg every 4 hours review
+103

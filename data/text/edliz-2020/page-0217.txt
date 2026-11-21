@@ -1,0 +1,43 @@
+EDLIZ 2020
+Medicine Codes Adultand Frequency Duration
+children
+dose
+praziquantelpo C E 40mg/kg one dose __ repeat after 2 weeks
+and prednisolone po B V_ 50mg, once a day, reducing by 5mg per day
+according to response.
+HELMINTHIASIS
+General Notes
+Prevention: transmission of helminths can be reduced by measures such
+as thorough cooking of meat and fish, use of latrines, wearing shoes,
+washing hands. Attention to the hands and nails is particularly important in
+the case of pinworm. Health promotion to prevent re-infection is very
+important. Endemic districts can conduct Mass _ Drug/medicine
+Administration (MDA) once a year.
+The diagnosis should be confirmed by examination of stool for helminths
+and stool microscopy for eggs; peri-anal swab placed in saline for pinworm.
+In the case of pinworm, threadworms (enterobius), the whole family should
+be treated. The first-choice treatment for all of the above infestations is
+albendazole, a broad-spectrum anthelmintic. Note also that treatment of
+bilharzia with praziquantel would also have eliminated roundworms.
+Caution: Safety in pregnancy has not been established for albendazole;
+do NOT use in the first trimester of pregnancy. In most cases, treatment
+can be given AFTER delivery.
+« All Roundworms except Strongyloides
+Medicine Codes Adultdose Frequency Duration
+albendazole po C E 400mg one dose only
+<2yrs = 200mg
+"Tapeworm and Strongyloides
+Medicine Codes Adultdose Frequency Duration
+albendazole po C E 400mg onceaday 3days*
+<2yrs = 200mg
+*Note: If not cured after 3 weeks, repeat the course.
+« Cutaneous larva migrans (“sandworm”)
+Medicine Codes Adult dose Frequency Duration
+albendazolepo C E 400mg onceaday 7 days
+<2yrs=200m
+a:
+» Cysticercosis and Neurocysticercosis
+Specialist inpatient treatment is required.
+Medicine Codes Adultdose Frequency Duration
+praziquantel po C E 17mg/kg 3timesaday 15 days
+199

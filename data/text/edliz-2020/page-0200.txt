@@ -1,0 +1,29 @@
+EDLIZ 2020
+HIV negative contacts (adults Rifapentine plus isoniazid | Isoniazid alone
+and adolescents >15 years)
+[3HP] [6H]
+CLHIV on EFV-based regimen Rifapentine plus isoniazid | Isoniazid alone
+(Adolescents, children >2yrs)
+[SHP] (6H)
+CLHIV on DTG -based regimen, | Isoniazid alone
+Pls and NNRTIs
+[6H]
+HIV negative contacts (children Isoniazid plus rifampicin Isoniazid alone
+under 15s) (RH)
+[6H]
+[3RH]
+Special Groups
+*MDR-TB Contacts Levofloxacin
+(6LFX]
+Pregnant women Isoniazid alone
+[6H]
+* The preventive treatment for MDR contacts should be individualized after a
+careful assessment of the intensity of exposure, the certainty of the source
+case, reliable information on the drug resistance pattern of the source case
+and potential adverse events. The preventive treatment should be given only
+to household contacts at high risk in whom active disease has been ruled out
+(e.g. children 5 years and below, people receiving immunosuppressive
+therapy and people living with HIV). Levofloxacin should be selected according
+to the drug susceptibility profile of the index case. Confirmation of infection
+with LTBI tests is required.
+182

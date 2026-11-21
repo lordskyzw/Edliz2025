@@ -1,0 +1,30 @@
+EDLIZ 2020
+Paediatric Medicines Doses
+Notes on Paediatric Medicines Doses:
+. for infants under one month see Tables 4.1,4.2, 4.3 and 4.5;
+. read the “dosage” column carefully in conjunction with the
+“doses/day” column;
+. do not exceed the adult dose: the dosage per kg is not
+applicable for children > 40kg;
+Table 4.16: Dosages for Children and Infants Over 2 Months
+For antibiotics where “Doses/Day” give a range (e.g. 2-4) the
+number of doses/day should be chosen according to both the
+baby’s gestational age and postnatal age. Do not exceed the
+frequency recommended in the table.
+eer ee eee
+Acetylcysteine iv 150mg/kg over 15mins
+200mg/mI injection then 50mg/kg over 4hours
+then 100mg/kg over 16hours
+Adrenaline 1:1000 0.01mi/kg, repeat after 20mins
+fee i
+Aminophylline iv Loading: 6mg/kg over 30mins
+= _ oe
+Amoxicillin 16mg/kg 8hrly
+=
+Ampicillin im/ iv mild 12.5 mg/kg 6hriy
+=— ies
+Atropine sulphate Pre-operatively 0.02mg/kg
+==
+Benzylpenicillin iv/ im 50 000 — 100 000u/kg 6hrly
+fem [eee
+80

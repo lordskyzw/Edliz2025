@@ -1,0 +1,32 @@
+EDLIZ 2020
+Nausea and Vomiting in Pregnancy
+During the first trimester, if vomiting is not excessive, advise small frequent
+bland meals and drinks.
+Antacids may give symptomatic relief if gastritis is present. If vomiting persists,
+look for underlying cause e.g. urinary tract infection, molar pregnancy, and
+multiple pregnancies.
+Give:
+Medicine Codes Adultdose Frequency Duration
+promethazine po B N= 25mg once atnight as required
+or chlorpheniraminepo C E 4mg once at night 5 days
+or metoclopramide po C N= 10mg 3 times aday as required
+“Note: If severe, the dose may be given two to three times a day.
+Hyperemesis Gravidarum (Vomiting and Dehydration)
+Admit or refer for intravenous fluids and give:
+Medicine Codes Adult dose Frequency Duration
+prochlorperazine im BE 12.5mg twice a day as needed
+or —_ promethazine im B V_= 25mg twice a day as needed
+or metoclopramide po C N= 10mg 3 times a as needed
+day
+Anaemia during Pregnancy
+Prophylaxis in Antenatal Care
+Medicine Codes Adultdose Frequency Duration
+ferrous sulphate po C E 200mg once aday throughout
+pregnancy
+and folic acid po C E 5mg once a week throughout
+pregnancy
+or  combinedferrousand C E once daily —_ throughout
+folic acid po pregnancy
+* Start at booking for antenatal care. Continue prophylaxis for 6 weeks after
+delivery. Also give dietary advice.
+100

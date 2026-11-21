@@ -1,0 +1,44 @@
+EDLIZ 2020
+. R= respiratory rate > or equal to 30
+» _ B=blood pressure less than 90/60
+»  65= age of 65 or more
+» Always try to obtain sputum for MCS to establish the aetiological
+pathogen and its sensitivity to guide antibiotic treatment after
+empiric therapy.
+Pneumonia - segmental/ lobar (usually pneumococcal)
+Medicine Codes Adultdose Frequency Duration
+benzylpenicillinivorim C V_ 1.5gm 6hourly 7 days
+(=2.5MU)
+or ceftriaxone iv Cc V~ igm daily or 7days
+twice daily
++/- erythromycin po C V_ 500mg 4timesa 7 days
+day
+A stat dose may be given at primary care level prior to transfer.
+Note: Switch to oral amoxicillin to complete the course
+» If no improvement within 48 hours, review diagnosis (consider
+tuberculosis or a complication of pneumonia e.g. lung abscess)
+Pneumonia - Staphylococcal
+Medicine Codes Adultdose Frequency Duration
+cloxacillin iv* BV 1-2gm 6hourly 14 days
+or clindamycin iv* in B N_ 600mg 3-4timesa 14 days
+penicillin allergy day
+*iv for at least 7 days, then consider changing to oral route
+Pneumonia — Klebsiella, other gram negative
+——___Medicine__Codes_Aduitdose_Frequency Duration _
+gentamicin iv C V_ 120mg 12hourly 10-14 days
+and ceftriaxone iv Cc VV igm 2 times a 10-14 days
+a)
+or based on culture and sensitivity.
+Lung abscess
+« Postural drainage and physiotherapy are mandatory. Patients with
+very large abscesses should lie in the lateral decubitus position
+with the abscess side down, plus
+Medicine Codes Adultdose Frequency Duration
+benzylpenicillin iv Cc V~ 1.5gm 6hourly 4-8weeks*
+(=2.5MU)
+and metronidazole po Cc V_ 400mg 3timesaday 4-8weeks
+Alternatively (alone)
+Medicine Codes Adultdose Frequency Duration
+amoxicillin-clavulanic B V_ 625mg 3 times a
+acid po day
+230

@@ -1,0 +1,37 @@
+EDLIZ 2020
+*continue until no longer toxic +/- 7 days, then complete treatment as
+outpatient for 4-8 weeks with oral amoxicillin 500mg three times a day.
+Be on the lookout for C. difficile diarrhoea due to long course of
+antibiotics. Repeat the CXR at 6 weeks. If no_ significant
+resolution/response, refer to a Specialist to consider possibility of MRSA
+(if patient was previously hospitalised), TB or other pathologies such as
+malignancy.
+EMPYEMA
+» — Institute pleural drainage with a large intercostal tube and
+underwater seal.
+Medicine Codes Adultdose Frequency Duration
+benzylpenicillin iv C V_ 2.5MU 6hourly 10-14 days
+and metronidazole po C V_ 400mg 3times aday 10-14 days
+Alternatively (alone)
+Medicine Codes Adultdose Frequency Duration
+amoxicillin-clavulanic B V_ 625mg 3 times a 10-14days
+acid po day
+Also institute thromboprophylaxis with heparin/warfarin (refer to
+Haematology section).
+Note: If pus still drains after two weeks refer for surgical opinion.
+» — If preceded by a suspected staphylococcal pneumonia use:
+Medicine Codes Adultdose Frequency Duration
+cloxacillin iv B V~ 1gm 6hourly 10-14 days
+and metronidazole po Cc V_ 400mg 3times aday 10-14 days
+e In HIV infection, also consider TB empyema especially
+HEALTHCARE ASSOCIATED INFECTIONS (NOSOCOMIAL)
+» Pneumonia presenting 3 days after admission:
+Medicine Codes Adultdose Frequency Duration
+gentamicin iv Cc V_ 120mg 12hourly 7-10 days
+and benzylpenicillin iv Cc V~ 1.5gm 6hourly 7-10 days
+(=2.5MU)
+OTHER COMMON RESPIRATORY INFECTIONS
+Chronic Obstructive Pulmonary Disease (COPD)
+This term has replaced “chronic bronchitis and emphysema”.
+There are many aspects of management:
+231

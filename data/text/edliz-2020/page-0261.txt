@@ -1,0 +1,30 @@
+EDLIZ 2020
+Medicine Codes Adultdose Frequency Duration
+amlodipine po Cc V_ 5-10mg once daily long term
+or nifedipine slow release C V_  20-40mg once daily long term
+po
+enalapril po B V_ 5-40mg twice daily long term
+and
+or lisinopril po BV 5-10mg once daily long term
+or losartan po B  V_ 25-100mg__ once daily long term
+= Thiazides/thiazide like diuretics and ACE inhibitors/angiotensin
+receptor blockers:
+Medicine Codes Adult dose Frequency Duration
+hydrochlorothiazide po C V = 12.5-25mg onceaday longterm
+enalapril po B  V_ 5-20mg twice daily long term
+and
+or lisinopril po BV 5-10mg once daily long term
+or losartan po B  V_ 25-100mg once daily long term
+Second line combination therapy
+« Thiazide/thiazide-like diuretics, calcium channel blockers and ACE
+inhibitors/angiotensin receptor blockers:
+Medicine Codes Adultdose Frequency Duration
+hydrochlorothiazide C V_~ 12.5-25mg oncedaily long term
+po
+and amlodipine po B V_ 5-10mg once aday long term
+or nifedipine slowrelease B V  20-40mg_ twice daily long term
+po
+and _ enalapril po B V_ 5-20mg twice daily long term
+or lisinopril po B V_ 5-10mg twice daily long term
+or __ losartan po B V_ 25-100mg_ once daily long term
+243

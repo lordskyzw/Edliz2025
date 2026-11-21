@@ -1,0 +1,33 @@
+EDLIZ 2020
+Cotrimoxazole prophylaxis:
+Cotrimoxazole _(trimethoprim-sulfamethoxazole) prophylaxis _ provides
+protection against some but not all severe bacterial infections and has been
+shown to prolong life and reduce hospital admissions.
+Cotrimoxazole prophylaxis should be given to the following:
+e — All patients with WHO clinical stages 2, 3, and 4 disease
+e — All patients with CD4 counts equal or less than 350 cells/mm*
+e — Pregnant women with CD4 counts equal or less than 350 cells/mm?
+e — All children born to HIV-positive mothers from six weeks of age until
+they are tested and confirmed to be HIV negative
+e Cotrimoxazole prophylaxis should be started as soon as any of the
+above conditions are suspected; this should be done at every entry
+point and not just be left to the OI clinics.
+¢ Cotrimoxazole prophylaxis must be stopped when patients
+become clinically stable and are virally suppressed below 1000
+copies/ml for those patients who have been on ART for at least 6
+months
+Medicine Codes Adult Frequency Duration
+dose
+cotrimoxazole C V 960mg onceaday until CD4>350 cells/mm® for 6
+po months with ARVs or VL is less
+than 1000 copies per ml for at
+least 6 months
+Cotrimoxazole prophylaxis in children
+Give once daily orally according to the following table.
+Table 8.1 Cotrimoxazole Prophylaxis in Children
+Suspension Paediatric tablets
+(240 mg /5 ml) (120 mg)
+ee
+ftw fe
+cows fm fe
+133

@@ -1,0 +1,42 @@
+EDLIZ 2020
+ACUTE RESPIRATORY INFECTIONS IN ADULTS
+Outpatient management
+For acute respiratory infections in children see the paediatrics
+chapter.
+Common cold, influenza and acute bronchitis (‘cough’)
+No antibiotics are required. Treat symptomatically.
+Other respiratory infections (Including pneumonia and other severe
+lower respiratory infections)
+* The approach to management may be influenced by the patient's HIV
+status. Always exclude TB and PCP. Loss of weight, productive cough
+for > 3 weeks, night sweats and a fever require TB screening i.e.
+sputum tests and/or CXR. Take a history of the duration of symptoms,
+sputum production (colour, haemoptysis and volume), constitutional
+symptoms of anorexia, weight loss, night sweats, and pyrexia. Ask for
+pleuritic chest pains.
+» If tuberculosis is unlikely and the patient's condition does not
+warrant admission, treat the infection with:
+Medicine Codes Adultdose Frequency Duration
+amoxicillin po C V~ 1g stat, 3 times a 7 days+review
+then day (Return earlier if
+500mg symptoms
+|)
+or If allergic to C V_ 500mg 4 times a 7 days
+penicillin use: day
+erythromycin po
+» — If tuberculosis is likely arrange a sputum examination (2 sputum
+smear tests) and plan a review within one week.
+On re-assessment, if there is no clinical improvement refer to district
+level. The three most common diagnosis are:
+* Pneumonia - non-responding segmental/lobar (See section on
+inpatient management)
+* Tuberculosis
+Repeat sputum smear tests. Refer to the chapter on tuberculosis for
+treatment protocols.
+= Pneumocystis Pneumonia (PCP)
+Patients are usually breathless, may be breathless only on exertion
+early in the illness, may be cyanosed; and may have negligible chest
+signs. The chest x-ray typically reveals bilateral fine perihilar mid-
+zone reticular-nodular infiltrates (ground grass). There may be cystic
+change. Frequently there are other signs of immuno- suppression.
+228

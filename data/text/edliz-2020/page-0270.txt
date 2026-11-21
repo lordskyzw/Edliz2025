@@ -1,0 +1,37 @@
+EDLIZ 2020
+=" The same regimen should also be used for refractory atrial
+fibrillation or SVT
+= If ventricular arrhythmias are troublesome disopyramide (specialist-
+only) may be used — refer.
+HIGH DEGREE AND SYMPTOMATIC HEART BLOCK (STOKES ADAMS ATTACK)
+REFER TO SPECIALIST FOR PACEMAKER INSERTION.
+ENDOCARDITIS
+Consult a microbiologist where possible. Alpha-haemolytic streptococci are
+the most common causes of native valve endocarditis, but Staphylococcus
+aureus is more likely if the disease is rapidly progressive with high fever, or
+is related to a prosthetic valve (Staphylococcus epidermidis). Three sets of
+blood cultures should be taken before starting treatment.
+Native valve endocarditis
+Empirical treatment:
+Medicine Codes Adultdose Freq. Duration
+benzylpenicillin iv Cc V_ 5MU 6hourly 2-6 weeks
+or ceftriaxone 1g iv Cc VO 14g 12hourly 2-6 weeks
+and gentamicin iv Cc V_= 80-120mg 12hourly 2 weeks
+*Total duration of antibiotic therapy should be 4 — 6 weeks if there is
+evidence of improvement.
+*Treatment can be changed to oral therapy after at least 2 weeks of IV
+antibiotics if there is marked improvement.
+Prosthetic valve endocarditis
+Initially:
+Medicine Codes Adultdose Freq. Duration
+cloxacillin iv B V 2g 6hourly 4-6 weeks
+and gentamicin iv C V_ 80-120mg  12hourly 4 weeks
+It is important to measure serum gentamicin levels every 3-4 days. One-
+hour peak concentration should not exceed 10mg/ and trough
+concentration (2hour pre-dose) should be less than 2mg/.
+Treatment of culture positive endocarditis
+Streptococcal infection (e.g. Strep. viridans):
+Medicine Codes Adultdose Frequency Duration
+benzylpenicillin iv C Vv 5MU 6hourly 4-6 weeks
+and gentamicin iv C V_~ 80-120mg 12hourly 4 weeks
+252

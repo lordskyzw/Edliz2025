@@ -1,0 +1,39 @@
+EDLIZ 2020
+Treatment of dehydration in Severe Malnourished Children
+Severe acute malnourished children with profuse watery diarrhoea and
+signs such as sunken eyes, slow skin pinch, absent tears, dry mouth,
+very thirsty, reduced urine output, rapid pulse and respirations. These
+should be considered as severely dehydrated.
+Do not use the IV route for rehydration except in cases of shock and then
+do so with care, infusing slowly to avoid flooding the circulation and
+overloading the heart. Do not give standard oral rehydration salts solution
+(90 mmol sodium/l) in severely malnourished children as it contains too
+much sodium and too little potassium children. Give special Rehydration
+Solution for Malnutrition (ReSoMal).
+Medicine Codes Child Dose Frequency Duration
+I(kg/feed)
+ReSoMal CE 5mi/kg every 30 minutes 2 hours
+then 5-10ml/kg/hr determined by stool 4-10hrs
+loss, vomiting and
+how much the child
+wants,
+Replace the ReSoMal doses at 4, 6, 8 and 10 hours with F-75 if
+rehydration is continuing at these times, then continue feeding with F-75
+Table 4.12: When ReSoMal is not available prepare as follows:
+(Used if no therapeutic milk, F75/F100 as they contain electrolytes)
+[ingredient | Amount
+Water (boiled & cooled)
+WHO-ORS One 1 litre-packet*
+a
+Combined Vitamin and Mineral mix 3g
+(CMV)*
+If CMV is not available,
+Table 4.12b: Electrolyte/mineral solution can be prepared as
+follows:
+Quantity molar content of 20
+ml
+Potassium Chloride: KCI P22a «| 2ammol CS
+Tripotassium Citrate: CCHSK307.H20 | 81. +| 2mmolS~S~S
+Magnesium Chloride: MgCl2.6H20
+Zinc Acetate: Zn(CH3COO)2.2H20 300 pmol
+69
