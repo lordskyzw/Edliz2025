@@ -121,7 +121,10 @@ def _clean(name: str) -> str | None:
     # and "Calcium gluconate" still pass.
     if len(words) == 1 and words[0].lower() in {
             "acid", "sodium", "potassium", "calcium", "magnesium", "iron",
-            "water", "saline", "solution", "injection", "tablet"}: 
+            "water", "saline", "solution", "injection", "tablet", "capsule",
+            "syrup", "cream", "ointment", "acetate", "hydrochloride", "citrate",
+            "sulfate", "sulphate", "phosphate", "chloride", "tartrate",
+            "maleate", "fumarate", "besylate", "mesylate"}:
         return None
     for word in words:
         low = word.lower().strip(".,;:()")
