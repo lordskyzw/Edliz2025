@@ -1,0 +1,32 @@
+EDLIZ 2025
+PNEUMOCYSTIS JIROVECII PNEUMONIA (PJP)
+An opportunistic infection caused by Pneumocystis jiroveci. Patients present with
+progressive shortness of breath and possibly cyanosis with few or no chest signs.
+e@ Manage with:
+Medicine Codes Adult dose Frequency Duration
+cotrimoxazole po C V_ 1920mg (4 tabs) 3 times a day 21 days
+For infant or child over 1 month: 10 mg/kg every 12 hours for 21 days. Total daily dose
+may alternatively be given in 3—4 divided doses orally.
+If they are allergic, try cotrimoxazole desensitisation under specialist supervision
+or in sulphonamide allergy:
+Medicine Codes Adult dose Frequency Duration
+clindamycin po B_ V_ 450-600mg 6hourly
+TS, ,T TT 21 days
+and primaquine po C V_ 30mg once a day
+e  Ifany tachypnoea or cyanosis is present, add:
+Medicine Codes Adult dose Frequency Duration
+prednisolone po B V_ 40mg twice a day 5 days
+then prednisolone po B V_ 40mg once a day 5 days
+then prednisolone po B V_= 20mg once a day 11 days
+High flow oxygen and nursed propped up are key in treatment of severe PCP
+e After PCP has been treated give cotrimoxazole prophylaxis until immunity
+is restored. (Follow current Guidelines for HIV Prevention, Testing and
+Treatment). This also applies to any other patients with AIDS defining
+disease.
+e If still no response, consider other OIs or malignancy, for example, Kaposi’s
+sarcoma.
+HIV RELATED HEADACHE AND PROBLEMS OF THE NERVOUS
+SYSTEM
+The symptom of headache is commonly encountered in patients with HIV
+infection. Careful evaluation and follow up is required to exclude meningitis and
+167

@@ -1,0 +1,37 @@
+EDLIZ 2025
+CATARACT
+Cataract is defined as the opacity of the lens. Causes may be classified as acquired
+and congenital. Aging, trauma, inflammation, drugs and metabolic disorders like
+diabetes mellitus are the leading acquired causes while intrauterine infections,
+inheritance and congenital abnormalities are the leading congenital causes of
+cataracts. Treatment for cataract is surgical except for galactosemic cataract which
+reverses when the neonate is given a lactose free diet. Cataracts present with a
+white pupil in children, loss of vision of various degrees, squint and rarely painful
+blind eye if neglected and complicated with glaucoma and lens induced uveitis.
+Mydriatic Drugs:
+Medicine Codes Adult dose Frequency Duration
+tropicamide 0.5% or 1% B V__ 1-3 drops stat pre-op
+eye drops
+or — cyclopentolate 0.5% or B N__ 1-3 drops stat pre-op
+1% eye drops
+and phenylephrine 2.5% eye B V__ 1-3drops stat Pre-op
+drops
+atropine 0.5% or 1% B V__1-2drops 2-3 times/day _1 week
+Corticosteroid drugs used post cataract surgery:
+Medicine Codes Adult dose Frequency Duration
+dexamethasone B_ V_ 1 drop 6hourly 6 weeks
+0.1% neomycin
+0.35%, polymyxin
+B sulphate
+6000units/L and
+ointment
+or dexamethasone B_ V_ 1 drop 6hourly 6 weeks
+0.1%, neomycin
+0.35% eye drops
+and ointment
+or betamethasone B_ V_ 1 drop 6hourly 6 weeks
+0.1% eye drops
+or prednisolone A E_ 1 drop 1-2 hourly 2-3 weeks
+acetate 1% eye
+drops
+444

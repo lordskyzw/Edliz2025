@@ -1,0 +1,31 @@
+EDLIZ 2025
+For those requiring three drugs, a combination of a thiazide-like diuretic with CCB
+and ACEi/ARB. Beta blockers should be used when there is a specific indication
+for their use, e.g. angina, post myocardial infarction, heart failure with reduced
+ejection fraction, or when heart rate control is required.
+Resistant hypertension: Identify resistant hypertension, defined as poorly
+controlled hypertension despite three drug combination therapy including a
+diuretic. Inadequate compliance and suboptimal dosing should always be
+considered and excluded.
+GUIDELINES FOR TREATMENT OF HYPERTENSION:
+e start with first line medicine
+start with the lowest recommended doses
+eif ineffective or not tolerated change the medicine or add a medicine from
+another class.
+First line combination therapy
+*  Thiazides/thiazide like diuretics and calcium channel blockers
+Medicine Codes Adult dose Frequency Duration
+hydrochlorothiazide po! C V12.5-25mg once daily long term
+(max 25mg)
+and amlodipine po C V5-10mg once daily long-term
+or _ nifedipine slow release po C V_ 20-40 mg once daily long-term
+'Unfavourable effect in patients with gout
+e Calcium channel blockers and ACE inhibitors/angiotensin receptor
+blockers:
+Medicine Codes Adult dose Frequency Duration
+amlodipine po C V_ 5-10mg oncedaily — long term
+or __ nifedipine slow release po C V_ 20-—40mgonce daily _long term
+and enalapril po B V_ 5-40mg twice daily long term
+or __ lisinopril po B V_ 5-10mg oncedaily _ long term
+or __ losartan po B  V_ 25-100monce daily _long term
+293

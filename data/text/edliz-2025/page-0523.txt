@@ -1,0 +1,33 @@
+EDLIZ 2025
+Macrocytosis also occurs in liver disease, alcohol excess, hypothyroidism, some
+haemolytic anaemia and myelodysplastic syndromes. In the presence of these
+conditions, vitamin Bi2 /folate deficiency must be excluded. Macrocytosis is
+physiological in the neonate.
+Vitamin B12 Deficiency
+Lifelong replacement is mandatory in pernicious anaemia, post-gastrectomy or
+ileal resection.
+Medicine Codes Adult dose Frequency Duration
+hydroxocobalami B V_ img daily 3 days
+n (vitamin Biz) im then weekly for 3 weeks, and monthly for 3 months
+and then every 3 months for a year and then twice a
+year.
+Folic Acid Deficiency
+Occurs in most prolonged haemolytic anaemia, pregnancy, and seasonally in dry
+areas with no access to fresh vegetables, in malabsorption up to 15mg daily may
+be required.
+Medicine Codes Adult dose Frequency = Duration
+folic acid po C E 5mg onceaday 3 months and review
+SICKLE CELL ANAEMIA
+Management:
+Medicine Codes Adult dose Frequency Duration
+folic acid po C E 5mg onceaday _ for life
+penicillin V po C E 250mg onceaday _for life
+For malaria prophylaxis in endemic areas:
+Medicine Codes Adult dose Frequency —_ Duration
+pyrimethamine/ C E_ one tablet once a week continual
+dapsone po 12.5mg/100
+mg
+In a painful crisis, intravenous rehydration, regular and adequate analgesia,
+oxygen by mask where available and possibly in some cases antibiotics are
+required.
+521

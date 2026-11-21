@@ -1,0 +1,36 @@
+EDLIZ 2025
+@ Pregnant women are now routinely tested for syphilis using a rapid diagnostic kit
+(TPHA equivalent). Pregnant women with syphilis require close surveillance
+especially, to identify re-infection after treatment.
+e Partner Treatment: Note the importance of having sex partner treated, therefore
+always provide Contact Tracing Slip.
+Babies born to women found to have syphilis during pregnancy should be treated
+even if the mother had been adequately treated during pregnancy:
+Treatment for babies born to mothers with syphilis
+Medicine Codes _ Paed dose Frequency Duration
+benzathine penicillin C V_ 30mg/kg one dose only
+im [=50 000u/kg]
+Congenital Syphilis (babies clinically infected): ****
+Medicine Codes Paed dose Frequency Duration
+benzathine penicillin C V  50,000ukg ~— one weekly ~—3 weeks
+im [30mg/kg]
+or procaine penicillinim C V = S50mg/kg once a day 10 days
+[=50 000u/kg]
+or erythromycin po(in C V 12.5mg/kg 4timesaday 10 days
+penicillin allergy)
+Neurosyphilis:
+Medicine Codes Adult dose Frequency Duration
+benzyl penicillin iv C V_=18-2.4g four hourly 2 weeks
+or benzathine penicillin C V 2.4MU one weekly 3 weeks
+im
+or procaine penicillinim C V_ 600mg[=Iml  onceaday 21 days
+in each buttock]
+or doxycycline po Cc V_ 200mg twiceaday 28 days
+or erythromycin po (in C V_ 500mg 4 times a 28 days
+penicillin allergic day
+pregnant women)
+and prednisolone BV 40mg once daily three days
+starting 24
+hours before
+other treatment
+139

@@ -1,0 +1,42 @@
+EDLIZ 2025
+
+e Associated comorbidity-malnutrition, HIV
+e Failure of resolution of symptoms in 48-72 hrs.
+e Patients who might not return to hospital
+First line medicine
+
+Medicine Codes Adult dose Frequency Duration
+
+amoxicillin po C V_ 500mg 3 times aday 7 days
+
+40mg /kg in paeds
+
+Caution: Use erythromycin in patients with penicillin allergy, patients who
+received amoxicillin in the last thirty days (move to second line as the risk of
+resistance is high)
+Second line medicine
+
+Medicine Codes Adult dose Frequency — Duration
+
+amoxicillin and B- N_ 80mg/kg; 2 times a 10 days (severe &
+
+clavulanic acid po 6.4Amg/kg day <6mnths)
+
+5-7 days (less severe)
+Recurrent Acute Otitis Media
+More than four episodes per year -REFER
+ACUTE MASTOIDITIS
+Patient presents with fever, chills. Examination reveals tenderness over mastoid
+and retroauricular swelling. Anterior displacement of auricle. Bulging and
+unhealthy tympanic membrane.
+Initiate intravenous antibiotics and REFER
+Medicine Codes Adult dose Frequency Duration
+benzyl penicillin iv/im C V__ 0.1MU/kg stat
+
+or ceftriaxone iv/im Cc Vv 80mg/kg stat
+Otitis Media with Effusion
+e Follows AOM or can present without any history of AOM
+e Hearing loss most common presentation and aural fullness
+e 5-7 years most common age group affected
+
+455

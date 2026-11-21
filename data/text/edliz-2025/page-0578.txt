@@ -1,0 +1,36 @@
+EDLIZ 2025
+Contraindications
+e Hypersensitivity to the medicine
+Contraindications to spinal anaesthesia
+e Patient refusal
+e Hypovolaemia/hypotension
+e Septicaemia/local skin infections
+e Coagulation disorders
+e Fixed cardiac output states
+Lignocaine Hydrochloride
+Medicine Codes Dose Onset Duration
+lignocaine HC12% plain C Vmax =3mg/kg 2-10 min _ 1-2 hours
+lignocaine HCl 2% +B E  max=7mg/kg 2-10 min 1-2 hours
+adrenaline 1: 200 000
+Other Peri-Operative Medicines
+Antimuscarinic Medicines
+Atropine Sulphate
+Medicine Codes Dose Onset Duration
+atropine sulphate iv B V_ 0.6-1.2mg 2-10 min 1-2 hours
+(paeds: 10-20mcg/kg)
+Indications:
+e Used with neostigmine for reversal of non-depolarising neuromuscular block:
+10-20mcg/kg iv [Paed=10-20mcg/kg]
+e Used in children where a bradycardia may occur when suxamethonium is used.
+e Bradycardia; 0.5-0.6mg IV. May repeat to a total dose of 3mg if necessary.
+Glycopyrrolate
+Medicine Codes Dose
+glycopyrrolate iv S V_ 10mcg/kg
+[0.2 mg iv per Img of
+neostigmine
+Indications:
+e For use with neostigmine for reversal of non-depolarising neuromuscular
+blockade
+e Causes less tachycardia compared to atropine hence medicine of choice for the
+elderly and those with cardiac disease
+576

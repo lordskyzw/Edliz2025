@@ -1,0 +1,57 @@
+EDLIZ 2025
+Medcine Codes Adult dose Frequency Duration
+amiodarone iv AE 150 mg over first 30 min (Smg/min),
+followed by 360 mg over next 6 hr (1 mg/min),
+THEN 540 mg over remaining 18 hr (0.5 mg/min),
+Maintenance: 0.5 mg/min for a total 720 mg/24hr
+
+e In general, maintenance with amiodarone infusion should be limited to 24
+hours or less, unless if the patient cannot tolerate oral medication, or the
+tachyarrthymia is recurrent.
+
+e The same regimen should also be used for refractory atrial fibrillation or
+SVT
+
+e If ventricular arrhythmias are troublesome disopyramide (specialist-only) may
+be used — refer.
+
+High degree and symptomatic heart block (Stokes Adams attack) refer to specialist
+
+for pacemaker insertion.
+
+ATRIAL FIBRILLATION
+
+Patients with acute, symptomatic atrial fibrillation should be referred to the nearest
+
+hospital for stabilization.
+
+Patients with atrial fibrillation confirmed by ECG, should be assessed for burden
+
+of symptoms, cardiac function and stroke (or systemic embolism) risk, using
+
+validated scores such as the CHA2DS2Vasc score.
+
+The following medications can be used for rate control:
+
+Medicine Codes Adult dose Freq. Duration
+
+atenolol po B_ V_ 25-100 mg 1-2 times/d Long term
+or bisoprolol po B V_ 2.5—10 mg once daily Long term
+
+verapamil po B_V_ 40-80 mg three times /day _ Long term
+and digoxin po B_V__ 0.125-0.25 once daily Long term
+
+e The following medications can be used for long-term anticoagulation in patients
+at high risk of stroke or systemic embolism.
+
+e Warfarin is the preferred oral anticoagulation agent in patients with atrial
+fibrillation in the setting of rheumatic heart disease.
+
+e Warfarin should only be used if regular therapeutic INR monitoring is available
+and feasible. The target INR range is 2-3.
+
+e Before initiating oral anticoagulation, assess kidney and renal function,
+haemoglobin and platelet count. Refer patients with renal or hepatic dysfunction
+to specialists.
+
+303

@@ -1,0 +1,23 @@
+EDLIZ 2025
+gonococcal infections with a higher dose of ceftriaxone than what has been done
+previously.
+First Line:
+Medicine Codes Adultdose Frequency Duration
+ceftriaxone im C V ‘lgramim _ one dose only
+and = doxycycline po Cc vV_ 100mg twice a day 7 days
+or azithromycinpo C V_ lg one dose only
+*Use with 3.5ml of 1% lignocaine
+e If the patient still has a urethral discharge, or evidence of urethritis 7 days after start
+of treatment, suspect re-infection, poor treatment compliance or antimicrobial
+resistance in Neisseria gonorrhoeae. If re-infection is suspected, re-start first line
+treatment.
+Otherwise treat the patient with second line therapy or refer for investigations and
+laboratory guided treatment.
+Second Line:
+Medicine Codes Adult dose Frequency Duration
+cefixime po Cc Vv 800mg one dose only
+or ceftriaxone im Cc Vv lg one dose only
+plus azithromycin po Cc Vv 2g one dose only
+and metronidazole po C Vv 2g one dose only
+If these medicines are not available locally, refer to the next level.
+128

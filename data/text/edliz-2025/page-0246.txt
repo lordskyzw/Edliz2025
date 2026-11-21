@@ -1,0 +1,32 @@
+EDLIZ 2025
+The clinical system of classification for the purpose of treatment includes the use
+of the number of lesions and nerves involved as the basis for grouping leprosy
+patients into MB and PB. The clinical classification is shown below:
+Classification of leprosy
+Skin Lesions 1-5 lesions asymmetrically | More than 5 lesions. Distributed
+distributed with definite loss | more symmetrically. With or
+of sensation without loss of sensation
+Nerve Only one nerve trunk | Many nerve trunks involved
+enlargement involved
+Any patient showing a positive skin smear should be treated with the MDT
+regimen for multibacillary (MB) leprosy, irrespective of the clinical classification.
+When classification is in doubt, the patient should be treated as MB leprosy.
+Treatment of Paucibacillary Patients
+Screening of family contacts should be performed.
+Since 2017, a 3-drug regimen should be used for all leprosy patients with
+rifampicin, dapsone and clofazimine.
+Medicine Codes Adult dose Frequency Duration
+dapsone po B  V_ 100mg onceaday 6 months
+Paed =1-2mg/kg
+and clofaziminepo A N _ 50mg onceaday 6 months
+Paed = 0.5 —Img/kg
+and clofaziminepo A N 300mg once a 6months
+Paed = 5-10me/k, month
+supervised dose ae -1ome/kg
+and rifampicinpo B V_ 600mg once a 6months
+month
+Paed =10-15mg/kg*
+*Not less than 150 mg of rifampicin.
+Treatment of Multibacillary Patients
+Duration of therapy is 12 months, with adequate education and follow up.
+244

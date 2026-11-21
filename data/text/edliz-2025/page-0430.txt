@@ -1,0 +1,38 @@
+EDLIZ 2025
+HIV Similar to non-HIV setting but | Early treatment with ARVs,
+Associated with marked physical symptoms | reducing viral load may help slow
+Neurocognitiv such as psychomotor | down progression.
+e Disorders | retardation, tremor, impairment
+(HAND) of rapid repetitive movements
+and eye coordination, poor
+balance and ataxia, hypertonia
+and hyperreflexia.
+Protease Inhibitors, Non-Nucleotide Reverse Transcriptase Inhibitors and to lesser
+extent Nucleotide Reverse Transcriptase Inhibitors inhibit metabolism by
+cytochrome P450 liver enzymes therefore:
+*Some ARVs may increase levels of SSRIs increasing risk of serotonin syndrome
+**Some ARVs may increase serum levels of antipsychotics increasing risks of
+EPSEs and NMS
+*** Carbamazepine may induce liver enzymes and hence causing more rapid
+metabolism, and therefore reduced efficiency of co-administered medicines e.g.
+ARV’s
+**** Some ARVs may decrease clearance of benzodiazepines increasing risk of
+respiratory depression and oversedation
+Anxiety Disorders
+Mild to Moderate
+Use of psychosocial interventions like relaxation exercises, breathing exercises
+and talk therapy by a trained person.
+Severe
+Acute Onset Symptoms
+Medicine Codes Adult dose Frequency Duration
+diazepam iv/pr Cc V_ 5-10mg nocte 5-10days
+or  promethazineim C V_  25-50mg stat
+or lorazepam im B E Img stat then
+Img nocte 3-5 days
+or clonazepam po A E_ 0.5mg stat
+0.5mg PRN 3-5 days
+(not >4doses in
+24hours)
+or propranolol po B V_ 40mg stat then
+40mg once daily 5-10 days
+428

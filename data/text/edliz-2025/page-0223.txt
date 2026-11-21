@@ -1,0 +1,35 @@
+EDLIZ 2025
+SECONDARY PREVENTION
+TB PREVENTIVE THERAPY (TPT)
+TPT priority groups are PLHIV and household contacts of bacteriologically
+confirmed TB index cases including child (<15 years) and adult (>15 years)
+contacts.
+Table 12.1: Preferred LTBI Treatment Options
+Population Group Preferred Treatment
+PLHIV on EFV and DTG based | Rifapentine plus Isoniazid alone
+regimen isoniazid
+[6H]
+[3HP]
+PLHIV on TAF-based regimen, Isoniazid alone
+or PIs
+[6H]
+HIV negative contacts (adults | Rifapentine plus isoniazid Isoniazid alone
+and adolescents >15 years)
+[3HP] [6H]
+Children
+CLHIV on EFV-based regimen | Rifapentine plus isoniazid Isoniazid alone
+(Adolescents, children >2yrs)
+[3HP] [6H]
+CLHIV on DTG -based regimen, Isoniazid alone
+PIs and NNRTIs
+[6H]
+HIV negative contacts (children | Isoniazid plus rifampicin | Isoniazid alone
+under 15s) (RH)
+[6H]
+[3RH]
+Special Groups
+*MDR-TB Contacts Levofloxacin
+[6LFX]
+Pregnant women Isoniazid alone
+[6H]
+221

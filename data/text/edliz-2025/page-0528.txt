@@ -1,0 +1,32 @@
+EDLIZ 2025
+Using this FVIII concentrate treat as for mild or moderate bleed of Haemophilia
+A. Repeat haemostatic dose every 24-48 hours since therapeutic response is more
+sustained in vWD.
+If viral inactivated Factor VIII concentrate not available use:
+Medicine Codes Adult dose Frequency Duration
+cryoprecipitate A E 6bagsper every 24-48 if bleeding continues
+dose hrs
+Tranexamic acid is very useful in vWD mucosal and other bleeding.
+Acquired Bleeding Disorders/ Platelet Disorders
+Disseminated Intravascular Coagulation (DIC)
+Monitor prothrombin time (PT), international normalized ratio (INR), activated
+partial thromboplastin time (APTT), platelet count and fibrinogen.
+Identify if possible and treat /remove cause of DIC.
+If PT/APTT prolonged and patient is bleeding, give:
+Medicine Codes Adult dose Frequency Duration
+fresh frozen plasma B  V_ 4 bags every 12-24hrs _ if bleeding continues
+e If platelet count <30x10°/L and patient is bleeding:
+Medicine Codes Adult dose Frequency Duration
+platelet concentrate A  E_ 1 unit/kg review review
+elf fibrinogen is low and/or APTT prolonged give (to supply fibrinogen and
+FVIID:
+Medicine Codes Adult dose Frequency Duration
+cryoprecipitate A E_ 6 bags per dose review review
+e The use of heparin is NOT recommended in bleeding patients with DIC, except
+under specialist supervision.
+Liver Disease
+Medicine Codes Adult dose Frequency Duration
+vitamin K iv * Cc V_ 10mg** once a day 3 days
+*Avoid intramuscular vitamin K.
+**The dose is adjusted depending on the INR.
+526

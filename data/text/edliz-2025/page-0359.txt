@@ -1,0 +1,39 @@
+EDLIZ 2025
+e If failing to achieve individualized Alc target, add:
+Medicine Codes Adult dose Frequency Duration
+gliclazide po B V_ 80mg-160mg once OR up to 3 years
+twice a day
+or glimepiride po A E_ Img-6mg Once a day up to3 years
+(with
+breakfast)
+or *glibenclamide po B N 5mg- 15mg Once OR
+twice a day
+or vildagliptin po S V_ 50mg once OR indefinitely
+twice a day
+Tf still failing to achieve and maintain individualized HbA1c in 3 — 6 months, or
+use of 3 oral antidiabetic medicines offers no improvement consider basal insulin
+initiation or refer.
+Insulin therapy in T2D (add to metformin)
+Codes} Adult | Frequency
+dose
+NPH Vv At bed-time | Indefinitely but]
+(Protaphane™) titrate to target]
+FBG
+Or | Insulin detemir Vv At bed-time | Indefinitely but]
+(Levemir™) titrate to target]
+FBG
+Or | Insulin glargine Vv} 10 At bed-time | Indefinitely but]
+(Lantus™) units titrate to  targel
+FBG
+Or | Insulin degludec Vv At bed-time | Indefinitely but]
+(Tresiba™) titrate to target]
+FBG
+Or | Actraphane™ V| 6 — 10} With supper Indefinitely but]
+(Premixed) units (dinner) OR} titrate to target
+twiceaday | FBG +2h PPG
+or NovoMix30™ V| 6 — 12] With supper Indefinitely but]
+(Premixed) units (dinner) OR} titrate to target
+twiceaday | FBG +2h PPG
+Discontinue sulphonylureas (glibenclamide and gliclazide) before adding
+insulin.
+357

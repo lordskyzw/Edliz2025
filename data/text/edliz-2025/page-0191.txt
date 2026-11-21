@@ -1,0 +1,59 @@
+EDLIZ 2025
+
+Main Considerations:
+
+@ GENOTYPING IS RECOMMENDED PRIOR TO SWITCHING
+PATIENTS FAILING SECOND LINE ART with clinicians required to
+actively rule out poor adherence before genotypic testing.
+
+e Eligible patients will be switched to; Darunavir (600mg)/Ritonavir (100mg)
+given twice daily
+
+Recipients of care on 3rd line with a history of integrase strand transfer inhibitor
+
+(INSTI) use e.g. DTG or Raltegravir, should be given DTG twice daily.
+
+USE OF ARVS IN RECIPIENTS OF CARE WITH TB
+
+(Refer to the latest national TB guidelines or TB/HIV guidelines)
+
+All recipients of care living with HIV should be screened for TB at every visit
+
+using the standard TB screening tools. Rifampicin interacts adversely with some
+
+antiretroviral agents such as PIs therefore,
+
+e Recipients of care who are TB co-infected and on Rifampicin should receive
+DTG 50mg twice a day
+
+e Efavirenz 400mg can be co-administered with rifampicin containing anti-TB
+treatment; is well tolerated and plasma concentrations were maintained above
+the levels considered to be effective.
+
+e For HIV/TB coinfection on rifampicin-based regimen, use LPV/r (super boosted)
+instead of ATV/r
+
+RECIPIENTS OF CARE WITH TB WHO ARE NOT YET ON ART
+
+In recipients of care who have HIV-related TB but are not yet on ART, treatment
+
+of TB takes priority. ART should be started at least two weeks after the start of
+
+TB therapy i.e. during the intensive phase when the patient has stabilised on TB
+
+treatment regardless of their CD4 count status. Cotrimoxazole prophylaxis should
+
+be provided with the commencement of the TB therapy if the patient is not on it
+already.
+
+PATIENTS WHO DEVELOP TB WHEN ALREADY ON ART
+
+Treat TB as per national TB guidelines.
+
+UsE OF ARVS IN PATIENTS WITH CRYPTOCOCCAL MENINGITIS
+
+(CM)
+
+(refer to previous section on CM in HIV in Chapter 8)
+
+189

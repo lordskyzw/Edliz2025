@@ -1,0 +1,29 @@
+EDLIZ 2025
+Meningitis:
+Medicine Codes Paed dose Freq. Duration
+benzylpenicillin Cc Vv 0.1MU/kg Table 3.1 14-21
+im/iv days
+and — gentamicin im/iv Cc VV 2.5mg/kg Table 3.3
+and chloramphenicol B Vv 12.5mg/kg Table 3.1
+iv
+Ampicillin can be used if benzyl penicillin is not available: dose= 50mg/kg
+For meningitis ceftriaxone can be used as an alternative: dose = 50mg/kg/dose
+Necrotising enterocolitis
+Give nothing by mouth. Supportive care is vital: oxygen, intravenous fluids, warmth,
+and nasogastric continuous drainage. Anticipate complications such as bleeding,
+vomiting, perforation, seizures. Refer for specialist diagnosis and care.
+Medicine Codes Paed dose Freq. Duration
+benzylpenicillin Cc Vv 0.1MU/kg Table 3.1 10 days
+im/iv
+and — gentamicin im/iv c Vv 2.5mg/kg Table 3.3 10 days
+and metronidazole iv A N 7.5mg/kg Table 3.1 10 days
+Neonatal tetanus
+e The important principle in treating these babies is minimal handling. Give:
+Medicine Codes _ Paed dose Freq. Duration
+benzylpenicillin im/iv C V_ 0.05MU 12 5-7days
+per kg hourly
+or procaine penicillin im C V_ 50mg/kg once a 5-7 days
+day
+and _anti-tetanus BE 500- once single
+immunoglobulin im 1000 units — only dose
+51

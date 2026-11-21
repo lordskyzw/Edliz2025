@@ -1,0 +1,37 @@
+EDLIZ 2025
+Corticosteroids
+These are useful in reducing pain from nerve compression, tumour related oedema
+e.g. liver capsule pain, nerve compression and raised intracranial pressure.
+Condition Medicine Codes Adult dose Frequency Duration
+1 Spinal Cord | dexamethasone B V_ 16mg stat stat dose
+Compression| iv and refer
+Or B V_ 30-60mg onceaday  10days
+prednisolone po
+2 Raised dexamethasone B V_  12-l6mg_ onceaday review
+intracranial | iv
+pressure Or B V_ 90-120mg onceaday review
+prednisolone po
+3 Other dexamethasone B V_ 4-8mg onceaday review
+conditions iv
+Or B V_ 5-20mg  onceaday __ review
+prednisolone po
+Reduce dose of steroids progressively to minimal maintenance level once clinical
+improvement occurs
+Anti-depressants and Neuroleptics
+These are useful in the treatment of neuropathic (nerve) pain which can be
+associated with the following conditions among others e.g. Trigeminal Neuralgia,
+Post Herpetic Neuralgia & Peripheral Neuralgia, nerve compression etc.
+Medicine Codes Adult dose Frequency Duration
+carbamazepine B  V_ 100mg 1-2 timesaday increasing every
+po 3 days
+to max of 400mg 3 times a day, review
+oramitriptyline Bo V = 25-75mg nocte review
+po
+or gabapentinpo B  E 300-1200mg 1-3 timesaday review
+(initial dose
+300mg per day)
+*In severe cases specific nerve block may be needed (using local anaesthetic
+or neurolytic agents)
+*Phantom limb pain can be treated as above. If severe, nerve block may be
+required.
+495

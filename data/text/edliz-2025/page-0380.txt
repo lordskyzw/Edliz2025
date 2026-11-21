@@ -1,0 +1,44 @@
+EDLIZ 2025
+
+Second line treatment
+
+For the patient with persistent generalised seizures despite sodium valproate check
+
+the diagnosis, compliance, medicine interactions, and intercurrent illness.
+
+e Increase dose of sodium valproate fortnightly up to maximum dose of 30mg/kg
+
+Alternatives:
+
+Medicine Codes Adult dose Frequency Duration
+phenobarbitone po B V_ 120mg every night 4 weeks then review
+
+e Ifseizures persist (one or more in four weeks):
+
+Medicine Codes Adult dose Frequency Duration
+add phenytoin po B V_ 300mg bedtime
+e  Ifseizures persist,
+Medicine Codes Adult dose Frequency Duration
+add carbamazepinepo B V_ 400mg twice aday 4 weeks, then review
+e Note: for dose in children see chapter on Paediatric conditions
+If seizures persist
+Medicine Codes Adult dose Frequency Duration
+add lamotriginepo BE 100mg twice daily
+
+e Review in 4 weeks
+
+e If seizures persist, intolerable side effects, patient maintained on more than one
+anticonvulsant: refer for tertiary level care or specialist care.
+
+e Other indications for referral to tertiary level / specialist care: neonatal
+epilepsy, progressive neurological deficit, absence seizures (momentary loss of
+consciousness without involuntary movements)
+
+Tertiary/Specialist care
+
+Decisions will include whether further investigations (EEG, CT scan) are indicated,
+
+and the use of phenytoin sodium, sodium valproate, ethosuximide, diazepam or
+
+clonazepam.
+378

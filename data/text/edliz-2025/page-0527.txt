@@ -1,0 +1,54 @@
+EDLIZ 2025
+
+Note: For 3 and 4 above, treatment and surgery should be done with specialist
+
+supervision only. Measure levels, (if possible), otherwise give immediately before
+
+surgery. Continue 12 hourly therapy for 48 hours postoperatively and if no
+bleeding occurs, scale down gradually over next 3 -5 days.
+
+Note: cryoprecipitate or of fresh frozen plasma should only be used in the absence
+
+of safe treated factor products.
+
+@ As adjunct to factor replacement in mucosal or gastro-intestinal bleeding and
+surgery, give fibrinolytic inhibitor [tranexamic acid]. Do not use it for
+haematuria.
+
+Medicine Codes _ Adult dose Frequency Duration
+tranexamic acid B V 10 mg/kg before surgery __ stat
+
+elf viral-inactivated treated Factor VIII is unavailable: see previous table for
+cryoprecipitate doses.
+
+Haemophilia B (factor IX deficiency)
+
+e Ice compression should be applied as soon as possible, as this reduces the bleed.
+
+Mild bleed:
+
+Medicine Codes Adult dose Frequency Duration
+factor IX A V 2x500IU_ daily review
+concentrate
+or fresh frozen plasma B V_ 4-6bags — every 24hrs_ if bleeding continues
+For children use appropriate dosage.
+Major bleeding
+Medicine Codes Adult dose Frequency Duration
+factor IX concentrate A V 3-6 x 500 daily review
+IU
+
+or freshfrozen plasma B V_ 8-12 bags every 24hrs__ if bleeding continues
+
+For children use appropriate dosage.
+
+Factor VIII concentrate and cryoprecipitate are not useful for Haemophilia B, so
+
+accurate diagnosis is essential.
+
+von Willebrand Disease (vWD)
+
+The currently available FVIII concentrate from the National Blood Transfusion
+
+Service contains vW factor (but always check the insert).
+
+525

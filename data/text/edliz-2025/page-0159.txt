@@ -1,0 +1,37 @@
+EDLIZ 2025
+© Cotrimoxazole prophylaxis must be stopped when patients become clinically
+stable with evidence of immune recovery (CD4> 350 cells/mm3) and/or are
+virally suppressed below 1000 copies/ml for those patients who have been on
+ART for at least 6 months.
+Medicine Codes Adult dose Frequency Duration
+cotrimoxazolepo C V_ 960mg onceaday until CD4>350 cells/mm?
+and/ or VL is less than
+1000 copies per ml for
+those who have been on
+ART for at least 6 months
+Cotrimoxazole prophylaxis in children
+Give once daily orally according to the following table.
+Table 8.1 Cotrimoxazole Prophylaxis in Children
+Age Sulfamethoxazole/ trimethoprim
+Dose (ml)
+Recommende | Suspension Paediatric Adult
+d daily dose (200mg/40 mg) | tablets Tablet
+/5 ml) (100mg/20 | (400mg/80m
+mg) 8)
+< 6 months or | 100mg/20mg 2.5ml 1/4
+<5kg
+6 months to 5 | 200mg/40mg | 5ml 2 1/2
+years or 5-15 kg
+6-14. years or | 400mg/80mg 10ml 4
+15-30kg
+Frequency — Once dail;
+Give cotrimoxazole for the duration of the paediatric life
+If allergic to cotrimoxazole, try desensitization
+Desensitization can be offered rapidly or over a longer period of time. Do not
+desensitize anyone who has had an anaphylactic reaction to cotrimoxazole or a severe
+skin rash such as Stevens-Johnson syndrome. Desensitization should be carried out
+under clinical specialist supervision.
+Alternative to cotrimoxazole (or if desensitization is not possible)
+Medicine Codes Adult dose — Frequency Duration
+dapsone po B V___:100mg once daily
+157

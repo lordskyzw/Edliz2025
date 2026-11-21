@@ -1,0 +1,33 @@
+EDLIZ 2025
+Following an attack of shingles, a person may experience continued pain for more
+than three months after the onset of the rash and this is referred to as post-herpetic
+neuralgia. In addition to pain medicines, tricyclic antidepressants, such as
+amitriptyline, are effective in controlling the pain,
+Medicine Codes Adult dose Frequency Duration
+acyclovir po C E 800mg 5 times a day 7 days
+or valaciclovirpo BE 1 gram 3 times a day 7 days
+@ Give analgesia:
+Medicine Codes Adult dose Frequency Duration
+paracetamolpo C N 500mgto 3to4timesa
+1 gram day (max 4
+grams a day)
+or ibuprofen C N 200mgto 3to4timesa be aware of
+400 mg day (max 1200 contraindications and
+mg per day cautions for anti-
+inflammatory medicines,
+in people with renal
+impairment or
+gastrointestinal ulcer
+@ Add:
+Medicine Codes Adultdose Frequency Duration
+amitriptyline po B E- 25mg once at night — review
+@ and Skin care:
+Medicine Codes Adult dose Frequency Duration
+calamine topical C N__ topically often as required
+and povidone iodine B E_ daily, for wound care, as required
+topical
+Patients should be started on cotrimoxazole prophylaxis if CD4 less or
+equal to 350
+Refer immediately if there is ophthalmic or pulmonary involvement.
+Secondary infection (bacterial) may require treatment.
+176

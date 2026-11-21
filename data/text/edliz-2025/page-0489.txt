@@ -1,0 +1,34 @@
+EDLIZ 2025
+Give antacids routinely every 6 hours:
+Medicine Codes Adult dose Frequency Duration
+magnesium trisilicate po CN 20m1 6hourly review
+Antibiotics are required only if/when the wound is contaminated. Gram positive
+organisms (notably B-haemolytic streptococcus) predominate early on (first 5
+days):
+Medicine Codes Adult dose Frequency Duration
+
+benzylpenicilliniv C V = 2.5MU 6hourly change to oral *
+*then amoxicillin po C V_ 500mg 6hourly review
+Change regimen if indicated by culture and sensitivity tests. Gram negative
+organisms are usually implicated later on, and a more appropriate blind therapy
+before results are obtained is:
+
+Medicine Codes Adult dose — Frequency Duration
+
+benzylpenicilliniv C V 2.5MU 6hourly review based on
+and — gentamicin iv C V_ 80mg Shourly culture and
+
+sensitivity
+Monitorin
+e Basic observations and clear records including input/output are essential.
+e Mental responsiveness of patient (confusion can correspond to fluid imbalance).
+e Pulse, BP (if possible), temperature.
+e Breathing rate/depth; colour of nail beds and mucous membranes.
+e ECG after electric shock or lightning injury
+e Urine: colour, volume (should be at least 1ml/minute) and specific gravity;
+catheterise only if essential (predisposes to infection).
+Later investigations:
+e full blood count and haematocrit;
+e electrolytes plus serum proteins;
+© urine electrolytes;
+487

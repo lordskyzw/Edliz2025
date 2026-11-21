@@ -1,0 +1,39 @@
+EDLIZ 2025
+
+Lignocaine hydrochloride [preservative-free]
+Cardiac arrest
+As an alternative to amiodarone in VF/VT arrest
+
+Medicine Codes Adult dosage
+
+lignocaine HCI B N_ 100mg iv [or 200mg endotracheal tube], and repeat
+
+preservative-free iv DC shock 360joules.
+If defibrillation is successful, to maintain a stable rhythm:(stable VT,
+significant ectopy, wide complex tachycardias)
+
+Medicine Codes Adult dosage
+
+lignocaine HCI B N 4mg/minute for | hour, then
+
+preservative-free iv 2 mg/minute for 2 hours, and
+
+infusion 1 mg/minute thereafter
+Caution
+e Prophylactic use in Acute MI contraindicated
+e Reduce maintenance dose if there is impaired liver function
+e Discontinue if signs and symptoms of toxicity develop
+Antihypertensives in anaesthesia
+For patients with pregnancy induced hypertension due for induction of
+anaesthesia
+
+Medicine Codes Dose onset Duration
+
+magnesium BV 4g in 500 mls normal saline
+
+sulphate IV run over 10 to 20min
+
+titrating to effect
+Reassure if patient develops hot flashes and dizziness. Stop infusion if patient
+becomes normotensive or hypotensive
+587

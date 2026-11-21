@@ -1,0 +1,31 @@
+EDLIZ 2025
+Low-weight-for-age refers to the weight for age below -2 SD. Counselling of the mother
+should start from the time loss of weight or static weight is identified.
+= If no improvement by the third consecutive month, the child should be referred.
+= Check for malnutrition and anaemia — see chart below.
+Table 3.11: Classification of acute malnutrition in children
+Age Group Measurement Classification
+Index
+Severe Acute | Moderate Acute
+Malnutrition Malnutrition
+Children Less | Classify severe if presence of any of the following:
+than 6 Months
+@ Bilateral pitting oedema
+© Weight for length <-3 SD (WHO)
+@ Mid-Upper Arm Circumference (MUAC) <110mm
+e Infant too weak to suckle effectively leading to poor intake
+© Mother reports insufficient milk to feed child AND child is not
+gaining weight
+Children 6 to | Weightforheight | <-3 SD(WHO) | <-2 &=-3 SD (WHO)
+59 months
+Mid-upper Arm | < 115mm > 115mm &< 125mm
+circumference
+(MUAC)
+Bilateral Pitting | Yes No
+Oedema
+Children and | Body Mass Index | < -3 SD (WHO) | <-2 &>-3 SD (WHO)
+adolescents (5 | (BMI) for Age OR visible
+to 18 Years wasting
+Bilateral Pitting | Yes No
+Oedema
+83

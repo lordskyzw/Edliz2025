@@ -1,0 +1,57 @@
+EDLIZ 2025
+
+BLEEDING OESOPHAGEAL VARICES
+
+Commence treatment immediately, before confirmation of diagnosis by
+
+endoscopy/barium meal. Resuscitate completely, and only refer when patient is
+
+stable:
+
+e Insert large IV cannula to transfuse and to replenish blood volume. Avoid saline
+unless no alternative.
+
+e Correct raised INR/PT with fresh frozen plasma and vitamin K
+
+© Routinely give 3 generation cephalosporin (ceftriaxone) during acute bleeding.
+
+e Sedate [avoid opiates]:
+
+Medicine Codes Adult dose Frequency Duration
+diazepam iv C V_ 5-15mg as necessary
+ceftriaxone iv Cc Vi ig twice daily 5 days
+
+e Treat concurrent encephalopathy as above.
+
+e Aspirate nasogastric tube hourly
+
+e Refer for early endoscopy.
+
+e If bleeding persists, refer, urgent referral for endoscopy
+
+e Refer to specialist.
+
+@ Give Propranolol prophylactically indefinitely:
+
+Medicine Codes Adult dose Frequency Duration
+propranolol po BE 10-40mg 2 times a day indefinitely
+
+ASCITES OF CHRONIC LIVER FAILURE
+
+Perform diagnostic paracentesis if possible. Check for white cell count and total
+
+proteins.
+
+e Restrict salt intake and fluid intake to 1 litre/day. Give potassium supplements if
+hypokalaemic. This regimen plus bed rest is enough to induce a diuresis in some
+patients.
+
+e Aim for weight loss of 0.5 kg per day. Any more could lead to hypovolaemia
+and precipitate liver failure.
+
+e Polymorph cell count in ascitic tap >250 cells/uL defines spontaneous
+bacterial peritonitis (SPP) irrespective of other results of microscopy and
+culture. IV ceftriaxone is indicated. Alternatively, oral ciprofloxacin may be
+given in absence of vomiting, shock and prior exposure to quinolones.
+
+326

@@ -1,0 +1,32 @@
+EDLIZ 2025
+Management
+Analgesia and antibiotics
+First line
+Medicine Codes Adult dose Frequency Duration
+amoxicillin po Cc V 500mg 3timesaday 7 days
+Second line
+Medicine Codes Adult dose _ Frequency Duration
+amoxicillin/clavulanic B N 80mg/kg;7m 2timesaday 7 days
+acid po g/kg
+Third line
+Cephalosporin under specialist care
+Recurrent Tonsillitis - Refer
+Chronic tonsillitis - Refer
+Peritonsillar abscess-Initiate antibiotics as above and refer
+EPISTAXIS
+Predisposing factors include upper respiratory tract infection, habitual nose
+picking, nasal sprays, haematological malignancies and patients on anticoagulants,
+Patients with hypertension often have severe epistaxis
+Management
+Expel clots and examine nose with good light
+Identify the bleeding points
+Children-bleeding on Little’s area is common
+Adults —may have a posterior bleed
+Anterior epistaxis-_Pack anteriorly bilaterally with ribbon gauze soaked in oily
+antiseptic solution such as Proflavin gel or glycerine and ichthammol
+Posterior packing. Use Foley’s catheter with Scc of saline to pack posteriorly
+Reinforce with anterior packing bilaterally
+Refer as soon as pack is in situ
+The use of adrenaline is discouraged as it may cause severe rebound epistaxis.
+Initiate Amoxicillin if the pack is to last for more than 48 hrs.
+462

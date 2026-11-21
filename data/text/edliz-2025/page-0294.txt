@@ -1,0 +1,42 @@
+EDLIZ 2025
+Classification of hypertension stages according to BP levels, presence of CV
+risk factors, HMOD, or comorbidities
+BP (mmilg) grading
+Hypertension Other risk factors, High normal | Grade I Grade 2 Grade 3
+disease HMOD, or disease] SBP 130-139 | SBP 140-159 | SBP 160-179 SBP > 180
+staging DBP 85-89 | DBP 90-99 DBP 100-109 | or DBP> 110
+Stage 1 No other risk Low risk Low risk Moderate risk [High risk
+(uncomplicated) | factors
+Tor 2 risk factors Low risk Moderate risk | Moderate risk [High risk
+to high
+33 risk factors Low to Moderate to High risk High risk
+moderate high risk
+tisk
+Stage 2 HMOD, CKD grade | Moderateto | High risk High risk High to very
+(asymptomatic | 3, or diabetes high risk high risk
+disease) Mellitus without
+organ damage
+Stage 3 Established CVD, Very high Very high risk | Very high risk | Very high risk
+(established CKD grade >4, or risk
+disease) Diabetes mellitus
+with organ damage
+Ref: Williams B, Mancia G, Spiering W et al
+BP: blood pressure; CKD: chronic kidney disease; CV: cardiovascular; DBP: diastolic blood
+pressure; HMOD: hypertension-mediated organ damage; SBP: systolic blood pressure; SCORE:
+‘Systematic Coronary Risk Evaluation
+Principles of pharmacological management of hypertension
+Monotherapy is usually inadequate therapy for most people with hypertension.
+Initial therapy with a combination of two drugs (at low to medium range doses)
+should now be considered usual care for hypertension. Use of fixed dose
+combinations is encouraged whenever possible/available to improve compliance.
+Exceptions: those patients with mild (Grade I) hypertension and no additional
+cardiovascular risk factors/comorbidities, or in some frailer old or very old patients,
+in whom more gentle reduction of BP may be desirable.
+Note: Methyldopa and propranolol are no longer recommended for the treatment
+of hypertension except in special circumstances.
+A simplified drug treatment algorithm: A combination of a thiazide/thiazide-
+like diuretic and calcium channel blocker is the preferred initial therapy for most
+patients. Other combinations: Calcium Channel Blocker (CCB) and ACEi/ARB or
+thiazide/thiazide-like diuretic and ACEi/ARB are alternative first line
+combinations.
+292

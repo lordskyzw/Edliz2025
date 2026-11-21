@@ -1,0 +1,23 @@
+EDLIZ 2025
+SPECIALIST ESSENTIAL MEDICINE LIST
+IN ZIMBABWE
+Medicine Dosage Strength Level VEN
+form
+ht | MEDICINES USED IN ANAESTHESIA
+pe | General Anaesthetics/Medical Gases [| [|
+i
+i
+Fentanyl Patch 12.5meg/hr; | S N
+25emg/hr;
+50cmg/hr;
+75meg/hr;
+100meg/hr
+2.2 Disease Modifying
+Antirheumatic Medicines
+Pees Re
+ANTIDOTES AND SUBSTANCES FOR
+TREATMENT OF POISONING
+3 Antidotes and Substances
+for Treatment of Poisoning
+ie _
+644

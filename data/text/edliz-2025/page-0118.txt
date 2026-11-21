@@ -1,0 +1,36 @@
+EDLIZ 2025
+e For severe pain in labour
+Medicine Codes Adult dose Frequency Duration
+pethidine im B  V_ 50-100mg 4-6hourly max. 3 doses
+or morphine im BV 5Smg 4hourly as required
+and promethazineim B V_ 25mg once a day max. 3 doses
+e Note: To avoid respiratory depression in the neonate the last dose should be
+given if delivery is not anticipated within the next 2 hours, and no more than two
+doses should be given during labour.
+e For caesarean section, spinal anaesthesia is now the standard method to be used.
+All doctors and nurse anaesthetists should become competent in this method.
+If the neonate is breathing poorly after pethidine was given to the mother, give
+respiratory support plus naloxone. See the section in Neonatal Conditions.
+For the incision and subsequent suturing of episiotomies
+Medicine Codes Adult dose Frequency Duration
+lignocaine 1% local C Vv sUp to max of once -
+infiltration 10ml
+CAUTION: Avoid injecting into a vein! Draw back several times during
+infiltration.
+Use of steroids in pre-term labour
+Steroids are used to prevent respiratory distress syndrome of the newborn in
+premature labour before 35 weeks gestation. Most useful between 28-35 weeks
+gestation.
+e@ Give the mother:
+Medicine Codes Adult dose Frequency Duration
+dexamethasoneim C V 12mg for 2 doses 12 hours apart
+Cervical ripeners/ labour initiators (Prostaglandins)
+Use prostaglandins (PG) with caution in multiparous women. Excessive uterine
+contractions can lead to uterine rupture, particularly if the cervix is not ripe.
+e@ The safest and simplest method of ripening the cervix:
+Medicine Codes Adult dose Frequency Duration
+misoprostol pv c Vv 50 meg once daily max | dose
+misoprostol po* c ov 25 meg 2hourly max 8 doses
+*Dosing can be repeated
+Not to be used in women with previous uterine incisions
+116

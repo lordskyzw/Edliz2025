@@ -1,0 +1,26 @@
+EDLIZ 2025
+
+Diagnostic preparations
+Fluorescein strips
+
+Medicine Codes Adultdose Frequency Duration
+
+fluorescein strips Cc V = Istrip single use _ single use
+
+fluorescein solution 1% or A V_ 1 Vial single use _ single use
+
+2%
+Diabetic Retinopathy / Age Related Macular Degeneration (ARMD) and
+Retinal Vein Occlusion
+The above are the commonest conditions for which anti-vascular endothelial
+growth factor (anti-VEGF) medicines are used.
+Medicine Codes Adult dose Frequency Duration
+
+ranibizumab SE 0.05mi single use Monthly/bimonth
+ly X 3 months
+or dexamethasone SE 700mcg single use
+intravitreal injection
+NB: Dexamethasone intravitreal is indicated for treatment of diabetic macular
+oedema in patients who are pseudophakic or aphakic or scheduled for cataract
+surgery
+446

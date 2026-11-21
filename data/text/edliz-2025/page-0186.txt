@@ -1,0 +1,32 @@
+EDLIZ 2025
+Recommended treatment regimens for adolescents and adults
+The choice of medicine regimen is based on the “essential medicine” concept and
+the rational use of medicine. To maximise adherence, use of fixed-dose
+combination (FDC) medicines is strongly encouraged.
+The choice of ARVs has been based on evidence of efficacy and safety, on
+availability and cost of medications, as well as on the side effects profile and the
+potential for development of resistance. The national ART programme uses the
+following FDCs in the first line regimens:
+Preferred First Line ART
+A. Adults and adolescents including women of child-bearing potential
+Medicine Codes Adult dose Frequency Duration
+tenofovir (TDF) + C V_ 300+300+50 mg onceaday life
+lamivudine (3TC) +
+dolutegravir (DTG) FDC)
+(TLD1) po
+B. Alternative First Line ART
+Medicine Codes Adult dose Frequency _—_ Duration
+or TAF (tenofovir C V_ 25+200+50mg once daily life
+alafenamide) +
+emtricitabine (FTC)
++dolutegravir po
+or TDF (or *TAF) + C V_ 300+200+50mg = onceaday life
+emtricitabine (FTC)
++dolutegravir po
+or **abacavir (ABC)+ C V_ 600+300+50mg once daily __ life
+lamivudine + (one tablet of
+dolutegravir po each)
+or TDF (or TAF’ ) CV 300+300+ once daily life
+43TC (or FTC) + 400mg
+efavirenz (EFV) po
+184

@@ -1,0 +1,34 @@
+EDLIZ 2025
+Contraindications
+e Avoid repeated dosages or infusions as it leads to adrenal suppression
+Caution
+e May cause pain on injection, abnormal muscle movement.
+Propofol
+Produces anaesthesia but no analgesia in one arm-brain circulation time. Recovery
+is rapid with minimal post-op nausea and vomiting.
+Medicine Codes Dose Onset Duration
+propofol iv A V_ 2-2.5mg/kg 40sec 5-10min
+Indications
+e Induction of general anaesthesia
+e Conscious sedation
+e Maintenance of anaesthesia.
+Caution
+e Check manufacturer’s storage conditions specifications ( some brands should be
+refrigerated and some should be stored at room temperature)
+e Reduce dose in the elderly and high-risk patients.
+e Minimize pain by injecting into large vein and/or mixing with lignocaine
+e Avoid in children less than one year and epileptic patients
+e In patients for Caesarean Section
+e Discard unused solutions
+e Contraindicated in people allergic to eggs and soya bean oil
+Ketamine
+Produces dissociative anaesthesia gradually, in high risk or hypovolaemic patients.
+Do not use in patients with decompensated shock as it is a direct myocardial
+depressant.
+Medicine Codes Dose Onset Duration
+ketamine im/iv B_ V_1-2mg/kg iv 30-90sec 10-20min
+4-8mg/kg im
+maintenance = serial doses 50% of induction iv dose
+or 25% of im dose.
+analgesic dose = 0.25 — 0.5mg/kg im
+570

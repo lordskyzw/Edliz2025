@@ -1,0 +1,33 @@
+EDLIZ 2025
+General Principles of Management of Shock
+e Treat underlying cause
+e Restore adequate perfusion by
+e Restoring blood pressure
+e Use of fluids, vasopressors or vasodilators
+e Increasing cardiac output
+e Use of fluids, inotropes, vasopressors
+e Improving oxygenation
+e Blood transfusion, Supplemental Oxygen, Mechanical ventilation as appropriate
+e Diligent monitoring (BP, Pulse, Respiration, Pulse oximetery, Urine output)
+Adrenaline 1 in 10 000
+Add 9ml normal saline / water to 1ml of 1 in 1000 adrenaline
+Severe anaphylaxis in anaesthesia
+Medicine Codes Adult dosage
+adrenaline 1 in 10 cv Iml slow repeat every until satisfactory
+000 iv [1-Syr minute clinical response
+=0.1ml/kg]
+Cardiac arrest during anaesthesia:
+Medicine Codes Adult dosage
+adrenaline 1 in 10 cv 5ml for fine / low amplitude ventricular fibrillation
+000 iv persisting after defibrillation [or 10ml of 1 in
+1000];
+10m for asystole [or20ml of lin 1000]
+Dopamine
+A naturally occurring catecholamine
+Medicine Codes Dose
+dopamine inj S__V_ 2 to 20mcg/kg/min
+Caution
+e Use via a central line
+e@ Make sure patient is adequately volume filled before starting dopamine therapy
+e Do not mix with Sodium bicarbonate
+584

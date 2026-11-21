@@ -1,0 +1,30 @@
+EDLIZ 2025
+Urinary tract infections
+Recommend urgent urine microscopy and culture, and the immediate
+commencement of antibiotics ift
+1. Age <3 months
+2. Specific urinary symptoms in children of 3 months to 2 years of age
+3.Non-specific symptoms in children of 3 months to 2 years of age at high risk of
+serious illness.
+
+In children 3 years of age and older a urine dipstick should be used to initially
+diagnose UTI.
+Factors distinguishing upper UTI and lower UTI
+Bacteriuria and fever of = 38 degrees Upper UTI
+Bacteriuria, loin pain/tenderness and fever of < 38 degrees Upper UTI
+Bacteriuria, but no systemic features Lower UTI
+In children < 3 months treat with:
+
+Medicine Codes _—_ Paed dose Freq.
+
+ceftriaxone iv C V_ 50mg/kg daily at least 3 days
+then amoxicillin B V_ 20-30 12 2 weeks
+
+/elavulanic acid mg/kg hourly
+
+po
+Use IV antibiotics for at least 3 days before switching to oral antibiotics if
+clinically improved.
+Treat for total of 2 weeks
+
+339

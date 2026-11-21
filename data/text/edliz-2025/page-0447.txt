@@ -1,0 +1,41 @@
+EDLIZ 2025
+Antibacterial drugs for eye infections
+Medicine Codes Adult dose Frequency Duration
+gentamicin C V__ Idrop 2-6 hourly 14 days
+0.3% eye
+drops
+or ciprofloxacin BV 1 drop 1-2 hourly 2 days then reduce
+0.3% eye dose to 4 hourly for
+drops 12 days
+or ofloxacin A V__ 1drop 2-4hourly 2 days then reduce to
+0.3% eye 4 hourly for 10 days
+drops
+Antivirals agents for eyes
+Medicine Codes Adultdose Frequency Duration
+acyclovir eye ointment A V_= Iicm Stimesaday 14 days
+(For corneal ulcers) ointment
+acyclovir 200mg tablet C V_ 800mg 5timesaday 7 days
+(For herpes zoster
+ophthalmicus)
+or famciclovir 250mg tablet A  V 500mg 3 times/day 7 days
+(For herpes zoster
+ophthalmicus)
+Treatment for Cytomegalovirus retinitis:
+
+Medicine Codes Adult dose Frequency Duration
+ganciclovir 500mg A V_ S5mg/kg infusion 12 hourly 14-21 days
+vial
+
+and foscanet24mg/ml A V_ 90mg/kg infusionl2 hourly 2-3 weeks
+IVI
+
+Topical anaesthetics and diagnostic preparations:
+
+Medicine Codes Adultdose Frequency Duration
+oxybuprocaine hydrochloride B  V_ 1 drop stat repeat if
+0.4% eye drops necessary
+
+or tetracaine hydrochloride B_ V_ 1 drop stat repeat if
+0.5% eye drops necessary
+
+445

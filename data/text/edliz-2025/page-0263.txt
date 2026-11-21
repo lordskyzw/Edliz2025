@@ -1,0 +1,49 @@
+EDLIZ 2025
+
+Medicine Codes Dose Frequency Duration
+artemether/lumefantrine C V_ 1.5mg/12mg/kg dose 1: stat dose, 3 days
+po dose 2: after 8hours
+
+dose 3: after 12hours
+
+dose 4 onwards:
+
+every 12 hours
+primaquine* C V_ 0.25mg/kg single dose
+
+*Gametocyte clearance
+
+WHO recommends a low dose primaquine to minimise the chances of
+
+clinically significant haemolysis where G6PD assay has not been done.
+
+The following patients should be given Primaquine 0.25 mg base/kg body
+
+weight with first dose of ACT for uncomplicated malaria:
+
+e Above one year old
+
+e Body weight above 10kg
+
+e Not pregnant
+
+Primaquine comes as 26.3 mg Primaquine phosphate equivalent to 15 mg and
+
+Primaquine base or 13.2 mg Primaquine phosphate equivalent to 7.5 mg
+
+Primaquine base tablets. The dosage tables below use the 15mg tablet as
+
+reference. Titrate the dosage based on the available strength of product.
+
+Dilution instruction for primaquine tablet:
+
+@ Mix 15 ml water with one crushed tablet of 15 mg Primaquine base, making
+a suspension of 1 mg/ml.
+
+e If the 7.5mg tablet is available for patients with weight between 10kg and
+30kg, crush two tablets of the 7.5mg tablet in 15ml of water. This makes a
+1mg/Iml suspension.
+
+e The dose of Primaquine should be given with the first dose of ACT.
+
+261

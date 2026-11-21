@@ -1,0 +1,27 @@
+EDLIZ 2025
+T
+Tenofovir > 153, 199, 201, 204, 342
+Tenofovir alafenamide fumarate > 147, 184, 188
+Tenofovir disoproxil fumarate > 147, 184, 185, 202, 204
+Tenofovir / lamivudine > 147
+Tenofovir / lamivudine / dolutegravir > 122, 153, 184
+Tenofovir / lamivudine / efavirenz — 147
+Terbutaline > 116
+Tetracycline > 43
+Theophylline — 61, 244
+Thiamine > 163, 325, 414
+Thiopentone — 61, 380
+Thiazides > 125
+Tinidazole > 130
+Tramadol — 492
+Trichloro-acetic acid — 140
+Vv
+Vitamin A > 87, 125
+Vitamin D > 57, 61
+Vitamin K > 43, 61
+WwW
+Warfarin > 125
+Z
+Zidovudine > 187, 342
+
+669

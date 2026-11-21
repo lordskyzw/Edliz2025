@@ -1,0 +1,37 @@
+EDLIZ 2025
+Contact investigation should be conducted to screen and manage all household and
+close contacts of the index case (initial TB case) see also HIV chapter.
+Refer to the Zimbabwe Tuberculosis and Leprosy Management guidelines for
+additional information.
+TUBERCULOSIS CASE MANAGEMENT
+Diagnosis of TB
+The presence of pulmonary tuberculosis should be suspected in individuals
+presenting with one or more of the following complaints:
+e Cough for 1 week or longer, or a cough of any duration among PLHIV
+e Night sweats,
+e Fever,
+e Loss of weight,
+ea BMI <17kg/m’ or failure to thrive among children (z score less than 1).
+INVESTIGATIONS
+Chest X-Rays
+Chest X-ray (with or without artificial intelligence [AI]) is recommended as a
+priority SCREENING test for persons classified as being at high risk for
+tuberculosis. The CAD AI score threshold to collect sputum depends on the
+software and version and should be obtained from the National TB Programme.
+Abnormal CXR by CASD score or by human reader should prompt the collection
+of sputum. The following persons are classified as being at high risk for
+tuberculosis:
+e Children under the age of 5 years.
+e People living with HIV.
+@ Those who are malnourished.
+e People above 60 years of age.
+e People with diabetes mellitus.
+e People who drink alcohol excessively.
+@ Miners and ex-miners.
+e People in congregate settings.
+e Inmates and correctional facility communities.
+e Health care workers.
+Note: In the presence of clinical improvement, it is not necessary to monitor the
+response of pulmonary TB to treatment by chest x-rays.
+
+224

@@ -1,0 +1,31 @@
+EDLIZ 2025
+Mild Pregnancy Induced Hypertension
+Diastolic 90-100 mm Hg; no proteinuria.
+e Bed rest at home.
+e Weekly antenatal visits.
+e Admit if there is a history of foetal loss or eclampsia
+Moderate Pregnancy Induced Hypertension
+Diastolic 100-110 mm Hg; no proteinuria.
+e Admit, monitor blood pressure 4 hourly, and give:
+Medicine Codes Adult dose Frequency Duration
+methyldopa po C V_ 250-500mg 3-4timesaday review
+and nifedipine po B V_ 20mg 2 times a day review
+e At gestation > 37 weeks, plan delivery.
+Severe Pregnancy induced hypertension
+e Diastolic > 110mm Hg; in first 20 weeks of pregnancy -this is likely to be
+essential hypertension. Severe PIH in the second half of pregnancy needs
+careful monitoring for organ damage. Manage as for moderate pregnancy
+induced hypertension. If not controlled add hydralazine as follows:
+Medicine Codes Adultdose Frequency Duration
+methyldopa po C V_ 250-500mg 3-4timesaday review
+nifedipine po BV 20mg twice a day review
+plus hydralazineim B V_ 10mg every 4 hours review
+Severe Pre-Eclampsia (organ dysfunction/ severe features such as proteinuria,
+deranged kidney, liver and haematology, placental insufficiency)
+Manage as an inpatient. Plan to deliver at 37 weeks or before.
+@ Monitor blood pressure 4 hourly.
+e Daily check urine for protein (exclude urinary tract infection).
+e Watch for signs of eclampsia
+elf diastolic > 110 mmHg check blood pressure hourly and continue giving
+medicines as for severe PIH (above).
+113

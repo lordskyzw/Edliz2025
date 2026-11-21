@@ -1,0 +1,42 @@
+EDLIZ 2025
+First line:
+Medicine Codes Adult dose Frequency — Duration
+benzathine penicillin C V  2.4MU(1.44g) one dose single dose
+im only
+and azithromycin po C V_igonceonly 500mg daily until ulcer
+followed by healed*
+or doxycycline po C V_ 100mg twiceaday until ulcer is
+healed
+
+e or, in penicillin allergy
+
+Medicine Codes Adult dose Frequency Duration
+
+erythromycinpo C  V 500mg 4 times a day 14 days
+* Review patients on a weekly basis
+Second line:
+
+Medicine Codes Adult dose Frequency _ Duration
+
+cotrimoxazole po C Vv 960mg twice a day until ulcer is healed
+BUBOES WITHOUT ULCERS
+This usually occurs in persons with lymphogranuloma venereum (LGV) which is
+caused by the L-types of Chlamydia trachomatis. The main effect of the infection
+is on the lymphatics and patients may present with penile and vulval lymphoedema
+together with inguinal buboes. Rectal LGV infection can also present with anal
+discharge and may be confused with inflammatory bowel disease. A small
+transient genital ulcer, which may heal on its own, may precede the swelling and
+buboes. The bubo is typically multilocular and may be grooved by the inguinal
+ligament.
+First Line:
+
+Medicine Codes Adult dose Frequency Duration
+
+doxycycline po Cc Vv 100mg twice a day 21 days
+Second line, or in pregnant women:
+
+Medicine Codes Adult dose Frequency Duration
+
+erythromycin po CV 500mg 4timesaday 21 days
+
+137

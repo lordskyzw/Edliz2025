@@ -1,0 +1,12 @@
+EDLIZ 2025
+
+e Second Line and special groups:
+
+Medicine Codes Adult dose Frequency Duration
+
+lamotrigine po B V 50mg once a day, at 1 weeks until
+
+night review
+Increase Lamotrigine by 50mg after every 7 days. Lookout for a rash and Steven
+Johnson syndrome. If rash appears STOP lamotrigine and refer.
+431

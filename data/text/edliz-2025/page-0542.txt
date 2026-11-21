@@ -1,0 +1,56 @@
+EDLIZ 2025
+
+Septic Shock
+
+e Initial management - see intravenous rehydration of an adult above. See also
+
+section on Blood Transfusion.
+
+Table 31.1 Clinical estimate of Blood Loss in Haemorrhagic Shock in Adults
+Blood |Blood | Pulse Blood Resp. rate | Urine Treatment
+loss loss % | rate press. [per output | :[replace
+[mls] | blood minute] [mls/hr] | total
+
+volume volume
+lost] *
+Class 1] upto | upto <100 | norm 14-20 >30 crystalloid
+750 15%
+Class 2] 1250 | 20to 100— | norm 20-30 20-30 | crystalloid
+25% 120 + colloid
+Class 3} 1500 | 30to > 120 decreased] 30-40 5-15 crystalloid
+to 35% <100 + colloid +
+2000 blood
+Class 4 | > 2000) >40% | >140 decreased) >40 nil crystalloid
+< 60/40 + colloid +
+blood
+
+*Note: Rules for adequate volume replacement:
+
+crystalloid alone: 2 — 3 times the volume deficit is required
+
+colloid or whole blood: just the volume deficit is required.
+
+AVAILABLE INTRAVENOUS SOLUTIONS
+
+These can be divided into two groups: CRYSTALLOIDS and COLLOIDS.
+
+CRYSTALLOIDS
+
+The composition of the crystalloid solutions is shown in Table 31.2.
+
+Sodium chloride 0.9% (normal saline)
+
+Suitable for fluid replacement in the initial therapy of haemorrhagic shock and
+
+severe dehydration. The sodium content sustains the circulating blood volume, and
+
+the absence of potassium allows rapid infusion. Contains no calories. May be
+given as part of maintenance regimen.
+
+If normal saline is being given as part of maintenance requirement care must be
+
+taken not to overload the patient particularly in the postoperative period when
+
+sodium and water requirements are decreased - as little as 10mmol of sodium may
+be required in 24 hours afier major surgery /trauma.
+540

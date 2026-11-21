@@ -1,0 +1,34 @@
+EDLIZ 2025
+SECOND TRIMESTER (13 TO 27 WEEKS)
+Pregnancy Termination (13 to 27 weeks)
+Medicine Codes Adult dose Frequency Duration
+misoprostol pv Cc Vv 200mcg 12hourly max 4 doses
+Or Method 2
+Medicine Codes Adult dose Frequency Duration
+mifepristone po B Vv 200mg once
+then in misoprostol Cc V = 400meg 3 hourly
+1-2 days _B, py or SL
+B = buccal, SL = sub-lingual
+NB: Combination regimen (Method 2) is recommended because it is more effective.
+Repeat doses of misoprostol can be considered when needed to achieve success of the
+abortion process. Health-care providers should use caution and clinical judgement to
+decide the maximum number of doses of misoprostol when managing pregnant
+individuals with prior uterine incision. Uterine rupture though a rare complication, must
+be considered with advanced gestational age and therefore clinical judgement and
+health system preparedness for emergency management should be made available.
+Intra uterine foetal death (13-17 weeks)
+Medicine Codes Adult dose Frequency Duration
+misoprostol py C Vv 200mcg 12hourly max 4 doses
+Intra uterine foetal death (18-27 weeks)
+Medicine Codes Adult dose Frequency Duration
+misoprostol pv C V_ 100mcg 12hourly max 3 doses
+Third trimester (28-40weeks)
+Intra uterine foetal death (> 28 weeks)
+Medicine Codes Adult dose Frequency Duration
+misoprostol po C V_ 25mcg 2hourly max 8 doses
+or misoprostolpy C V_ S0mcg 24hourly max 2 doses
+Induction of labour
+Medicine Codes Adult dose Frequency Duration
+misoprostol pv CV 50meg 24hourly max 2 doses
+or misoprostol po C V_ 25meg 2hourly max 8 doses
+120

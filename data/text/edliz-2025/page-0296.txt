@@ -1,0 +1,38 @@
+EDLIZ 2025
+e  Thiazides / thiazide like diuretics and ACE inhibitors/angiotensin receptor
+blockers:
+Medicine Codes Adult dose Frequency Duration
+hydrochlorothiazide po C V_ 12.5—25mg_ onceaday _long term
+and _ enalapril po BV 5~-20mg twice daily long term
+or lisinopril po B V_ 5-10mg once daily long term
+or losartan po B V_ 25-—100mg__ once daily long term
+Second line combination therapy
+e  Thiazide/thiazide-like diuretics, calcium channel blockers and ACE inhibitors/
+angiotensin receptor blockers:
+Medicine Codes Adult dose Frequency Duration
+Hydrochlorothiazide po C V_ 12.5-25mg__ once daily long term
+and amlodipine po B V_ 5-10mg once a day long term
+or nifedipine slow release po B V_ 20-40 mg twice daily long term
+and — enalapril po B V_ 520mg twice daily long term
+or __ lisinopril po BV 5-10mg twice daily long term
+or losartan po B V_ 25—100mg_ once daily long term
+Side effects profile
+Side effects
+Diuretics Unwanted side effects for diuretics include raised plasma glucose,
+e.g. HCT uric acid, cholesterol and reduced plasma potassium and
+magnesium, sinus congestion
+CCB Unwanted side effects include vasodilator effects such as headache
+and facial flushing in up to 20% of patients, peripheral oedema
+(usually due to a local action rather than an effect on the heart or
+kidney).
+ACE Unwanted side effects include cough in 10-25% of patients,
+inhibitors angioedema, postural hypotension and occasionally syncope,
+particularly in patients with a low plasma volume due to diuretic
+treatment. All ACE inhibitors can cause excessive hypotension and
+renal failure.
+A useful alternative to ACE inhibitor when cough develops are
+Angiotensin-receptor blockers such as Losartan.
+Caution: concomitant potassium supplements or potassium retaining
+medicines should be avoided or used only with careful monitoring of
+serum potassium.
+294

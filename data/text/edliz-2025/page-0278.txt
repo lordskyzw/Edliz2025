@@ -1,0 +1,51 @@
+EDLIZ 2025
+
+HEALTHCARE ASSOCIATED INFECTIONS (NOSOCOMIAL)
+
+e Pneumonia presenting 48 hours after admission:
+
+Medicine Codes Adult dose Frequency Duration
+amoxicillin-clavulanic BV  1200mg 3timesaday 10-14days
+acid iv
+
+Alternatively
+
+Medicine Codes Adult dose Frequency Duration
+
+gentamicin iv Cc V_= 120mg 12hourly 7-10 days
+
+and benzylpenicilliniv C V_ 1.5gm 6hourly 7-10 days
+(=2.5MU)
+
+OTHER COMMON RESPIRATORY INFECTIONS
+
+Chronic Obstructive Pulmonary Disease (COPD)
+
+This term has replaced “chronic bronchitis and emphysema”.
+
+There are many aspects of management:
+
+e All patients with a clinical diagnosis of COPD should have a spirometry lung
+function testing. This is done to assess for obstruction, assess the severity of the
+disease and to exclude asthma by demonstrating reversibility or non-
+reversibility of the obstruction.
+
+e Stop smoking and/or remove from hazardous (dusty) environment.
+
+e@ Prompt treatment of infective exacerbations (or as for pneumonia):
+
+Treatment of COPD exacerbation
+
+Give antibiotics if sputum colour has changed to purulent, or there is fever or new
+
+chest Xray infiltrates.
+
+Medicine Codes Adult dose Frequency Duration
+amoxicillin po C V_ 500mg 3 times a day 7 days
+or doxycycline po Cc V_= 100mg once a day 7 days
+
++
+
+e For airway obstruction and dyspnoea add:
+
+276

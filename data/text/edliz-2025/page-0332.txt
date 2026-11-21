@@ -1,0 +1,33 @@
+EDLIZ 2025
+e Treat for a total of 2 weeks
+Children >3 months
+e If vomiting, treat with IV antibiotics for at least 2 to 4 days then oral antibiotics
+for a total of 7 to 10 days
+e Ifno vomiting, use oral antibiotics for 7 to 10 days.
+If vomiting
+Medicine Codes Adult dose Frequency Duration
+ceftriaxone inj C V_ 50mg/kg daily at least 2-4 days
+amoxicillin/clavulanic B V_ 20-30mg/kg 2 timesaday Until 7-10days
+acid po
+No vomiting
+Medicine Codes Adultdose Frequency Duration
+amoxicillin/clavulanic BV  20-30mg/kg 2 times a day 7-10days
+acid po
+or cefuroxime po B E_ 10-15mg/kg 2 times a day 7-10 days
+Children >3 months with lower urinary tract symptoms (cystitis)
+e Oral antibiotics for 3 days.
+Factors distinguishing upper UTI and lower UTI
+Bacteriuria and fever of 38 degrees or | Upper UTI
+higher
+Bacteriuria, loin pain/tenderness and | Upper UTI
+fever of < 38 degrees
+Bacteriuria, but no systemic features Lower UTI
+Refer all children with atypical UTI e.g.:
+e Seriously ill child
+@ Poor urine flow
+e Abdominal or bladder mass
+e Raised plasma creatinine level
+e Septicaemia
+e Failure to respond to treatment within 48 hours
+© Non-£. coli UTI
+330

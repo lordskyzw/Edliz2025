@@ -1,0 +1,32 @@
+EDLIZ 2025
+Antibiotics in a Cholera Epidemic
+e Antibiotics should be given to all cases of severe dehydration
+e The choice of antibiotics depends on local sensitivity pattern
+First line medicine (except in pregnancy)
+For adults
+Medicine Codes Adultdose Frequency —_ Duration
+ciprofloxacinpo B V_ lg single dose after correction of
+severe dehydration
+For children
+Medicine Codes Paed Dose Frequency Duration
+ciprofloxacinpo B V_ 20mg/kg single dose after cessation of
+vomiting (if any)
+Second line medicine
+For adults:
+Medicine Codes Adult dose Frequency _ Duration
+azithromycinpo C V_ lg single dose after correction of
+severe dehydration
+For children:
+Medicine Codes Dose Frequency —_ Duration
+azithromycin po C V_ 20mg/kg single dose after cessation of
+vomiting (if any)
+Alternative medicine
+Medicine Codes Adult dose Frequency Duration
+doxycycline po C V_ 300mg single dose _ after food
+except in pregnancy
+Medicine Codes Adult dose Frequency Duration
+erythromycinpo C V_ 500mg 6 hrly 3 days
+for all only if sensitive
+Medicine Codes Paed dose Frequency Duration
+erythromycinpo C V_ 12.5mg/kg 6 hrly 3 days
+321

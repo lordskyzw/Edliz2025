@@ -1,0 +1,57 @@
+EDLIZ 2025
+
+© Check blood pressure daily.
+
+@ Potassium supplements are to be stopped and levels monitored regularly when
+using ACE inhibitors (e.g. captopril and enalapril), ARBs (such as losartan),
+ARNI (sacubitril/valsartan) and MRA (spironolactone)
+
+© Monitor serum potassium levels.
+
+© Digoxin toxicity may be a problem especially in the elderly and in patients with
+hypokalaemia and hypomagnesaemia.
+
+Medicine Management:
+
+The medical management of heart failure discussed below is evidence based for
+
+heart failure with reduced left ventricular systolic function.
+
+Heart failure in the setting of valvular heart disease requires surgical management
+
+as the definitive treatment, some of the medications below can be used to control
+
+symptoms of congestion or heart rate control
+Medicine Codes Adult dose Frequency Duration
+frusemide po! B_V_ 40-80mg 1-2 timesaday _ long term
+and enalapril po B V_ 5-20mg twice daily long term
+or losartan B_ V_ 25-100 mg once daily long term
+or sacubitril/valsartan S V_ 50-200 mg 1-2. times a_ long term
+day/twice daily
+and carvedilol po B V_ 3.125-25mg __ twice daily long term
+or _ bisoprolol po B V_1.25-10mg once daily long term
+or metoprolol B V 25-100mg__ 1-2 times/day long term
+succinate XL po?
+and spironolactonepo B V_ 25-50mg once daily long term
+and dapagliflozin S V 10mg once daily long term
++/- potassium chloride BV 600mg-1.2g 1-2timesaday long term
+po
++/- digoxin po BE 0.25-0.5mg 3 times a day first 24hrs
+then 0.125-0.25mg once a day long term
+Paed = 0.01mg/kg
+
+‘give intravenous treatment for severely oedematous patients
+
+? control release metoprolol
+
+Sif using ACE inhibitors, losartan or spironolactone discontinue or use
+
+cautiously
+
+*ACE inhibitors are of benefit in all stages of heart failure
+
+Selective Beta blockers such as carvedilol are of benefit in all stages of heart
+
+failure
+
+298

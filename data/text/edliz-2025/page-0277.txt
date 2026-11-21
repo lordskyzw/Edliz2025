@@ -1,0 +1,32 @@
+EDLIZ 2025
+Pneumonia - Staphylococcal
+Medicine Codes Adult dose Frequency Duration
+cloxacillin iv* B V 1-2gm 6hourly 14 days
+or clindamycin iv* in B N 600mg 3 — 4 times a 14 days
+penicillin allergy day
+*iv for at least 7 days, then consider changing to oral route
+Pneumonia — Klebsiella, other gram negative
+Medicine Codes Adult dose Frequency Duration
+gentamicin iv Cc V_ 120mg 12hourly 10-14 days
+and ceftriaxone iv Cc Vs igm 2timesaday 10-14 days
+or based on culture and sensitivity.
+Lung abscess
+e Postural drainage and physiotherapy are mandatory. Patients with very large
+abscesses should lie in the lateral decubitus position with the abscess side
+down, plus
+Medicine Codes Adult dose Frequency Duration
+benzylpenicillin iv Cc Vo 15gm 6hourly 4-8weeks*
+(=2.5MU)
+and metronidazole po Cc V_ 400mg 3 timesaday 4-8weeks
+Alternatively (alone)
+Medicine Codes Adult dose Frequency Duration
+amoxicillin-clavulanic B V_  1200mg 3 times a day
+acid iv
+*continue until no longer toxic +/- 7 days, then complete treatment as outpatient
+for 4-8 weeks with oral amoxicillin-clavulanic acid 625mg three times a day or 1g
+twice daily. Be on the lookout for C. difficile diarrhoea due to long course of
+antibiotics. Repeat the CXR at 6 weeks. If no significant resolution/response, refer
+to a Specialist to consider possibility of MRSA (if patient was previously
+hospitalised), TB or other pathologies such as malignancy.
+e In HIV infection, also consider TB emphysema especially
+275

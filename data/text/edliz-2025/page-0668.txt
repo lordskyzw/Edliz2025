@@ -1,0 +1,41 @@
+EDLIZ 2025
+I
+Ibuprofen > 176, 212, 312, 491, 518
+Imiquimod cream —> 140
+Imipramine —> 411, 412, 429
+Intradermal — 225
+Ipratropium inhaler > 277
+Ipratropium nebulised — 277
+Isoniazid — 60, 212, 220, 222, 226, 229
+Kk
+Kanamycin > 60, 105, 106, 108, 119, 122, 123, 129, 130, 213, 275, 322
+Ketoconazole — 212
+L
+Labetalol — 293, 298, 588
+Labetalol IV — 296
+Lamivudine > 198, 199, 201, 204, 342
+Lamotrigine — 212
+Levofloxacin > 233
+Lignocaine > 116
+Lisinopril > 293, 301
+Lithium — 125
+Loperamide > 162, 323
+Lopinavir — 187
+Losartan > 293, 294, 298
+M
+Magnesium sulphate > 114
+Magnesium trisilicate 115
+Medroxyprogesterone acetate + 102
+Metaclopramide — 109
+Metformin — 342, 356
+Methyldopa + 112, 118
+Metronidazole — 32, 51, 60, 81, 85, 106, 107, 125, 316, 322, 324, 593, 594
+Miconazole — 75, 105, 131, 448, 469, 470
+Mifepristone > 120
+Misoprostol > 107, 116, 117, 118, 119, 120
+Morphine — 60, 116, 299, 484, 496, 497, 498
+Morphine sulphate > 213
+Moxifloxacin — 233
+Multivitamin syrup — 87
+
+666

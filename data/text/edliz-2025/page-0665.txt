@@ -1,0 +1,42 @@
+EDLIZ 2025
+INDEX BY MEDICINE NAME
+A
+Acyclovir — 135, 176, 178
+Acetylcysteine > 210
+Adenosine > 109
+Adrenaline — 58, 70, 200, 210, 284, 285
+Adrenaline (dilute) > 46
+Albendazole — 87, 124, 241, 242
+Amikacin > 124, 233
+Aminoglycoside > 124
+Aminophylline > 56, 58, 210, 306
+Amitriptyline > 176, 177
+Amlodipine — 293, 294
+Amodiaquine — 258, 259, 260
+Amoxicillin > 58, 66, 74, 85, 104, 106, 119, 166, 209, 210, 272, 275, 276, 306, 308,
+316, 330, 331
+Amoxicillin (PO) > 19, 32, 73, 166, 209, 210, 276, 316, 329, 331
+Ampicillin > 65, 85, 107, 110, 111, 210, 322
+Androgens > 124
+Anti-tetanus immunoglobulin > 51
+Antiemetics > 124
+Antiepileptics > 124
+Antihypertensives > 124
+Artemether—lumefantrine — 256, 257, 268
+Artesunate > 258, 259, 267
+Aspirin > 124, 246, 296, 299, 300, 301, 341, 346, 360, 375
+Atazanavir > 187
+Atenolol — 124, 295, 301, 369, 376, 392
+Atorvastatin > 295, 301
+Atropine sulphate — 58, 210
+Azithromycin > 81, 122, 128, 129, 131, 137, 166, 250, 251, 321
+B
+Baclofen > 498
+Beclomethasone — 282, 283, 287, 288
+Bedaquiline — 233
+Benzathine penicillin > 105, 122, 135, 137, 138, 139, 307, 312
+Benzyl benzoate > 141, 324, 471
+Benzylpenicillin > 50, 51, 65, 73, 108, 209, 276
+Benzylpenicillin IV + 593, 594, 595, 596
+
+663

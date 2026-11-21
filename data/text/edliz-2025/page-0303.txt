@@ -1,0 +1,37 @@
+EDLIZ 2025
+Where possible, avoid intramuscular injections as this interferes with the
+measurement of cardiac enzymes and results in haematomas with thrombolytic
+agents.
+Management of Acute Myocardial Infarction:
+Medicine Codes Adult dose Frequency Duration
+aspirin po C V_ 300mg once only as a single dose,
+then
+75-150mg_ once a day long term
+or clopidogrel B E 300mg once only
+75mg once daily
+and morphine iv B E_ 2-5mg every 10— as required
+15min
+and _ isosorbide dinitrate po A E  10-40mg 3 times a day as required
+and low molecular
+weight heparins
+and _ streptokinase (or A N__1.5MU in 100ml sodium chloride 0.9% or
+preferably urokinase) iv dextrose 5% run over one hour, once only
+Useful for MI with ST
+segment elevation
+and atenolol po B V__ 50-100mg_ once a day long term
+and _ enalapril po B E_ 5-20mg twice daily long term
+or __ lisinopril B E_ 5-20mg twice daily long term
+and atorvastatin po B V_ 20-80mg __ once daily long term
+or rosuvastatin po B V_ 10-40mg __ once daily long term
+* Thrombolytic agents should be administered early preferably in infarcts of less
+than 12 hours duration.
+* CAUTIONS: DO not give digoxin in acute infarction unless there is a supra-
+ventricular arrhythmia that requires it.
+* DO not use inotropic agents such as isoprenaline or adrenaline as they may be
+counter-productive and cause an extension of the infarction.
+ARRHYTHMIAS AFTER MYOCARDIAL INFARCTION:
+Ectopic beats
+Give reassurance about the condition, but if troublesome:
+Medicine Codes Adult dose — Frequency Duration
+atenolol po B_ V_ 50-100mg_ once daily as required
+301

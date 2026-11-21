@@ -1,0 +1,27 @@
+EDLIZ 2025
+Where possible check the serum bilirubin levels
+Table: 3.4: Management of jaundice based on phototherapy levels
+Management PHOTOTHERAPY EXCHANGE
+TRANSFUSION
+Age in days 235/40 <35/40 235/40 <35/40
+1 Any visible | Any visible | 260
+jaundice jaundice
+2 260umol/1 170 pmol/l 425 260 pmol/1
+pmol/1
+3 300 pmol/1 250 wmol/1 425 340 mol/l
+pmol/1
+Convulsions
+e Always check for hypoglycaemia. If dextrose <2.2mmol/I (45mg%) immediately give:
+Medicine Codes Paed dose Freq. Duration
+dextrose 10% iv A N 4ml/kg per hour OR
+infusion 2ml/kg given as a bolus followed by
+a continuous infusion of dextrose at
+6-8mg/kg/minute
+or dextrose 50% slowiv C WV Iml/kg diluted with equal quantity of
+water for injection as slow bolus
+e recheck blood sugar (dextrostix /glucometer) in 30 minutes
+If intravenous route is impossible give breast milk through nasogastric route -10-
+20mlI/kg initially and continue normal requirement two hourly. Dextrose should
+not be given by nasogastric tube. If blood glucose cannot be measured give
+empirical treatment with glucose.
+53

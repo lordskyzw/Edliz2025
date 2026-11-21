@@ -1,0 +1,43 @@
+EDLIZ 2025
+e For pain give:
+Medicine Codes Adult dose _ Frequency Duration
+amitriptyline po BE 25-75mg* _at night review
+
+*the lower dose is usually sufficient
+Note: for dose in children see chapter on Paediatric conditions
+= Ifineffective or intolerable side effects, add:
+
+Medicine Codes Adult dose Frequency Duration
+
+carbamazepine po B V_ 100mg 2timesaday 2 days
+
+increasing to 200mg 2timesaday 2 days
+increasing to 400mg 2timesaday review
+A small proportion of patients require opiates:
+Medicine Codes Adult dose Frequency Duration
+codeine phosphate po BE  30-60mg 6hourly as required
+
+If codeine morphine sulphatepo B V_ 10-100mg 4hourly As required
+
+ineffective
+Note: for dose in children see chapter on Paediatric conditions
+Pain in the hands only may be due to carpal tunnel syndrome or cervical root
+compression: refer to secondary/ tertiary level care for diagnosis.
+INVOLUNTARY MOVEMENTS
+The commonest is tremor, (which is usually essential, (familial) tremor,
+Parkinsonism or cerebellar), and the tremor of heavy metal poisoning like mercury.
+Is it a resting, postural or action (intention) tremor? For children aged 5-15 years
+consider acute rheumatic fever. Tremor of the elderly — older people can develop
+a tremor consisting of titubation or nodding of the head, it may strongly simulate a
+tic. NO TREATMENT is usually required beyond assurance of their benign nature.
+Essential tremor
+Fine, bilateral, postural tremor occurs on maintaining posture and stops when the
+hand is held. There is no increase in muscle tone. Treat with:
+
+Medicine Codes Adult dose Frequency Duration
+
+propranolol po B E 20mg 3 times a day review, then
+
+increase by 20mg per dose until satisfactory response or unacceptable
+side effects, up to 120 mg tds.
+392

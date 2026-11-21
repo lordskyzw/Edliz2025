@@ -1,0 +1,22 @@
+EDLIZ 2025
+Immunization:
+Low birth weight infants should be given all the scheduled vaccines at the
+time of birth and any second doses that are due at discharge and according to
+chronological age.
+Vitamins and Iron
+Normal newborn babies do not require any long-term vitamin or mineral
+supplementation.
+@ Those babies born at <36 weeks gestation and/or <1.5kg should be given from
+age 2 weeks:
+Medicine ' Codes Paed dose Freq. Duration
+vitaminDpo B V_ 800 units once a day to age of 3
+months
+and folic acid po C E  5mg weekly
+e and, starting from the age of one month:
+Medicine Codes _—_ Paed dose Freq. Duration
+and ferrous sulphate po C E 3-6 mg/kg once a_ to age of 6
+elemental day months
+(60mg/Smls = 12mg iron
+elemental iron
+/Smls)
+57

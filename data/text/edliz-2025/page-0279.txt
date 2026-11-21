@@ -1,0 +1,31 @@
+EDLIZ 2025
+e@ Mild /Moderate Disease and patient able to use inhaler (check technique):
+Medicine Codes Adult dose Frequency Duration
+salbutamol inhaler CV 100-200mcg 6hourly review
+plus ipratropium A V 40mcg 6hourly review
+inhaler
+e Ifdyspnoea is severe:
+Medicine Codes Adult dose Frequency Duration
+salbutamol B V 5mg 6hourly review
+nebulised
+plus ipratropium A V_ 500mcg 6hourly review
+nebulised
+and prednisolone po B V 30mg onceaday 5 days
+e Preferably drive the nebuliser with oxygen.
+© Controlled oxygen therapy - 2 litres/minute by nasal prongs or 28% venturi
+mask (Avoid higher concentrations of oxygen unless there is access to blood gas
+analyser). If it is possible to monitor oxygen saturation aim for SPO2 88-92%
+e Provide pulmonary rehabilitation to prevent respiratory muscle wasting and
+deconditioning.
+e Provide nutritional support.
+Management of stable COPD
+e@ Overall management of patients with stable COPD is individualised.
+@ Use of bronchodilators
+e Ifthe patient has mild symptoms and infrequent exacerbations (1 or nil per year)
+use:
+Medicine Codes Adultdose Frequency Duration
+salbutamol Inhaler C V_ 200mcg PRN
+e If no improvement add:
+Medicine Codes Adultdose Frequency Duration
+ipratropiuminhaler AV — 400mcg PRN
+277

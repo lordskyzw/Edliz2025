@@ -1,0 +1,28 @@
+EDLIZ 2025
+Medicine Codes Adultdose Frequency Duration
+amoxicillin po Cc V_ 500mg 3 times a day 5 days
+or ciprofloxacin po B V_ 500mg 2 times a day 5 days
+and metronidazolepo C V_ 400mg 3 times a day 5 days
+Termination of Pregnancy
+First trimester (up to 12 weeks)
+Cervical ripening pre instrumentation
+Medicine Codes Adultdose Frequency Duration
+misoprostol py C V_  400mcg 4 hours before procedure —_ once only
+Pregnancy termination (< 12 weeks)
+Medicine Codes Adult dose — Frequency Duration
+misoprostol pv Cc V_ 600meg 12hourly max 2 doses
+Or Method 2
+Medicine Codes Adult dose Frequency Duration
+mifepristone po B V_ 200mg once
+then misoprostol C V_ 800meg once
+in 1-2 B,pvorSL
+days
+B = buccal, SL = sub-lingual
+Combination regimen (Method 2) is recommended because it is more effective.
+Missed miscarriage
+Medicine Codes Adult dose Frequency Duration
+misoprostol pv C V_ 600meg 12hourly — max 2 doses
+Incomplete miscarriage
+Medicine Codes Adult dose Frequency Duration
+misoprostol po C V_  600mcg single dose
+119

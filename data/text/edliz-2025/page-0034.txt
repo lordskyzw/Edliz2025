@@ -1,0 +1,22 @@
+EDLIZ 2025
+e Vaginal operations:
+Medicine Codes Adult dose Frequency
+chloramphenicoliv B V lg single dose
+Caesarean section:
+Medicine Codes _ Adult dose Frequency
+ceftriaxone iv Cc Vv Ig single dose
+e Hysterectomy, or Colorectal surgery e.g. appendicectomy:
+Medicine Codes Adult dose Frequency
+ceftriaxone iv C Vv ig single dose
+and gentamicin iv Cc V_Smg/kg single dose
+e If signs of infection after operation, give:
+Medicine Codes Adult dose Frequency Duration
+amoxicillin po Cc Vv 500mg 3timesaday 7 days
+and metronidazole Cc Vv 400mg 3timesaday 7 days
+po
+e Subacute bacterial endocarditis See Cardiovascular Chapter
+e For meningococcal meningitis contacts. Give as soon as diagnosis is made in
+the index case:
+Medicine Codes Adult dose Frequency Duration
+ceftriaxone im Cc Vv =-250mg single dose
+32

@@ -1,0 +1,39 @@
+EDLIZ 2025
+Maintenance
+e Adults [and Children > 10 years]:
+e The following in combination, adjusted so that total volume is 2-3 litres/24 hours
+in adults:
+Medicine Codes Adultdose Frequency _ Duration
+sodium chloride 0.9% C V_ 0.5~1 litre
+iv
+or _ ringer lactate iv C V_ 05-1 litre
+and dextrose 5% in wateriv C V_— 1.5—2 litre
+and potassium chlorideiv BV 20 mmol added to each litre
+Children: 1 Month - 10 years (refer to Paediatrics Chapter)
+Medicine Codes _ Paed dose Frequency _ Duration
+half strength Darrow’s c Vv 0-10kg= 100ml/kg/24hrs
+solution with dextrose 2.5% 5-10yrs=  75ml/kg/24hrs
+iv
+@ Infants: (Up to 30 days old)
+Medicine Codes Paeddose Frequency _ Duration
+neonatal multi electrolyte BN upto 150ml / kg per 24 hours*
+maintenance solution
+(‘neonatalyte’)
+*Do not exceed 60 ml/kg/24 hrs in the first 24 hours of life - see section on
+neonates in paediatric chapter.
+Replacement of Abnormal Losses
+Dehydration
+e Oral rehydration alone should be carried out wherever possible in addition to
+intravenous fluids. In severe cases, IV fluid replacement will be needed.
+Intravenous Rehydration (Adults)
+Medicine Codes Adult dose Frequency Duration
+sodium chloride C  V_ In severe dehydration the first litre may be
+0.9% iv infused in 15-20 minutes. Thereafter the drip
+or ringer lactate iv Cc. V_ tate should be progressively slowed down.
+Six or more litres may be required in the first
+24 hours, of which the first 3-4 litres will be
+a replacement fluid after which a
+maintenance regimen of approximately 3
+litres/24_ hrs should be used (see
+“maintenance” above).
+538

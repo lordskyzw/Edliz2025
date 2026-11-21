@@ -1,0 +1,27 @@
+EDLIZ 2025
+Caution
+e Mild histamine release in higher doses
+e Neuromuscular blockade potentiated by aminoglycosides, loop diuretics,
+hypokalaemia, hypothermia, acidosis and volatile anaesthetic agents
+Vercuronium
+An intermediate acting amino-steroid, with cardiovascular stability and no
+histamine release
+Medicine Codes Dose Onset Duration
+vecuronium iv B V_ 0.08-0.lmg/kg 3-5 mins 30-45mins
+maintenance 0.02-
+0.03mg/kg
+Caution
+Neuromuscular blockade potentiated by aminoglycosides, loop diuretics,
+hypokalaemia, hypothermia, acidosis and volatile anaesthetic agents
+Hypersensitivity
+Neostigmine bromide (Cholinesterase inhibitor)
+Provides reversal of non-depolarising neuromuscular blockade.
+Medicine Codes Dose
+neostigmine bromide B_ V_ 2.5-5 mg after/with 1-1.8mg atropine sulphate.
+[Paed =50mcg/kg with/after 20mcg/kg atropine]
+Caution: Neostigmine causes the following if administered without atropine-
+e Bradycardia
+e Possible cardiac arrest
+e Diarrhoea and vomiting
+e@ Abdominal pain.
+574

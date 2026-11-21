@@ -1,0 +1,28 @@
+EDLIZ 2025
+Intravenous Anaesthetics
+Thiopentone Sodium
+A thiobarbiturate (intravenous use only) which produces anaesthesia, but no
+analgesia, within one arm-brain circulation time.
+Medicine Codes Dose Onset Duration
+thiopentone sodium slow B_  V_ 3-5mg/kg 10-15secs 5-10mins
+iv Repeat if necessary, after 20-30secs
+Indications
+e Induction of general anaesthesia.
+e May be used alone to produce anaesthesia for very short, minor surgical
+procedures;
+e May be used as an anticonvulsant in status epilepticus.
+Contraindications
+e Porphyria
+e Patients in whom maintenance of the airway by the anaesthetist is in doubt.
+Cautions
+e Severe tissue damage may occur if thiopentone is given extra-vascularly or
+intra-arterially; minimise this risk by always using a 2.5% solution.
+e Use with caution in hypertensive patients, asthmatics and fixed cardiac output
+states.
+Etomidate
+Produces anaesthesia but no analgesia in one arm-brain circulation time.
+Medicine Codes Dose Onset Duration
+etomidate iv B N_ 0.2-0.4mgperkg 30-60sec 3-10min
+Indications
+e Anaesthetic induction agent of choice in those with cardiovascular instability.
+569

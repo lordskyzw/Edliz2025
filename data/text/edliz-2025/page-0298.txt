@@ -1,0 +1,55 @@
+EDLIZ 2025
+
+@ Anti-platelet agents:
+
+Medicine Codes Adultdose Frequency Duration
+aspirin po B_ V 75-150mg once daily long term
+or clopidogrel B V 75mg once daily long term
+
+MANAGEMENT OF SEVERE HYPERTENSION
+
+Definition: diastolic blood pressure >120mmHg
+
+Emergency intravenous therapy or sublingual nifedipine is rarely required
+
+and is potentially dangerous (may result in stroke, renal failure or
+
+myocardial infarction).
+
+Indications for emergency treatment:
+
+e Left ventricular failure with pulmonary oedema (also see section on treatment
+of acute pulmonary oedema).
+
+e Hypertensive encephalopathy.
+
+e Acute aortic dissection.
+
+e@ Severe pre-eclampsia (see chapter on Obstetrics & Gynaecology).
+
+e Recent stroke requires caution as rapid lowering of blood pressure may worsen
+neurological deficit. Treat if diastolic blood pressure >120mmHg after 48
+hours. Long term treatment indicated if diastolic blood pressure >100mmHg
+after 3 months.
+
+e Frequent blood pressure monitoring
+
+e Sub-lingual nifedipine should be restricted in its use for hypertension. The only
+remaining major indication for it is severe hypertension with aortic dissection.
+
+Medicines
+
+= Beta-blocker, with alpha activity:
+
+Medicine Codes Adultdose — Frequency Duration
+
+labetalol iv S V_— 20 mg IVI stat over 2 mins, then 10-80 mg IVI
+every ten minutes until desired BP level achieved
+
+labetalol continuous S V = **2 mg IVI per minute by continuous IV infusion
+
+infusion
+
+* *Total dose should not exceed 300 mg
+
+296

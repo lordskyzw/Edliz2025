@@ -1,0 +1,31 @@
+EDLIZ 2025
+Soluble Insulin Use blood sugar reagent
+Blood Suga strips or __glucometer
+[mmol/L] readings. Do not rely totally
+716 12 units clinical judgement,
+S216
+Sliding scales using URINE glucose tests are unreliable - avoid.
+Metabolic conditions in children
+Hypoglycaemia in Children
+Common causes of hypoglycaemia include excessive insulin dose, skipping meals,
+and exercise. In children who are awake- give 100% juice, glucose tablet or a
+sweet, to increase the glucose fast. Thereafter maintain glucose level with a
+carbohydrate e.g. sandwich
+If unconscious give:
+Medicine Codes Paed dose Freq Duration
+10% dextrose iv A  N_— 2mg/kg/hr
+or glucagon iv A Vv <25kg - 0.5mg stat once
+>25kg- Img
+Maintain with a dextrose containing fluid until the child is able to eat or drink.
+Check glucose level every 20 min until normal.
+Children with Hyperglycemic States
+Hyperglycaemic Coma and Pre-coma (Children)
+NB. Refer to the appropriate local guideline used by paediatricians for Diabetic
+ketoacidosis (DKA) and hyperosmolar hyperglycaemic state (HHS) at the
+quaternary hospitals.
+Priorities:
+e Fluid replacement
+e Electrolyte / acid-base monitoring
+e Insulin therapy
+e Blood glucose monitoring
+366

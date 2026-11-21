@@ -1,0 +1,32 @@
+EDLIZ 2025
+Medicine Potency Relationships (when changing between antipsychotics)
+Potency Relationship
+Dose equivalent 100mg Chlorpromazine
+Haloperidol
+Side effects and adverse reactions of anti-psychotic medicines
+@ Early side effects:
+
+e@ Chlorpromazine and sulpiride may cause drowsiness, dizziness, postural
+hypotension, dry mouth, blurred vision and galactorrhoea: usually in early
+stages of treatment and may be self-limiting. These should be discussed
+with patients and a change to a first line medicine considered if such side
+effects are limiting compliance and adherence.
+
+e Extra-pyramidal side effects which include acute dystonia [common features
+are body stiffness, tongue protrusion, grimacing, writhing, twisting of neck
+or body, torticollis, and oculogyric crisis], Parkinsonism and akathisia.
+
+Treat with:
+Medicine Codes Adult dose Frequency Duration
+orphenadrine po B V_ 50mg onceaday 1 week
+or _ benzhexol po B V_ 5mg 1-2 times a day 1 week
+or diazepam po C V_ 5-10mg = 1-2 times aday 1 week
+If severe give:
+Medicine Codes Adult dose Frequency Duration
+biperiden im/ iv A N 2-4mg once only
+e And then continue with benzhexol as above. Reduce the dose of the anti-
+psychotic therapy.
+e Medium term side effects:
+Medicine-induced Parkinsonism, stiffness of arms and legs, muscle cramps,
+internal restlessness [akathisia] require addition of:
+407

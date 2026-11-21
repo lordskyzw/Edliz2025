@@ -1,0 +1,35 @@
+EDLIZ 2025
+For metabolic acidosis, if arterial pH < 7.2:
+Medicine Codes Adult dose Frequency Duration
+sodium bicarbonate iv B  V_ continuous infusion
+in dextrose 5%
+Aspirin / Salicylate Poisoning
+Aspirin (acetylsalicylic acid) is present in many analgesic preparations, and may
+also be found in herbal medicines. The toxic dose of any salicylate is estimated to
+be 0.2-0.5 g/kg.
+EMERGENCY MEASURES
+e Delay absorption of the poison by giving activated charcoal. If respiration is
+depressed, use airway-protected gastric lavage (lavage is effective up to 4 hours
+after ingestion).
+e If blood pressure is low, treat appropriately.
+e Treat respiratory depression by administering oxygen. Artificial ventilation may
+be necessary.
+e If convulsions occur and hypoglycaemia is not a contributing factor, give
+anticonvulsant medicine.
+Caution: Central nervous system depressants, such as barbiturates or diazepam
+must be administered cautiously.
+GENERAL MEASURES
+e Monitor serum bicarbonate, chloride, potassium, sodium, glucose and arterial
+pH.
+e Ifthere is adequate urine output and no vomiting.
+e In severe poisoning, hydration with intravenous fluids must be initiated in the
+first hour:
+Medicine Codes Adult dose Frequency —_ Duration
+dextrose 5% with B- V_ continuous infusion
+sodium bicarbonate
+75mmol/L
+Alkaline diuresis is an option under specialist guidance.
+In the presence of fluid retention, give:
+Medicine Codes Adult dose Frequency —_ Duration
+frusemide iv B_ V_ 0.25-Img/kg once review
+554

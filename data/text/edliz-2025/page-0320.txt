@@ -1,0 +1,28 @@
+EDLIZ 2025
+in mild cases. IV fluids in more severe cases or when vomiting is pronounced.
+Give anti-emetics when necessary (adults only):
+Medicine Codes Adult dose — Frequency Duration
+prochlorperazine BE 12.5mg one dose review
+im
+or metoclopramideiv BV 10mg one dose review
+then prochlorperazine BE  5mg 3 times review
+po
+or metoclopramide B V_ 10mg 3 times review
+po/iv
+Antibiotics are not required except in the special circumstances given below. Anti-
+diarrhoeals (codeine and loperamide) may be used for uncomplicated acute
+diarrhoea, but NOT recommended in children. Antispasmodics (hyoscine) may be
+useful for abdominal cramps.
+Medicine Codes Adult dose Frequency Duration
+codeine phosphate po B  V 30mg 3 times Review
+or loperamide po C N_ 2mg <8mg/day Review
+BACILLARY DYSENTERY (BLOODY DIARRHOEA)
+Always send stool for microscopy and culture to guide your antibiotic choice and
+to exclude amoebiasis. Empirical choice of antibiotic as below:
+Rehydration as for gastro-enteritis above.
+Medicine Codes Adult dose Frequency Duration
+ciprofloxacin BV 500mg twice daily 5 days
+or ceftriaxone iv c Vi ig twice daily Sdays
+Avoid antimotility drugs. Persistent culture negative bloody diarrhoea beyond 6
+weeks must be referred for evaluation for inflammatory bowel disease.
+318

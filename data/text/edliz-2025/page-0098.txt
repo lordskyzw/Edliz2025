@@ -1,0 +1,37 @@
+EDLIZ 2025
+Table 4.1: Immunisation schedule by age
+Name of | Age of | Route Site Dosage
+Vaccine administration
+BCG At birth or first. ] Intradermal Insertion of right deltoid | 0,05 ml
+contact before muscle
+one year
+Hepatitis B At birth or | Intramuscular | Right anterolateral aspect of | 0,Sml
+within 24 mid thigh
+hours of
+delivery
+DPT-HepB- 6 weeks, Intramuscular | Right anterolateral aspect of | 0,5 ml
+Hibl mid-thigh
+Pneumococcal 6 weeks Intramuscular | Left anterolateral aspect of | 0,5 ml
+1 mid-thigh
+opva 10 weeks
+DPT-HepB- 10 weeks Intramuscular | Right anterolateral aspect of | 0,5 ml
+Hib2 mid-thigh
+Pneumococcal 10 weeks Intramuscular | Left anterolateral aspect of | 0,5 ml
+2 mid-thigh
+Inactivated 14 weeks Intramuscular | 2,Sem from PCV site 0,5 ml
+Polio vaccine 1
+DPT-HepB- 14 weeks Intramuscular | Right anterolateral aspect of | 0,5 ml
+Hib3 mid-thigh
+Pneumococcal 14 weeks Intramuscular | Left anterolateral aspect of | 0,5 ml
+3 mid-thigh
+Measles and | 9 months Subcutaneous | Left deltoid muscle 0,5 ml
+Rubella | (MR)
+Inactivated 9 months Intramuscular | 2,Sem from PCV site 0,5 ml
+Polio vaccine 2
+TCV 9 months Intramuscular | Left anterolateral aspect of | 0,Sml
+mid thigh
+Measles and | 18 months Subcutaneous | Left deltoid muscle 0.5ml
+Rubella 2 (MR)
+DPT Booster 18 months Intramuscular | Right anterolateral aspect of | 0,5 ml
+mid-thigh
+96

@@ -1,0 +1,31 @@
+EDLIZ 2025
+Antiviral Treatment
+The following pan-genotypic DAA regimens are recommended:
+Medicine Codes Dose Frequency Duration
+sofosbuvir/ B V_ >26kg onceaday 12 weeks
+velpatasvir 400/100mg
+14-25kg onceaday 12 weeks
+200/60mg
+or — sofosbuvir/ B V_ >30kg onceaday 12 weeks
+daclatasvir 400/100mg
+17-29kg onceaday 12 weeks
+200/S0mg
+<17kg onceaday 12 weeks
+150/37.Smg
+or glecaprevir/ s Vv >45kg onceaday 8 weeks
+pibrentasvir 300/120mg
+30-45kg onceaday 8 weeks
+250/100mg
+20-30kg onceaday 8 weeks
+200/80mg
+<20kg onceaday 8 weeks
+150/60mg
+Patients with decompensated cirrhosis, and those who are treatment
+experienced should be referred for specialist care.
+Assessment of Treatment Response
+(Confirmation of undetectable HCV RNA in a previously viraemic individual is|
+important to assess the virological response to DAA treatment. Nucleic acid testing]
+(NAT) for qualitative or quantitative detection of HCV RNA should be used as test off
+‘ure at 12 weeks after completion of antiviral treatment (or 24 weeks if 12 week is not]
+possible).
+151

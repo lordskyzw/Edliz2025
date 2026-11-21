@@ -1,0 +1,33 @@
+EDLIZ 2025
+LIVER DISEASE
+Acute Liver Failure/ Hepatic Encephalopathy
+e Identify and eliminate precipitating causes (electrolyte derangements, toxins,
+septicaemia, alcohol, upper GI bleeding).
+e Stop all unnecessary medicines including diuretics and sedatives.
+e Intensive support, including fluid management, assessment for infection and
+metabolic parameters and detect bleeding.
+@ Give high calorie diet (2000 kcal/day), and low protein diet.
+e Look for aetiology (acute hepatitis B, medications, herbs and alcohol commonly)
+© Give sufficient laxatives to induce diarrhoea:
+Medicine Codes Adult dose Frequency Duration
+magnesium C N 40m! every 6 hours, until
+trisilicate po diarrhoea is induced
+or lactulose po A N 5mls Increase the dose 2 times a day
+by 5mls according to
+response aiming for 2
+soft stools per day
+or high bowel washout performed once
+Medicine Codes Adult dose Frequency Duration
+dextrose 10% iv AN 3litres/day added to every litre bag if
+with potassium chloride BV 2g (26mmol) renal function is satisfactory
+iv
+e Screen for infection (urine, chest, blood), and treat vigorously.
+e If bleeding is evident or invasive procedure is planned, give:
+Medicine Codes Adult dose Frequency Duration
+vitamin K iv Cc V_= 10mg once review
+and fresh frozen plasma B  V_ 3 bags initially -
+Tf ethanol aetiology is suspected, give:
+Medicine Codes Adult dose Frequency Duration
+thiamine iv slow A N_ 250mg before dextrose infusion and
+daily for 3 days
+325

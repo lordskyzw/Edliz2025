@@ -1,0 +1,36 @@
+EDLIZ 2025
+
+@In severe disease with complications e.g. renal, neurological, vascular or
+haematological add prednisolone in high doses as well as immunosuppressive
+medicines:
+
+Medicine Codes Adult dose Frequency Duration
+prednisolone po B V__ Img/kg once a day review, then reduce
+
+e Reduce dose after crisis is over to smaller maintenance dose, enough to suppress
+activity. Steroids should be started early and patient closely monitored for side
+effects.
+
+e Additionally, azathioprine or mycophenolate mofetil should be used to spare
+the high dose of prednisolone. This will require Specialist monitoring for side
+effects, especially haematological ones.
+
+DEGENERATIVE OSTEOARTHRITIS & SPINAL SPONDYLOSIS
+
+Manage with:
+
+Medicine Codes Adult dose Frequency Duration
+ibuprofen po C N = 200-400mg 3 times a day review
+or diclofenac po B E 25 -50mg 3 times a day Review
+
+Rheumatoid factor negative spondyloarthropathies
+
+Reiter’s disease and Post Infective Arthritis
+
+Treat as for osteoarthritis as above. Exclude UTI/ bowel infection and HIV
+
+infection.
+
+Refer to Specialists for diagnosis and initial treatment.
+
+350

@@ -1,0 +1,39 @@
+EDLIZ 2025
+ACUTE NEPHRITIC SYNDROME
+Rapidly progressive glomerulonephritis (RPGN) is a renal emergency!!! It is a
+disease of the kidney characterized clinically by a rapid decrease in the glomerular
+filtration rate (GFR) of at least 50% over a short period, from a few days to 3
+months.
+Presence of features of glomerulonephritis (i.e. facial or generalised oedema,
+haematuria plus oliguria and hypertension) and rapid deterioration of kidney
+function should be managed as RPGN with immediate initiation of intravenous
+steroids and urgent referral to a tertiary hospital.
+Medication to give:
+Medicine Codes Adult dose Frequency Duration
+methylprednisoloneiv A V_ 10mg/kg onceaday 3 days
+then prednisolone po B V_ 2mg/kg onceaday 2 weeks
+Max 60mg/day
+
+plus calcium po BE 500mg once
+
+plus vitamin D po BE 400iu once
+
+plus omeprazole po BE 20-40mg daily
+POST INFECTIOUS NEPHRITIS -
+Usually presents with facial or generalised oedema plus oliguria and hypertension.
+Check urine microscopy for active sediment and do U & Es daily. There may be a
+recent history of tonsillitis, arthralgia, skin rashes/ infection.
+e Promote diuresis with small doses of oral furosemide (40-80mg once daily). If
+
+response obtained put on a regular dose.
+e If post-streptococcal infection is suspected give:
+
+Medicine Codes Adult dose Frequency Duration
+amoxicillin po C V_ 500mg 8hrly 10 days
+
+e Treat hypertension conventionally. Children need early intervention for elevated
+
+blood pressure.
+e Restrict fluid if oliguric and carefully maintain fluid balance.
+
+334

@@ -1,0 +1,38 @@
+EDLIZ 2025
+
+Conduct disorders (CD)
+Conduct disorders are characterized by repetitive persistent patterns of antisocial
+aggressive and defiant behaviour that results in significant and persistent violation
+of age-appropriate social expectations and rules.
+Management of CD
+The mainstay management approaches are psychosocial and behavioural
+interventions mostly focused on parent training, anger management, problem
+solving techniques and primary prevention measures.
+Pharmacological interventions are used mainly to target comorbid conditions
+such as ADHD and epilepsy. Antipsychotics such as risperidone and aripiprazole
+can be used to manage aggressive behaviour not responding to psychosocial and
+behavioural approaches. Please refer to the dosing guide above.
+Mood stabilizers such as carbamazepine can also be used for the management of
+aggression in CD.
+Treatment of Depression in children and adolescents
+Mild depression Individual Cognitive | None
+
+Behavioural Therapy
+
+(CBT) , group CBT, group
+
+Interpersonal Therapy (IPT)
+Moderate to severe | Family-based IPT, family | +/- Fluoxetine
+depression therapy, CBT
+Depression Intensive psychological | +/— fluoxetine,
+unresponsive to | therapy sertraline, citalopram,
+treatment/recurrent augmentation with an
+depression/psychotic antipsychotic
+depression
+Antidepressant medications
+
+Medicine Codes Adult dose Frequency Duration
+fluoxetine po C V_ 2.5-40mg once at least 6 months
+or citalopram po B_ V_10-20mg once at least 6 months
+or sertraline po B_ E_  25-200mg__ once at least 6 months
+422

@@ -1,0 +1,33 @@
+EDLIZ 2025
+For immediate haemostasis if bleeding and INR>3 give:
+Medicine Codes Adult dose Frequency Duration
+fresh frozen plasma B V_ 4bags review review
+Haemorrhagic disease of the new-born
+The policy is to give vitamin K routinely to all new-borns as a preventive measure.
+However, if there is active bleeding give FFP and:
+Medicine Codes Paed dose Frequency Duration
+vitamin K im Cc V_ Img once a day 3 days
+Idiopathic Thrombocytopenic Purpura (ITP)
+Medicine Codes Adult dose Frequency Duration
+prednisolone po BV _ I mg/kg once a day 2 weeks,
+then according to response — see notes below
+or immunoglobulin S~ E 1 mg/kg once a day 3 days
+iv
+Duration of therapy:
+No response after 2 weeks - stop.
+Complete response - reduce gradually over 8-10 weeks
+Partial response; - reduce slowly and refer for alternate management.
+INTRAVENOUS IMMUNOGLOBULIN GIVEN AT 1 MG/KG DAILY FOR 3 DAYS
+WORKS
+QUICKER WHEN AVAILABLE. CONSIDER SPLENECTOMY FOR THOSE IN WHOM
+STEROIDS FAIL TO ACHIEVE ADEQUATE CONTROL OR WHO RELAPSE AFTER
+TREATMENT.
+ANTICOAGULATION
+Oral
+Medicine Codes Adult dose Frequency Duration
+warfarin po BV 10mg once a day 2 days,
+(loading dose)
+then check the INR on Day 3 and adjust
+Note: To be taken at the same time each day. Reduce loading dose in elderly
+and in-patients with renal/hepatic impairment.
+527

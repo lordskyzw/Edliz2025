@@ -1,0 +1,31 @@
+EDLIZ 2025
+Resistant hypertension
+elf BP remains above goal/poorly controlled, consider poor compliance,
+inadequate medicine doses (and optimize), drug-interactions (e.g. with NSAIDs,
+steroids, tricyclic antidepressants) and secondary causes of hypertension (esp
+renal, endocrine)
+e Refer patients with resistant hypertension for specialist care
+e The preferred fourth medicine is spironolactone, alternatives are beta blockers,
+alpha blockers, then other vasodilators such as oral hydralazine
+@ Mineralocorticoid antagonist:
+Medicine Codes Adultdose Frequency Duration
+spironolactone po B V_ 25-100mg 1-2 times a day long term
+Monitoring of potassium levels is recommended with spironolactone treatment
+e Beta-blockers
+Medicine Codes Adult dose Frequency Duration
+atenolol po BV 50mg once a day long term
+Unwanted side effects include precipitation or exacerbation of asthma, heart
+failure, impaired glucose control, fatigue and peripheral vascular disease.
+e Alpha-blockers:
+Medicine Codes Adult dos: Frequency Duration
+prazosin po B V_ 0.5-5mg 2-3timesaday long term
+or doxazocin B V_ 4-l6mg __ once daily long term
+Total cardiovascular risk reduction
+Those patients at high cardiovascular risk should be treated with a statin (for
+primary and secondary prevention), and anti-platelet therapy (for secondary
+prevention)
+Statins:
+Medicine Codes Adult dose Frequency Duration
+atorvastatin po B V_ 20-80mg once daily long term
+or rosuvastatin po B V_10-40mg once daily long term
+295

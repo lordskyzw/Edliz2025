@@ -1,0 +1,30 @@
+EDLIZ 2025
+GENERAL MEASURES
+Acute management
+e Assess airway, breathing, circulation and disability.
+e Measure blood glucose and treat hypoglycaemia if present
+e BP is often elevated in acute stroke, see BP management recommendations
+below
+e Patients should be given nil by mouth until swallowing is formally assessed.
+INVESTIGATIONS
+All patients:
+- RPR, TPHA, HIV, Fasting lipid profile, fasting plasma glucose/HBAIC, FBC,
+U+E, CXR, ECG.
+-CT brain (differentiation between haemorrhage and infarct cannot be predicted on
+the clinical grounds)
+Additional tests
+e If Pregnant- antiphospholipid antibodies
+e If HIV positive, consider LP to exclude meningitis, if not contraindicated.
+Treatment
+e Currently thrombolytic therapy is not easily accessible
+e Acute treatment:
+Medicine Codes Adult dose Frequency Duration
+aspirin po Cc V_ 150mg once daily pre-referral
+e Do not use aspirin if the patient:
+- is unconscious
+- cannot swallow or vomiting
+- is on long-term anticoagulation therapy
+- _ has signs of a subarachnoid bleed: i.e. neck stiffness, headache
+- Diastolic Blood pressure > 110mmHg
+The patient must be transferred and be treated with a thrombolytic within 3 hours
+388

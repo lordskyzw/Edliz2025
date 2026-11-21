@@ -1,0 +1,43 @@
+EDLIZ 2025
+
+RABIES
+Pre-amble
+Rabies is a preventable disease. Strategies to prevent rabies include dog
+vaccination (through the veterinary department) and human pre-or-post exposure
+vaccination.
+Human vaccination
+Vaccination for adults and older children (>Syrs) use the deltoid area while for
+younger children(<Syrs) the outer aspect of the thigh can be used. Vaccine should
+never be used in the gluteal area.
+Prevention of Rabies in Humans
+e Pre-exposure prophylaxis
+Individual pre-exposure immunisation should be offered to persons at high risk of
+exposure, such as animal handlers, veterinarians, National Parks and Wildlife
+personnel.
+
+Preferred Pre-exposure prophylaxis schedule intradermal (ID) regimen:
+
+i) 2-2* vaccination schedule
+Adal dose
+
+Rabies vaccine B V_ | 0.1m once Day 0 and 7
+
+human diploid cell (0.5 IU)
+
+intradermal (ID) in each arm
+
+*2-2: Dose and Site(s)
+Alternative Pre-exposure immunisation schedule intramuscular (IM) regimen:
+ii) 1-1 vaccination schedule
+
+Medicine Codes Adult dose Frequency Duration
+
+rabies vaccine, B V_ >2.5IU/IM dose single doses on Day 0 and 7
+
+human diploid cell
+
+im
+Give a booster every 2-3 year if serological testing is not available to monitor
+antibody titre which should be >0.51U/ml
+
+236

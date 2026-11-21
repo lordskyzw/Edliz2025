@@ -1,0 +1,25 @@
+EDLIZ 2025
+Uncomplicated malaria
+The first line treatment of uncomplicated malaria is the artemisinin combined
+therapy Artemether-lumefantrine (Co-artemether).
+Medicine Codes Dose Frequency Duration
+artemether- C V_ See table below
+lumefantrine po
+(Co-artemether) Artemether-Lumefantrine (1.5mg/12mg/kg):
+To be given as a 6-dose course of tablets twice a day for 3 days as follows:
+Weight (kg) Age (yrs) | Start After AM PM AM PM
+Dose 8hrs*
+Note:
+e *Strictly after 8 hours.
+e Parasitological proof of malaria by blood slide or rapid diagnostic test (RDT) is
+desirable whenever Artemisinin based combination is used
+e@ Tablet of Co-artemether- is a fixed dose formulation of Artemether
+20mg/Lumefantrine1 20mg.
+N.B:
+1.If the initial dose of Co-artemether is vomited within 30 minutes repeat dose.
+2.If vomiting is persistent treat as severe/complicated malaria.
+3.If no improvement within 48 hours change to the second line treatment oral
+Artesunate/amodiaquine (ASAQ).
+4.To ensure compliance it is recommended to give the STAT doses as Directly
+Observed Therapy (DOT). Review patient after 30mins.
+256

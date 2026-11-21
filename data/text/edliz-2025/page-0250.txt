@@ -1,0 +1,34 @@
+EDLIZ 2025
+HUMAN AFRICAN TRYPANOSOMIASIS
+General notes
+Human African Trypanosomiasis (HAT) is caused by the protozoa of the genus
+trypanosoma that is transmitted by the bite of tsetse fly in sub-Saharan Africa. The
+disease is also known as sleeping sickness and has been reported from remote
+areas, mainly from the game parks in Mashonaland Central, Mashonaland West
+and Matebeleland North.
+There are two forms of HAT:
+e Trypanosoma brucei rhodisiense — found in East and Southern Africa
+e Trypanosoma brucei gambiense — found mainly in Central and West Africa.
+CLINICAL PRESENTATION HAS 2 PHASES
+Acute haemolymphatic phase/First Stage: presentation is with episodic bouts of
+fever, headache, joint pains, pruritis and anorexia. An eschar, “bite site” may be
+present together with local lymphadenopathy.
+Delayed Neurological (meningo-encephalitic) phase/Second Stage: when the
+parasite crosses the blood brain barrier it causes neurological signs and symptoms
+of sleep cycle disturbance, confusion, behavioural changes and poor coordination.
+Refer all cases of Human African trypanosomiasis for specialist care. Acute
+haemolymphatic phase cases are to be referred to the two Provincial hospitals
+Chinhoyi and Bindura, for management. All cases should be referred to Sally
+Mugabe Central Hospital for further management.
+Use Fexinidazole to treat both stages of rhodesiense HAT in those aged six or
+older, and weigh 20kg or more
+Medicine Codes Adult dose Frequency Duration
+fexinidazole po A V_ loading phase once a day 4 days
+35 kg body 1800mg
+weight maintenance once a day 6 days
+phase 1200mg
+20-34 kg body loading phase once a day 4 days
+weight 1200mg
+Maintenance once a day 6 days
+phase 600mg
+248

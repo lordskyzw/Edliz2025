@@ -1,0 +1,38 @@
+EDLIZ 2025
+Exclusion criteria for TPT
+Adults and adolescents living with HIV should be screened with a clinical
+algorithm; those who do not report any one of the symptoms of current cough,
+fever, weight loss or night sweats are unlikely to have active TB and should be
+offered TPT.
+The following patients should be excluded:
+e Patients who have symptoms and signs suggestive of active TB
+Patients on treatment for TB
+e@ PLHIV who have received TPT before and are not contacts of active TB cases
+TB preventive treatment options
+The following options are recommended for the treatment of latent TB infection
+regardless of HIV status:
+e Six months of daily isoniazid
+e Three months of weekly rifapentine plus isoniazid
+e Three months of daily isoniazid plus rifampicin
+e Six months of daily levofloxacin
+Table 8.2 below details the recommended regimens for TPT in Zimbabwe
+Adults
+PLHIV on DTG based | Three months of Rifapentine | Six months of daily
+regiment and Isoniazid (3HP) Isoniazid alone (6H)
+PLHIV on TAF, PIs and | Six months of daily Isoniazid
+NVP based regimens alone (6H)
+HIV negative contacts | Three months of Rifapentine | Six months of daily
+(adults and adolescents > | and Isoniazid (3HP) Isoniazid alone (6H)
+15 years)
+Children
+CLHIV on DTG, Pls and | Six months of daily Isoniazid
+NVP based regimen alone (6H)
+HIV negative contacts | Three months of daily | Six month of daily
+(Children under 15 years) Rifampicin and Isoniazid | Isoniazid alone (6H)
+(RH)
+Special Groups
+MDR-TB Contacts Six months of daily
+Levofloxacin (6LFX)
+Pyridoxine should be prescribed in patients receiving INH based TPT especially 6H. Its
+unavailability should not be a barrier to initiate 3HP or 3RH.
+159

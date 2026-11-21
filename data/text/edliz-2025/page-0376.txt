@@ -1,0 +1,47 @@
+EDLIZ 2025
+Medicine Codes Adult dose Frequency Duration
+sulphadiazine po S E 2g 4 times aday 6 weeks
+and pyrimethamine po S E 200mg loading onceaday 6 weeks
+dose and then
+50mg
+or — clindamycin* po B E 600mg 4 times aday 6 weeks
+dose and then
+50mg
+or _co-trimoxazolepo C V_ 1920mg 3 timesaday 6 weeks
+*alternative to sulphadiazine
+Note: for dose in children see chapter on Paediatric conditions
+
+If there is no response (clinically and on CT scan), in two weeks, or if lesion
+
+appears atypical, consider anti-tuberculous treatment and neurosurgical
+
+intervention. (May need biopsy)
+
+NEUROCYSTICERCOSIS
+
+Focal seizures without fever may be caused by neuro-cysticercosis (typical CT
+
+scan appearance).
+
+Medicine Codes Adult dose Frequency Duration
+albendazole po C E 800mg twice daily 14 days
+and/ praziquantel po C E 40mg/kg once a day 14 days
+or
+add* prednisolone po B V_Img/kg once a day Review
+
+*If drowsiness, seizures or focal signs develop.
+
+Note: for dose in children see chapter on Paediatric conditions
+
+HEADACHE
+
+This may be primary or secondary:
+
+e In secondary headache or facial pain treat specifically for the underlying cause
+(e.g. meningitis, sinusitis, malaria) and use aspirin 600mg every 4 hours as
+analgesic.
+
+e Primary headache is either of tension type (muscle contraction headache),
+migraine, or a combination or atypical.
+
+374

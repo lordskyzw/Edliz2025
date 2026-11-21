@@ -1,0 +1,33 @@
+EDLIZ 2025
+Systemic Connective Tissue Diseases
+Refer all cases of chronic polyarthritis for a definitive diagnosis. This group shares
+several pathogenic and aetiological factors related to autoimmunity.
+Rheumatoid Arthritis and Juvenile Chronic Arthritis (Juvenile
+Rheumatoid Arthritis)
+To avert the erosive damage of progressive rheumatoid arthritis, early diagnosis
+and initiation of treatment with NSAIDs, Disease Modifying Anti-Rheumatic
+Medicines (DMARDs) (hydroxychloroquine or chloroquine, methotrexate and
+sulphasalazine), and low dose steroids in the presence of severe inflammation or
+vasculitis is necessary. Disease modifying medicines and biologics are the
+mainstay of treatment to minimise erosions and deformities. Biologics should
+only be prescribed by Specialists as there will be need for close monitoring of the
+patient. Screen for TB, HIV, hepatitis B and C prior to starting DMARDs.
+= Manage with:
+Medicine Codes Adult dose Frequency Duration
+ibuprofen po Cc N= 200- 3timesaday review
+400mg
+(Paed 7-14mg/kg)
+or diclofenac po BE 25-50mg 3 times a day review
+Disease modifying anti-rheumatic medicines should be started early:
+Medicine Codes Adult dose Frequency Duration
+methotrexatepo SE  5-25mg once a week review
+or hydroxychloroqui S N_  200-400mg once a day review
+nine
+or chloroquine po S N_ 150mgbase _onceaday continual/review
+Referral to an ophthalmologist is strongly advised after 9 months of
+continuous treatment with chloroquine. Eye checkups should be every 6
+months- should include visual field testing. Treatment should be discontinued
+if a patient complains of visual disturbance whilst on chloroquine.
+Methotrexate should be monitored with FBC and LFTs at 3 monthly intervals.
+If on methotrexate add
+348

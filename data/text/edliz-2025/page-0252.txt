@@ -1,0 +1,30 @@
+EDLIZ 2025
+Depending on the clinical setting and quality of available medical care, some 5—
+10% of typhoid patients may develop serious complications, the most frequent
+being intestinal haemorrhage or peritonitis due to intestinal perforation.
+Laboratory Testing
+In Zimbabwe, blood culture samples, stool/rectal swab and bone marrow aspirate
+have been used to culture for isolation of S typhi.
+Blood culture is the usual diagnostic test with a sensitivity of 90% (60% to 80%)
+in the first week of onset of fever. Stool and rectal swabs yield positive results in
+up to 40% of the cases.
+Case Management
+More than 90% of patients can be managed at home with oral antimicrobials,
+minimal nursing care, and close medical follow-up for complications or failure to
+respond to therapy.
+ANTIMICROBIAL THERAPY FOR TREATMENT OF TYPHOID FEVER
+UNCOMPLICATED TYPHOID DISEASE
+i) Susceptibility: Fully Sensitive
+Medicine Codes Adult dose Frequency Duration
+ciprofloxacin po BV 500mg twiceaday —_5-7days
+or norfloxacin po BN _ 400mg onceaday —_5-7days
+ii)Susceptibility: Multidrug Resistant
+Medicine Codes Adult dose Frequency Duration
+azithromycin po C WV = 250-—S500mg_ oncea day 7 days
+or cefixime po C V_ 500-750mg once daily 7-14days
+COMPLICATED TYPHOID DISEASE
+i) Susceptibility: Fully Sensitive
+Medicine Codes Adult dose _ Frequency Duration
+ciprofloxacinpo B  V_ 500mg twice daily 10-14days
+or norfloxacin B N_ 400mg once daily 10-14days
+250

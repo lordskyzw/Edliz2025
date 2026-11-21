@@ -1,0 +1,32 @@
+EDLIZ 2025
+Follow up as outpatient. Expect healing within 10-14 days if clean. Any burn
+unhealed within 21-28 days needs reassessment.
+Antibiotics are indicated for contaminated burns and inhalation burns.
+Medicine Codes Adult dose Frequency Duration
+benzylpenicilliniv C V  0.05MU every 6hrs reassess after
+culture
+or erythromycin po C V_ 500mg every 6hrs reassess after
+Paed = 12.5mg/kg culture
+Change regimen if indicated by culture and sensitivity tests. Gram negative
+organisms are usually implicated later, and a more appropriate blind therapy
+before results are obtained.
+LARGE SURFACE AREA BURNS
+Emergency Measures
+Reassurance is an essential part of therapy. Establish an intravenous line. For all
+adults with burns greater than 15% and children with burns greater than 10%, start:
+Medicine Codes Rate
+ringers’ lactateiv C V_ 10mls/kg/ hr for 12hrs, then reduce to 8mls /kg /hr.
+Analgesia. Do not use oral or intra-muscular route in first 36hrs unless peripheral
+circulation is re-established.
+Analgesia in adults:
+Medicine Codes Adult dose Frequency Duration
+morphine iv slow BV 2.5—5mg__ every 4hrs__ review
+increasing as required
+or pethidine im(orivin BV Img/kg every 4hrs review
+small diluted doses)
+Analgesia in children:
+Medicine Codes Paed dose Rate
+morphine iv B_ V_0.05-0.06 mg/kg __ per hour continuous iv
+infusion
+or morphine iv bolus BV 0.lmg every 2 hrs
+484

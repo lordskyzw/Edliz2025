@@ -1,0 +1,30 @@
+EDLIZ 2025
+e Monitor INR regularly, initially alternate days then increase interval gradually to
+a maximum of 8 weeks. Therapeutic range: DVT/PE = INR 2-3; Heart valve
+prosthesis = INR 3-4.5.
+e There is great individual variation in dose required (average daily dose 2.5-
+10mg).
+e Caution: medicine interactions are common and can be dangerous. Below are a
+few examples:
+Alcohol
+Chloramphenicol
+Warfarin Overdose
+e If INR 4.5-7 without haemorrhage - withhold warfarin for 1-2 days then review.
+elf INR >7 without haemorrhage - withhold warfarin and check INR daily.
+Consider giving:
+Medicine Codes Adult dose Frequency Duration
+vitamin K slow iv Cc V_ 05-1mg onceaday review
+Note: higher doses vitamin K will prevent adequate anticoagulation for up to
+2 weeks
+INR > 7 with haemorrhage give:
+Medicine Codes Adult dose Frequency Duration
+fresh frozen BV 4 units - -
+plasma
+and vitamin K iv C V 05-Img onceaday Review
+Parenteral anticoagulation.
+Unfractionated heparin is given subcutaneously or intravenously. The dose is
+dependent on the activated partial thromboplastin time ratio (aPTTR). It has a
+short half-life and needs laboratory facilities.
+Low molecular weight heparin is given subcutaneously with a fixed dose. No
+laboratory monitoring facilities are required.
+528

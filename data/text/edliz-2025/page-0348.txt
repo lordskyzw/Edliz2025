@@ -1,0 +1,33 @@
+EDLIZ 2025
+Back and neck pain
+Exclude serious pathology (fractures, neurological complications, infection)
+Acute pain:
+Medicine Codes Adult dose Frequency Duration
+aspirin po C V_ 600mg 4 times a day review
+or paracetamol po Cc N Igm 3 times a day review
+or ibuprofen po C N 200-400mg 3 times a day review
+or diclofenac po BE 25-50mg 3 times a day review
+Chronic pain:
+Use the lowest effective dose analgesia with increased dosages for flare-ups.
+GOUT (URATE CRYSTAL SYNOVITIS)
+Acute gout
+The possibility of septic arthritis should always be considered. Allopurinol should
+not be given during or within three weeks following an acute attack unless if
+patient is currently on it. Aspirin should be avoided in gout. Use:
+Medicine Codes Adult dose Frequency Duration
+diclofenac BE 25-50mg 3 times a day review
+or _ prednisolone B V_ 30-40mg once daily 3 days
+or colchicine po A N_ 0.5-lmg up to 6 timesaday 2 days
+Chronic gout
+Treat acute attacks as they occur. Stop thiazide diuretics, avoid dehydration.
+Medicine Codes Adult dose _ Frequency Duration
+allopurinol po BE 100-300mg once a day continual
+Note: Start with 100mg once a day and increase every 2 weeks by 100mg until
+300mg. 300 mg allopurinol orally once daily is the average dose, but some
+patients need more to reduce the serum uric acid to normal levels.
+Indications for allopurinol use:
+-Chronic tophaceous gout
+- 2 or more acute gout attacks per year
+-a history of kidney stones
+- chronic kidney disease (Stage 2 or higher)
+346

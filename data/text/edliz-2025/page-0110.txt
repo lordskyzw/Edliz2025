@@ -1,0 +1,29 @@
+EDLIZ 2025
+@ If>24 hours or pyrexia in labour. Early delivery should be affected:
+Medicine Codes Adult dose _ Frequency Duration
+benzylpenicilliniv C V = 2MU 6hourly until delivery
+and chloramphenicoliv BV 500mg 6hourly
+and metronidazoleiv BN 500mg 8 hourly until delivery
+Switch to oral antibiotics for 7 days after delivery:
+Medicine Codes Adult dose Frequency Duration
+amoxicillin po C V_ 500mg 3timesaday 7 days
+and metronidazolepo C V 400mg 3timesaday 7 days
+Prophylaxis for assisted vaginal delivery
+Medicine Codes Adult dose _ Frequency Duration
+benzylpenicilliniv C V o= SMU once only single dose
+or ceftriaxone iv c iV 1 gm once only single dose
+or cefuroxime iv B VV 750mg once only single dose
+and metronidazole iv BV 500mg once only single dose
+Prophylaxis for Caesarean Section
+As the patient is put on theatre trolley (30-60 minutes before surgery):
+Medicine Codes Adult dose Frequency Duration
+benzylpenicilliniv C V o= SMU once only single dose
+or ceftriaxone iv c Vv 1 gm once only single dose
+or cefuroxime iv BV 750mg once only single dose
+and metronidazoleiv B V 500mg once only single dose
+If during caesarean section, there is evidence of infection treat for a week with the
+above regime.
+Nausea and Vomiting in Pregnancy
+During the first trimester, if vomiting is not excessive, advise small frequent bland
+meals and drinks.
+108

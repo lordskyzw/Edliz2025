@@ -1,0 +1,34 @@
+EDLIZ 2025
+The initial treatment for thyrotoxicosis includes propranolol while awaiting full
+thyroid results (TSH, FT4 and FT3).
+Medicine Codes Adult dose — Frequency Duration
+propranolol po B E 40-160mg 3timesaday -
+Graves’ disease
+e@ = Treat initially with anti-thyroid medicines:
+Medicine Codes Adult dose Frequency Duration
+carbimazole po BE 20-60mg after initiating treatment refer to
+[0.5 mg/kg] specialist for titration
+CAUTION: Carbimazole induce bone marrow suppression; advise patient to
+report sore throat or other signs of infection. Stop medicine immediately if
+neutropenic. Minor rashes are not an indication to stop treatment.
+Check thyroid function at 5-6 weeks and if normalised, gradually reduce the dose
+to the lowest that will maintain euthyroidism. Continue carbimazole for one year
+from time of stabilisation. If poor response, relapse or clinically very severe, refer
+for radioiodine or surgery.
+NB: after radio-iodine therapy for Graves’ disease, long-term follow up is
+essential to detect late hypothyroidism that might otherwise remain neglected and
+untreated.
+Toxic Nodular Goitre [including toxic adenoma]
+@ Where available Radioiodine at the appropriate centre is recommended, particularly
+in older patients and those with other medical problems.
+© Surgery is particularly suitable for those with a large goitre. As radioiodine may take
+three months or longer to produce a clinical effect, propranolol may be continued
+uninterrupted and carbimazole may be restarted. Patients must be rendered euthyroid
+prior to thyroidectomy by use of anti-thyroid medicines.
+@ Aqueous iodine oral solution may be administered for 10-14 days before
+thyroidectomy:
+Medicine Codes Adult dose Frequency Duration
+Aq. iodine solution A N 0.1 — 0.3ml 3 times a 10-14 days before
+(Lugol’s iodine) diluted in day surgery
+130mg iodine/ml milk
+369

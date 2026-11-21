@@ -1,0 +1,30 @@
+EDLIZ 2025
+LOCAL ANAESTHETIC AGENTS
+These are used for local infiltration or regional analgesia
+Lignocaine
+Medicine Codes Adult dose Frequency Duration
+lignocaine C V_ 3mg/kg without adrenaline
+hydrochloride 7mg/kg with adrenaline
+Inj
+Rapid onset. Duration of action 30-90mins. Action prolonged by adrenaline
+Caution
+e Use of adrenaline containing solutions should be avoided for areas with end
+arteries eg toes, finger and penis
+Bupivacaine
+Medicine Codes Adult dose Frequency Duration
+bupivacaine A E_—_2mg/kg local infiltration — 22-6hrs
+hydrochloride Inj For Epidural infusion follow local
+protocols
+Slower onset than lignocaine.
+Caution
+e Causes cardiotoxicity when accidentally given intravenously
+@ Initiate Local anaesthetic systemic toxicity treatment protocol
+Medicines Used in Shock
+Shock could be caused by the following:
+e Acute pump failure — myocardial infarction, arrhythmias, valve rupture
+e Volume loss (hypovolaemia) —haemorrhage, dehydration
+e Loss of vascular tone- septic shock, neurogenic shock, endocrine failure,
+anaphylactic shock
+It is important to make an accurate aetiologic diagnosis for appropriate treatment.
+Ideally CVP monitoring is required.
+583

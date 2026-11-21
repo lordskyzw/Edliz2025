@@ -1,0 +1,33 @@
+EDLIZ 2025
+In the case of diabetic patients on oral agents, stop the oral medicines and
+commence Basal Bolus Regimen.
+If NIL BY MOUTH
+@ Basal: 50% of Total daily dose insulin (TDDI)
+e Long-acting insulin at bedtime or morning
+e@ Or Intermediate insulin twice a day (50/50 or 2/3 am and 1/3 pm)
+e@ Or Insulin INFUSION (preferred if prolonged NPO, ICU or ketosis prone)
+@ Correction
+e Rapid acting insulin sc every 4 hours
+e Or Regular insulin sc every 6 hours
+e check blood sugar - if less than 5 mmol/L set up 5% dextrose infusion to run
+slowly,
+e Do hourly sugar checking intraoperatively
+e check blood sugar post-operatively and if nil per mouth administer Basal and
+Correction Insulin only.
+Hyperglycaemic Coma & Pre-coma (Adults)
+e Pass a nasogastric tube and allow free drainage in the unconscious or
+semiconscious patient. Search for and treat infections promptly.
+FLUID REPLACEMENT (ADULTS)
+e Diabetic Ketoacidosis DKA- always give insulin first at 0.1 units per kg
+followed by fluids.
+e Hyperosmolar hyperglycaemic state (HHS)- always give fluids first followed by
+insulin at 0.05 units per kg per hour
+@ Sodium chloride 0.9% is the recommended fluid (Ringers lactate can be used as
+well); as much as 8 litres may be required in 24 hours: The schedule given is a
+guide. Be flexible
+sodium chloride 0.9% iv) C | V | first litre over | hour
+infusion second litre over 2 hours
+third litre over 4 hours
+fourth litre over 6 hours
+fifth litre over 8 hours
+363

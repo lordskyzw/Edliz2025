@@ -1,0 +1,37 @@
+EDLIZ 2025
+For oedematous and bed-ridden patients:
+Medicine Codes Adult dose Frequency Duration
+enoxaparin B_ V_ 40-80mg once daily as required
+or heparin sc B_ V__ 5000 units 3timesaday as required
+Acute pulmonary oedema:
+e@ Prop up in bed.
+e@ 40% oxygen by mask (2 — 4L/min)
+e and:
+Medicine Codes Adult dose Frequency Duration
+morphine iv BE 5-10mg slowly over 1-2 mins;
+
+Repeat every 15mins if required.
+plus metoclopramide iv B E 10mg when required for vomiting
+plus frusemide iv B V_ 40-80mg repeat as required
+
+e Subsequent treatment includes ACE inhibitors as for heart failure.
+ANGINA PECTORIS
+Change in lifestyle measures. Minimise risk factors with particular attention to:
+e cessation of smoking
+e weight reduction if obese
+e control of hypertension
+e control of hypercholesterolaemia
+e control of diabetes
+@ encouragement of exercise
+e@ minimise stressful lifestyle
+Stable angina/ infrequent attacks:
+Medicine Codes Adult dose Frequency Duration
+aspirin po! C V_ 75-150mg once a day long term
+and — glyceryl trinitrate AE  500mcg not more than 3 tablets every 15
+sub-lingual’ mins
+and atorvastatin po B_ V_ 20-80mg once daily long term
+or rosuvastatin po B_ V_ 10-40mg once daily long term
+‘aspirin is contraindicated in bleeding peptic ulcers
+*glyceryl trinitrate deteriorates on storage - tablets should be kept in original
+container and discarded 3 months after opening.
+299

@@ -1,0 +1,41 @@
+EDLIZ 2025
+N
+Nalidixic acid — 81, 104
+Naloxone — 60, 556
+Naloxone neonatal — 46
+Nicardipine IV > 297
+Nicotinamide > 163, 475
+Nifedipine > 112, 113, 293, 294
+Nitrazepam — 124
+Nitrofurantoin > 213
+Norfloxacin > 104, 250
+Nystatin — 60, 448, 487
+Nystatin pessary > 131
+oO
+Ofloxacin > 445
+Olopatadine > 438
+Omeprazole > 314, 316, 334, 337
+Opioids > 125
+Oral hypoglycaemics > 125
+Oxytocin infusion > 107, 111, 117, 118
+Oxybuprocaine — 445
+P
+Paracetamol — 66, 68, 73, 176, 209, 213, 375, 440, 464, 483, 491, 496
+Penicillin procaine > 60
+Pethidine — 116
+Phenobarbitone — 52, 60, 125, 213, 378
+Phenobarbitone IV — 54, 342, 379, 396
+Phenytoin > 61, 125
+Phenytoin IV — 54, 396
+Podophyllin — 125
+Podophyllin paint > 140
+Podophyllotoxin > 140
+Potassium chloride > 298, 364
+Povidone iodine topical > 177
+Praziquantel > 125, 239, 241
+Prednisolone — 70, 125, 139, 167, 213, 240, 241, 246, 247, 273, 307, 338, 349, 350,
+374, 495, 498
+Primaquine — 167, 273, 521
+Prochlorperazine — 109, 494, 553, 580
+
+667

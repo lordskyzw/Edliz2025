@@ -1,0 +1,27 @@
+EDLIZ 2025
+1. If the child has no complications, give amoxicillin orally
+Medicine Codes Child Dose Frequency Duration
+amoxicillin po Cc Vv 15mg/kg 8 hourly 5 days
+2. If the child is severely ill (apathetic, lethargic) or has complications
+(hypoglycaemia, hypothermia, raw skin/fissures, respiratory tract or urinary tract
+infection) give iv/im ampicillin AND gentamicin.
+= If seriously unwell give ampicillin and gentamicin. If condition less severe,
+consider oral broad-spectrum antibiotics (amoxicillin).
+Medicine Codes Child Dose (kg/feed) Frequency Duration
+ampicillin im/iv C V_ 50mg/kg 6hourly 2 days
+then amoxicillin po* C V_ 15mg/kg S8hourly 5 days
+and gentamicin im/iv C V_ 7.5mg/kg once daily 7 days
+Give benzylpenicillin if ampicillin is not available. If the child fails to improve after 48
+hours or if sepsis/septic shock are present give:
+or ceftriaxone im/iv 50mg/kg once daily 5 days
+and cefuroxime im/iv BN __ 10-20 mg/k; 8-12 5 days
+eiks hourly ays
+ciprofloxacin po V_ 25-50 mg/kg 12 hourly 5 days
+If the child has suspected staphylococcal infection
+add cloxacillin iv B V__ 25-50mg/kg 6 hourly 7 days
+If the child has chronic diarrhoea
+. Cc
+add metronidazole po Vv 7.5mg/kg S8hourly 7 days
+* Tf amoxicillin is not available continue with ampicillin but give orally S0mg/kg every 6
+hours
+85

@@ -1,0 +1,29 @@
+EDLIZ 2025
+For an initial diagnosis of ARF, 2 major or 1 major and 2 minor criteria are
+required. For recurrent ARF, 2 major or I major with 2 minor or 3 minor criteria
+are required.
+Medicine Codes _ Paeds dose Frequency Duration
+benzathine C Ve <5 yrs =0.15MU(0.18g) .
+penicillin im 5-10 yrs= 0.3MU(0.36g) once dose single
+1.44g = 1.2MU >10 yrs=0.6MU(0.72g) ly dose
+or amoxycillinpo C V <5 yrs=125mg 3 times
+5-10 yrs=250mg 4 times 2 10 days
+>10 yrs=500mg ““™
+or erythromycin’ C V <5 yrs=125mg 4timesa 10 days
+po - in 5-10 yrs=250mg day
+penicillin >10 yrs=500mg
+allergy
+Treatment of acute arthritis and carditis:
+Medicine Codes Adult dose Frequency Duration
+ibuprofen po C V_ 5-10 mg/kg* 3timesaday as required
+*dose should be reduced if tinnitus or other toxic symptoms develop.
+Infective Endocarditis:
+Consult a microbiologist where possible. Alpha-haemolytic streptococci are the
+most common causes of native valve endocarditis. Staphylococcus aureus are more
+likely if the disease is rapidly progressing with high fever. Conclusive blood
+culture results are required before starting treatment and subsequent blood cultures
+should be done so as to guide treatment using the appropriate antibiotics according
+to the sensitivity patterns.
+Good dental hygiene is an important preventative measure for infective
+endocarditis.
+312

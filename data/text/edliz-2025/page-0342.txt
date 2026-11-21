@@ -1,0 +1,29 @@
+EDLIZ 2025
+In children >3 months but with upper tract UTI (pyelonephritis). Treat with:
+Medicine Codes Paed dose Freq.
+amoxicillin B Vv 20-30 12 7 to 10
+/clavulanic acid po mg/kg hourly days
+or cefuroxime po B E 10-15 12 7 to 10
+mg/kg hourly days
+If vomiting treat with iv antibiotics for at least 2 to 4 days, then oral
+antibiotics for total of 7 to 10 days:
+Medicine Codes Paed dose Freq. Duration
+ceftriaxone iv C V_ 50mg/kg daily at least 3 days
+or amoxicillin B N_ 20-30 12 7 to 10 days
+/clavulanic acid po mg/kg hourly
+If child >3 months with lower urinary tract symptoms treat with oral antibiotics for
+3 days.
+Refer all children with atypical UTI:
+e Seriously ill child
+e Poor urine flow
+e Abdominal or bladder mass
+e Raised plasma creatinine level
+e Septicaemia
+e Failure to respond to treatment within 48 hours
+e Non-E. coli UTI
+PRESCRIBING IN RENAL IMPAIRMENT / RENAL FAILURE
+Avoid medicines that are eliminated via the kidneys or reduce the dose of the
+medicine if no alternative available. Check renal function before prescribing any
+drug that requires dose adjustment in renal impairment. Estimate the GFR
+(creatinine clearance) using the electronic calculator on your phone e.g. CKD-EPI
+340

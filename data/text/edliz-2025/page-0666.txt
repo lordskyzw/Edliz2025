@@ -1,0 +1,43 @@
+EDLIZ 2025
+Betamethasone — 444, 451
+Bisacodyl — 124, 493
+Bisoprolol — 298, 303
+Budesonide—formoterol — 282, 283, 288, 289
+Cc
+Caffeine citrate (IV) > 56
+Calamine topical > 177
+Calcium chloride > 58
+Calcium gluconate > 58
+Captopril — 250, 309, 322, 342
+Carbamazepine — 177, 378, 392, 409, 430
+Carbimazole — 124, 369
+Cefixime — 128, 129, 131, 251, 593, 594
+Ceftriaxone > 251, 274, 593, 594
+Cefuroxime — 85, 108
+Chloramphenicol — 31, 32, 51, 58, 71, 108, 124, 210, 243, 438, 441, 442, 457
+Chlorpheniramine — 109
+Chlorpromazine — 211, 385, 404, 563
+Ciprofloxacin — 81, 85, 104, 106, 119, 124, 135, 163, 251, 318, 321
+Clavulanic acid > 104, 275
+Clindamycin — 58, 130, 167, 211, 259, 273, 275, 306
+Clofazimine — 233, 244, 245, 247
+Clopidogrel > 29
+Clotrimazole — 131
+Clotrimazole pessary > 105
+Cloxacillin + 50, 58, 71, 72, 85, 211, 275, 304, 345, 466, 467, 468
+Codeine phosphate — 162, 211, 392, 483, 492, 496
+Co-trimoxazole — 59, 65, 124, 137, 157, 166, 167, 208, 209, 211, 273, 374
+Cycloserine > 233
+D
+Daclatasvir > 151
+Dapsone — 157, 244, 245, 521
+Dapagliflozin > 298
+Delamanid — 233
+Dexamethasone — 59, 444, 457, 463, 494, 495
+Dexmedetomidine IV — 578
+Diazepam — 52, 59, 124, 211, 379, 384, 411, 414, 455, 498, 553
+Digoxin — 59, 211, 298
+Dihydralazine IV > 297
+Doxazosin > 295
+
+664

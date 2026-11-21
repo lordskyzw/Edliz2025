@@ -1,0 +1,34 @@
+EDLIZ 2025
+broad-spectrum anthelmintic. Note also that treatment of bilharzia with
+praziquantel would also have eliminated roundworms.
+Caution: Safety in pregnancy has not been established for albendazole; do NOT
+use in the first trimester of pregnancy. In most cases, treatment can be given
+AFTER delivery.
+» All Roundworms except Strongyloides
+Medicine Codes Adult dose Frequency Duration
+albendazole po C E 400mg one dose only
+<2yrs = 200mg
+«= Tapeworm and Strongyloides
+Medicine Codes Adult dose Frequency Duration
+albendazole po C E 400mg once a day 3 days*
+<2yrs = 200mg
+*Note: If not cured after 3 weeks, repeat the course.
+* Cutaneous larva migrans (“sandworm”)
+Medicine Codes Adult dose Frequency Duration
+albendazole po Cc CE 400mg once a day 7 days
+<2yrs=200mg
+«  Cysticercosis and Neurocysticercosis
+Specialist inpatient treatment is required.
+Medicine Codes Adult dose Frequency Duration
+praziquantel po CE _ I7mg/kg 3 times a day 15 days
+and prednisolone po BV 15mg 2 times a day 18 days*
+* Note: prednisolone therapy must start 2-3 days before praziquantel.
+« Hydatid Disease
+Refer to central hospital. Serological confirmation is required before treatment
+commenced.
+Do not aspirate the cysts. Surgery is the treatment of choice. If inoperable:
+Medicine Codes Adult dose Frequency Duration
+Albendazole po C E 3mg/kg 3 times aday 30 days, then
+wait 15 days (medicine free). Then repeat the cycle 4 times.
+Monitor progress with ultrasound.
+241

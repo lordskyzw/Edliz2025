@@ -1,0 +1,36 @@
+EDLIZ 2025
+e Measure the pulse, respiratory rate,
+e Auscultation of the chest (assess wheezes). Measure lung function by peak
+flow or spirometer (PEF or FEV) and arterial blood gases if available).
+2. Grade the asthma according to severity (mild, moderate, severe or imminent
+respiratory arrest)
+3. Use medicines and interventions that are appropriate to degree of severity.
+Humidified oxygen by mask at high concentration (6 litres/min) is important.
+Give:
+Medicine Codes Adult dose Frequency Duration
+salbutamol nebulised (in BV = Smg repeat at % - 1 hr intervals,
+saline or sterile water) then every 2-4 hours until
+recovered
++/- ipratropium inhaler A V_ 500meg
+and oxygen BV 6 litres/min
+or adrenaline 1:1000 se Cc V_05ml 1-2 hourly as required
+useful when no nebuliser available
+and prednisolone po BV 40mg once a day 5 days
+(mornings)
+in all but the mildest cases
+1.Note: There is no need to taper the dose of prednisolone if the duration is not
+more than 14 days
+2.If poor response to initial nebuliser therapy, SpO2 not improving, risk of near
+fatal asthma or attack severe admit to HDU/ICU and add:
+Medicine Codes Adult dose Frequency Duration
+hydrocortisone iv Cc V_— 200mg once only
+magnesium sulphate iv Cc V_ 12-2g slow iv over 20-30mins once
+Consider ventilation in severe cases.
+Criteria for ICU admission:
+e Patient getting tired
+e Confusion, drowsiness
+e Rising pCO. >45mmHg
+e Persistent hypoxia < 60mmHg
+Inability to complete short sentences
+@ Acidosis
+284

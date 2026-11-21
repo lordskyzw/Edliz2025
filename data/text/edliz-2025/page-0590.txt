@@ -1,0 +1,35 @@
+EDLIZ 2025
+Beta Blockers
+Medicine Codes Dose onset Duration
+labetalolIV BV 20 mg IVI stat over 2 mins,
+then 10-80 mg IVI every
+labetalol ten minutes until desired
+continuous BP level achieved
+infusion
+2mg IVI per minute by
+continuous IV infusion
+*Total dose should not
+exceed 300 mg
+or — esmolol IV BV 10-50mcg/kg/min infusion
+Hydrallazine
+e Direct acting vasodilator
+Medicine Codes Dose onset Duration
+hydralazine iv/im BV 5-10mg every 20-30 mins
+BP should be measured every 5-10 minutes
+Parenteral anti-hypertensives should be used under specialist supervision and
+where facilities for continuous BP monitoring are available
+Oxytocin guidelines during a caesarean section
+All Caesarean section cases:
+1) Small dose ivi oxytocin (e.g. 2.5 iu) over 30 seconds after delivery of the baby
+and confirming with obstetrician no second baby present
+2) Dose to be repeated at 3 minutes if no adequate contraction
+3) Oxytocin induced hypotension can be counteracted with ivi phenylephrine (50
+to 100 mcg) bolus (preceding oxytocin may be beneficial if initial concerns
+abouteffects of vasodilation)
+4) Immediate initiation of an infusion of oxytocin and to continue for at least eight
+hours. (20 units of oxytocin/1000 mls over eight hours)
+High risk cases:
+e Prolonged augmented labour (oxytocin resistance)
+e Preoperative anaemia
+e Prolonged labour: esp. long 2nd stage
+588

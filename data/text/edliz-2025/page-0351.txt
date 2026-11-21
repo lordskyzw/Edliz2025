@@ -1,0 +1,27 @@
+EDLIZ 2025
+Medicine Codes Adult dose Frequency Duration
+folate po B V_ 5-10mg 2-3 times per week review
+*Give folate 5-10mg 2-3 times per week with the methotrexate- give folate on
+a different day when not taking methotrexate.
+Assess disease activity using a Clinical Disease Activity score at 3 monthly
+visits to determine if the methotrexate dose needs to be increased.
+@ Oral, low maintenance dose prednisolone can be added where indicated for a
+limited period:
+Medicine Codes Adultdose Frequency Duration
+prednisolone po B V_ 5-10mg once a day limited period
+(2-3 months)*
+or methylprednisol A V_  40-80mg once only(stat)
+one iv IM
+Note: Best results are achieved with combination of medicines.
+*Prednisolone is used for a while whilst waiting for the DMRARDs e.g.
+methotrexate or hydroxychloroquine to start working.
+SYSTEMIC LUPUS ERYTHEMATOSUS (SLE)
+Refer to a higher level for diagnosis and initial treatment. There will be need to
+exclude other organ involvement e.g. renal disease. Sun-exposure should be
+avoided as much as possible by using broad-brimmed hats and umbrellas.
+@ If severe skin or joint lesions, add:
+Medicine Codes Adult dose Frequency _ Duration
+hydroxychloroquine S E 400mg onceaday —_continual/ review
+po
+or chloroquine S E 300mg onceaday —_continual/review
+349

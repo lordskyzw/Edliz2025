@@ -1,0 +1,34 @@
+EDLIZ 2025
+Sedatives
+Diazepam (sedative)
+Indications:
+e Anxiolysis and sedation with amnesia: 5-10mg orally 1-2hrs before surgery, or
+0.2mg/kg slow iv (adults and children over 8yrs)
+Medicine Codes Dose Onset Duration
+diazepam iv/po B V_ 5-10mg po
+0.2mg/kg slow iv
+Caution
+@ May cause circulatory depression
+@ May cause respiratory depression
+Midazolam
+Medicine Codes Dose Onset Duration
+midazolam po B E_ 7.5 -15mg Less than 10 2-6 hours
+minutes
+or midazolampo B E_ 0.25-0.75mg/kg
+Chidren <6years
+0.3-0.4mg/kg
+children >6years
+or midazolamiv B V_ 0.025-—0.lmg/kg 30 -60seconds 15 — 80 minutes
+or midazolam B V_1-15mg/hr 30-60 seconds
+(ICU sedation)
+Indications:
+e Premedication (oral or IV)
+e Adjunct to general anaesthesia
+© Conscious sedation and sedation in ICU
+Caution:
+e Causes respiratory depression when used in conjunction with opiods and other
+sedatives
+e Contraindicated with acute angle glaucoma or open angle glaucoma unless
+patients are receiving appropriate therapy
+e Care in elderly and COAD patients
+577

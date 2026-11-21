@@ -1,0 +1,29 @@
+EDLIZ 2025
+Use a separate syringe and needle for each dose; store vials at 4-8°C after
+reconstitution and use as soon as possible. Opened vials should be used within 6-8
+hours
+Use of Human Rabies Immunoglobin (RIG) for passive immunization
+e In case of category III exposure, human RIG should be infiltrated at the wound
+site after thorough washing with soap and water or with betadine.
+Medicine Codes Adult dose Frequency Duration
+human rabies B- V_ 101U/kg once only -
+immunoglobulin
+(RIG)
+(instilled and infiltrated locally around the wound)
+and human rabies B- V_ 101U/kg once only -
+immunoglobulin im
+(gluteal)
+Notes
+e In case of bite from domestic animal WITH LAPSED immunisation against
+rabies
+> Follow the above recommended vaccination schedule, but without giving
+immunoglobulin.
+e In previously vaccinated individuals give one site intradermal (ID) or one-site
+intramuscular (IM) vaccine on day 0,3 only
+e Rabies vaccines labelled for IM use can be used safely via the ID route, even if
+this constitutes off-label use
+ein the case of exposure to confirmed rabid animals vaccine should be given
+regardless of the time since exposure even years afterwards
+e A change in route of administration during PEP or PreP is acceptable if such a
+change is unavoidable.
+238

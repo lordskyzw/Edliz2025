@@ -1,0 +1,35 @@
+EDLIZ 2025
+Suxamethonium Chloride (depolarising)
+Given by the IV route, suxamethonium produces fasciculations followed by
+flaccid paralysis.
+Medicine Codes Dose Onset Duration
+suxamethonium chloride B V_ 0.5-1.5mgperkg <30secs up to Smin
+iv
+Ave. for intubation: Img/kg
+Indications
+e Laryngoscopy and intubation
+e Rapid Sequence Intubation
+e Muscle relaxation of short duration
+Contra-indications:
+@ Moderate/severe burns
+e Hyper/Hypokalaemia
+e Crush injuries
+e Spinal cord transaction e.g. paraplegia or quadriplegia
+e Division of a major nerve e.g. sciatic, brachial plexus
+e Tetanus
+e History of malignant hyperthermia
+e Suxamethonium apnoea
+Caution
+e Repeat doses will cause bradycardia; this can be prevented by giving atropine
+(10-20 micrograms/kg body weight intravenously).
+Atracurium Besylate (non-depolarising)
+An intermediate acting benzylsoquinolium non-depolarizing muscle relaxant that
+undergoes Hofmann elimination and non-specific enzymatic ester hydrolysis. It is
+thus safe to use in patients with significant renal or hepatic failure.
+Medicine Codes Dose Onset Duration
+atracurium besylate iv B V_ 0.3-0.6 mg per 3-5mins 30-40mins
+kg
+maintenance dose infusion 0.1-0.2mg/kg As required
+0.3-
+0.6mg/kg/hr
+573
