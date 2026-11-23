@@ -87,6 +87,21 @@ Two views share the main column, deep-linkable as `/#ask` and `/#list`.
   terms visible in the text, is what makes an answer checkable. That is why the
   drawer, not the chat bubble, is the most important screen.
 
+## Windows: double-click, no terminal
+
+1. On the repo page, **Code → Download ZIP**, then unzip it.
+2. Double-click **`Setup.cmd`**.
+3. Wait. It checks for Python (offering to install it), creates the environment,
+   sets up a free local model, builds the search index, starts the app and opens
+   your browser at `http://127.0.0.1:8077`.
+
+The first run downloads about 1.5 GB of model files, so use Wi-Fi. If you would
+rather use an API key than a local model, `Setup.cmd` asks — answer `y` and
+paste it.
+
+To stop the app, close the small server window. To start it again later, run
+`Setup.cmd` once more; it skips everything it has already done.
+
 ## Quick start
 
 ```bash
@@ -227,6 +242,11 @@ Run against the 2025 corpus on this machine:
 - **Single node, single user.** SQLite, in-process vector search, no auth. Fine
   for a demonstration; not a deployment.
 - 17 pages are covers or plates and carry almost no text.
+- **The Windows setup script is only partly exercised.** Its logic was run
+  end-to-end under PowerShell 7 on macOS (against a stub model server, including
+  the index build and the server health check), but the Windows-only branches —
+  the `py` launcher, `winget` installing Python, and `%LOCALAPPDATA%` Ollama
+  detection — have not run on a Windows machine.
 
 ## Safety framing
 
